@@ -1,0 +1,960 @@
+<OpEpisodes>
+  <OpEpisode Key="0" Rank="24,129" Trend="18" Season="1" Episode="1" Name="I'm Luffy! The Man Who Will Become the Pirate King!" Total_votes="647" Average_rating="7,6" />
+  <OpEpisode Key="1" Rank="29,290" Trend="11" Season="1" Episode="2" Name="The Great Swordsman Appears! Pirate Hunter, Roronoa Zoro" Total_votes="473" Average_rating="7,8" />
+  <OpEpisode Key="2" Rank="32,043" Trend="7" Season="1" Episode="3" Name="Morgan vs. Luffy! Who's This Beautiful Young Girl?" Total_votes="428" Average_rating="7,7" />
+  <OpEpisode Key="3" Rank="28,818" Trend="8" Season="1" Episode="4" Name="Luffy's Past! The Red-haired Shanks Appears!" Total_votes="449" Average_rating="8,1" />
+  <OpEpisode Key="4" Rank="37,113" Trend="4" Season="1" Episode="5" Name="Fear, Mysterious Power! Pirate Clown Captain Buggy!" Total_votes="370" Average_rating="7,5" />
+  <OpEpisode Key="5" Rank="36,209" Trend="4" Season="1" Episode="6" Name="Desperate Situation! Beast Tamer Mohji vs. Luffy!" Total_votes="364" Average_rating="7,7" />
+  <OpEpisode Key="6" Rank="37,648" Trend="4" Season="1" Episode="7" Name="Sozetsu Ketto! Kengo Zoro VS Kyokugei no Kabaji!" Total_votes="344" Average_rating="7,7" />
+  <OpEpisode Key="7" Rank="38,371" Trend="6" Season="1" Episode="8" Name="Shousha wa docchi? Akuma no mi no nouryoku taiketsu!" Total_votes="335" Average_rating="7,7" />
+  <OpEpisode Key="8" Rank="42,249" Trend="5" Season="1" Episode="9" Name="Seigi no usotsuki? Kyaputen Usoppu" Total_votes="327" Average_rating="7,3" />
+  <OpEpisode Key="9" Rank="41,829" Trend="4" Season="1" Episode="10" Name="Chijou saikyou no hen na yatsu! Saiminjutsushi Jango" Total_votes="314" Average_rating="7,5" />
+  <OpEpisode Key="10" Rank="43,039" Trend="4" Season="1" Episode="11" Name="Inbou o abake! Kaizoku shitsuji Kyaputen Kuro" Total_votes="310" Average_rating="7,4" />
+  <OpEpisode Key="11" Rank="40,540" Trend="3" Season="1" Episode="12" Name="Gekitotsu! Kuroneko kaizokudan sakamichi no daikoubou!" Total_votes="303" Average_rating="7,8" />
+  <OpEpisode Key="12" Rank="41,379" Trend="2" Season="1" Episode="13" Name="Kyoufu no futarigumi! Ny\u00e2ban kyoudai vs Zoro" Total_votes="295" Average_rating="7,8" />
+  <OpEpisode Key="13" Rank="42,445" Trend="2" Season="1" Episode="14" Name="Rufi fukkatsu! Kaya ojousama no kesshi no taikou" Total_votes="292" Average_rating="7,7" />
+  <OpEpisode Key="14" Rank="44,849" Trend="2" Season="1" Episode="15" Name="Kuro o taose! Otoko Usoppu namida no ketsui!" Total_votes="286" Average_rating="7,5" />
+  <OpEpisode Key="15" Rank="43,088" Trend="2" Season="1" Episode="16" Name="Kaya o mamore! Usoppu kaizokudan daikatsuyaku!" Total_votes="286" Average_rating="7,7" />
+  <OpEpisode Key="16" Rank="39,004" Trend="2" Season="1" Episode="17" Name="Ikari bakuhatsu! Kuro vs Rufi kecchaku no yukue!" Total_votes="296" Average_rating="8,1" />
+  <OpEpisode Key="17" Rank="49,802" Trend="2" Season="1" Episode="18" Name="Anta ga chunjuu! Gaimon to kimyou na nakama" Total_votes="278" Average_rating="7,1" />
+  <OpEpisode Key="18" Rank="34,100" Trend="2" Season="1" Episode="19" Name="Santouryuu no kako! Zoro to Kuina no chikai!" Total_votes="324" Average_rating="8,5" />
+  <OpEpisode Key="19" Rank="43,896" Trend="3" Season="1" Episode="20" Name="Meibutsu kokku! Kaijou resutoran no Sanji" Total_votes="279" Average_rating="7,7" />
+  <OpEpisode Key="20" Rank="46,335" Trend="2" Season="1" Episode="21" Name="Manukarezaru kyaku! Sanji no meshi to Gin on" Total_votes="267" Average_rating="7,6" />
+  <OpEpisode Key="21" Rank="47,298" Trend="1" Season="1" Episode="22" Name="Saikyou no kaizoku kantai! Teitoku Don Kur\u00eeku" Total_votes="260" Average_rating="7,6" />
+  <OpEpisode Key="22" Rank="46,758" Trend="2" Season="1" Episode="23" Name="Mamore Baratie! Daikaizoku akaashi no Zefu" Total_votes="257" Average_rating="7,7" />
+  <OpEpisode Key="23" Rank="31,727" Trend="4" Season="1" Episode="24" Name="Tama no me no Mih\u00f4ku! Kenzoku Zoro umi ni chiru" Total_votes="340" Average_rating="8,7" />
+  <OpEpisode Key="24" Rank="47,862" Trend="1" Season="1" Episode="25" Name="Hissatsu ashiwaza sakuretsu! Sanji vs Teppeki no P\u00e2ru" Total_votes="256" Average_rating="7,6" />
+  <OpEpisode Key="25" Rank="40,558" Trend="1" Season="1" Episode="26" Name="Zefu to Sanji no yume Maboroshi no \u00f4ru bur\u00fb" Total_votes="274" Average_rating="8,2" />
+  <OpEpisode Key="26" Rank="47,734" Trend="1" Season="1" Episode="27" Name="Reitetsu hijou no kijin Kaizoku kantai soutaichou Gin" Total_votes="257" Average_rating="7,6" />
+  <OpEpisode Key="27" Rank="47,488" Trend="1" Season="1" Episode="28" Name="Shinaneeyo! Gekitou Rufi vs Kur\u00eeku!" Total_votes="252" Average_rating="7,7" />
+  <OpEpisode Key="28" Rank="46,967" Trend="1" Season="1" Episode="29" Name="Shitou no Ketchaku! Hara ni Kukutta Ippon no Yari!" Total_votes="249" Average_rating="7,8" />
+  <OpEpisode Key="29" Rank="41,958" Trend="1" Season="1" Episode="30" Name="Tabidachi! Umi no kokku wa Rufi to tomoni" Total_votes="268" Average_rating="8,1" />
+  <OpEpisode Key="30" Rank="50,657" Trend="1" Season="1" Episode="31" Name="Higashi no Umi Saiaku no Otoko! Gyojin Kaizoku Arlong!" Total_votes="237" Average_rating="7,6" />
+  <OpEpisode Key="31" Rank="49,842" Trend="1" Season="1" Episode="32" Name="Cocoyashi Mura no Majo! Arlong no Onna Kanbu" Total_votes="236" Average_rating="7,7" />
+  <OpEpisode Key="32" Rank="46,129" Trend="3" Season="1" Episode="33" Name="Usopp Shisu?! Luffy Jouriku wa Mada?" Total_votes="255" Average_rating="7,8" />
+  <OpEpisode Key="33" Rank="50,646" Trend="1" Season="1" Episode="34" Name="Zen'in Shuuketsu! Usopp ga Kataru Nami no Shinjitsu" Total_votes="250" Average_rating="7,4" />
+  <OpEpisode Key="34" Rank="45,379" Trend="1" Season="1" Episode="35" Name="Himerareta Kako! Onna Senshi Bell-mere!" Total_votes="254" Average_rating="7,9" />
+  <OpEpisode Key="35" Rank="39,506" Trend="1" Season="1" Episode="36" Name="Ikinuke! Haha Bellemere to Nami no Kizuna!" Total_votes="277" Average_rating="8,3" />
+  <OpEpisode Key="36" Rank="34,101" Trend="5" Season="1" Episode="37" Name="Luffy Tatsu! Uragirareta Yakusoku no Ketsumatsu!" Total_votes="324" Average_rating="8,5" />
+  <OpEpisode Key="37" Rank="42,865" Trend="1" Season="1" Episode="38" Name="Luffy Dai Pinch! Gyojin Tai Luffy Kaizokudan" Total_votes="254" Average_rating="8,2" />
+  <OpEpisode Key="38" Rank="45,187" Trend="1" Season="1" Episode="39" Name="Luffy Suibotsu! Zoro vs Tako no Hacchan" Total_votes="249" Average_rating="8" />
+  <OpEpisode Key="39" Rank="45,338" Trend="1" Season="1" Episode="40" Name="Hokoritakaki Senshi! Gekitou Sanji to Usopp" Total_votes="248" Average_rating="8" />
+  <OpEpisode Key="40" Rank="45,188" Trend="1" Season="1" Episode="41" Name="Luffy Zenkai! Nami no Ketsui to Mugiwara Boushi" Total_votes="249" Average_rating="8" />
+  <OpEpisode Key="41" Rank="46,373" Trend="1" Season="1" Episode="42" Name="Sakuretsu! Gyojin Arlong Umi kara no Moukougeki!" Total_votes="247" Average_rating="7,9" />
+  <OpEpisode Key="42" Rank="39,813" Trend="1" Season="1" Episode="43" Name="Gyojin Teikoku no Owari! Nami wa Ore no Nakama Da!" Total_votes="281" Average_rating="8,2" />
+  <OpEpisode Key="43" Rank="48,508" Trend="1" Season="1" Episode="44" Name="Egao no Tabidachi! Saraba Furusato Cocoyashi Mura" Total_votes="245" Average_rating="7,7" />
+  <OpEpisode Key="44" Rank="50,957" Trend="1" Season="1" Episode="45" Name="Joukinkubi! Mugiwara no Luffy Yo ni Shirewataru" Total_votes="235" Average_rating="7,6" />
+  <OpEpisode Key="45" Rank="65,155" Trend="2" Season="1" Episode="46" Name="Mugiwara o Oe! Chiisana Buggy no Daibouken" Total_votes="245" Average_rating="6,3" />
+  <OpEpisode Key="46" Rank="64,435" Trend="2" Season="1" Episode="47" Name="Omachikane! Aa Fukkatsu no Buggy Senchou!" Total_votes="249" Average_rating="6,3" />
+  <OpEpisode Key="47" Rank="48,156" Trend="2" Season="1" Episode="48" Name="Hajimari to Owari no Machi: Loguetown Jouriku" Total_votes="241" Average_rating="7,8" />
+  <OpEpisode Key="48" Rank="45,526" Trend="1" Season="1" Episode="49" Name="Sandai Kitetsu to Yubashiri! Zoro no Shintou to Onna Souchou" Total_votes="253" Average_rating="7,9" />
+  <OpEpisode Key="49" Rank="54,542" Trend="1" Season="1" Episode="50" Name="Usopp Tai Kozure no Daddy: Mahiru no Kettou" Total_votes="233" Average_rating="7,3" />
+  <OpEpisode Key="50" Rank="62,180" Trend="2" Season="1" Episode="51" Name="Honoo no Ryouri Battle? Sanji VS Bijin Chef" Total_votes="225" Average_rating="6,8" />
+  <OpEpisode Key="51" Rank="46,194" Trend="1" Season="1" Episode="52" Name="Buggy no Revenge! Shokeidai de Warau Otoko!" Total_votes="236" Average_rating="8,1" />
+  <OpEpisode Key="52" Rank="44,331" Trend="1" Season="1" Episode="53" Name="Densetsu wa Hajimatta! Mezase Grand Line" Total_votes="243" Average_rating="8,2" />
+  <OpEpisode Key="53" Rank="60,787" Trend="2" Season="1" Episode="54" Name="Aratanaru Bouken no Yokan! Nazo no Shoujo Apis" Total_votes="213" Average_rating="7,1" />
+  <OpEpisode Key="54" Rank="64,969" Trend="2" Season="1" Episode="55" Name="Kiseki no Seibutsu! Apis no Himitsu to Densetsu no Shima" Total_votes="211" Average_rating="6,8" />
+  <OpEpisode Key="55" Rank="66,538" Trend="2" Season="1" Episode="56" Name="Eric Shutsugeki! Gunkanjima kara no Daidasshutsu!" Total_votes="210" Average_rating="6,7" />
+  <OpEpisode Key="56" Rank="68,523" Trend="2" Season="1" Episode="57" Name="Zekkai no Kotou! Densetsu no Lost Island" Total_votes="207" Average_rating="6,6" />
+  <OpEpisode Key="57" Rank="67,203" Trend="2" Season="1" Episode="58" Name="Haikyo no Kettou! Kinpaku no Zoro VS Erik!" Total_votes="201" Average_rating="6,8" />
+  <OpEpisode Key="58" Rank="63,845" Trend="1" Season="1" Episode="59" Name="Luffy Kanzen Houi! Teitoku Nelson no Hisaku" Total_votes="199" Average_rating="7,1" />
+  <OpEpisode Key="59" Rank="63,498" Trend="1" Season="1" Episode="60" Name="Oozora o Mau Mono! Yomigaeru Sennen no Densetsu!" Total_votes="195" Average_rating="7,2" />
+  <OpEpisode Key="60" Rank="57,812" Trend="1" Season="1" Episode="61" Name="Ikari no Kecchaku! Red Line o Norikoero!" Total_votes="199" Average_rating="7,6" />
+  <OpEpisode Key="61" Rank="53,402" Trend="1" Season="1" Episode="62" Name="Saisho no Toride? Kyodai Kujira Laboon Arawaru" Total_votes="215" Average_rating="7,7" />
+  <OpEpisode Key="62" Rank="56,518" Trend="1" Season="1" Episode="63" Name="Otoko no Yakusoku! Luffy to Kujira Saikai no Chikai" Total_votes="216" Average_rating="7,4" />
+  <OpEpisode Key="63" Rank="55,169" Trend="1" Season="1" Episode="64" Name="Kaizoku Kangei no Machi? Whiskey Peak Jouriku" Total_votes="206" Average_rating="7,7" />
+  <OpEpisode Key="64" Rank="49,747" Trend="1" Season="1" Episode="65" Name="Sakuretsu Santouryuu! Zoro VS Baroque Works!" Total_votes="214" Average_rating="8,1" />
+  <OpEpisode Key="65" Rank="51,563" Trend="1" Season="1" Episode="66" Name="Shinken Shoubu! Luffy VS Zoro Nazo no Daikettou!" Total_votes="214" Average_rating="7,9" />
+  <OpEpisode Key="66" Rank="55,797" Trend="1" Season="1" Episode="67" Name="Oujo Vivi o Todokero! Luffy Kaizoku Dan Shukkou" Total_votes="203" Average_rating="7,7" />
+  <OpEpisode Key="67" Rank="67,656" Trend="2" Season="1" Episode="68" Name="Ganbare Coby! Coby-Meppo Kaigun Funtou Ki" Total_votes="205" Average_rating="6,7" />
+  <OpEpisode Key="68" Rank="66,940" Trend="1" Season="1" Episode="69" Name="Coby-Meppo no Ketsui! Garp Chuujou no Oyagokoro" Total_votes="202" Average_rating="6,8" />
+  <OpEpisode Key="69" Rank="60,498" Trend="1" Season="1" Episode="70" Name="Taiko no Shima! Little Garden ni Hisomu Kage!" Total_votes="203" Average_rating="7,3" />
+  <OpEpisode Key="70" Rank="57,880" Trend="1" Season="1" Episode="71" Name="Dekkai Kettou! Kyojin Dorry to Brogy" Total_votes="204" Average_rating="7,5" />
+  <OpEpisode Key="71" Rank="60,685" Trend="1" Season="1" Episode="72" Name="Luffy Ikaru! Seinaru Kettou ni Hiretsu na Wana!" Total_votes="202" Average_rating="7,3" />
+  <OpEpisode Key="72" Rank="59,987" Trend="1" Season="1" Episode="73" Name="Brogy Shouri no Goukyuu! Elbaf no Kecchaku" Total_votes="200" Average_rating="7,4" />
+  <OpEpisode Key="73" Rank="58,329" Trend="1" Season="1" Episode="74" Name="Ma no Candle! Munen no Namida to Ikari no Namida" Total_votes="202" Average_rating="7,5" />
+  <OpEpisode Key="74" Rank="57,020" Trend="1" Season="1" Episode="75" Name="Luffy o Osou Maryoku! Colors Trap" Total_votes="197" Average_rating="7,7" />
+  <OpEpisode Key="75" Rank="56,849" Trend="1" Season="1" Episode="76" Name="Iza Hangeki! Usopp no Kiten to Kaenboshi!" Total_votes="203" Average_rating="7,6" />
+  <OpEpisode Key="76" Rank="58,752" Trend="2" Season="1" Episode="77" Name="Saraba Kyojin no Shima! Arabasuta o Mezase" Total_votes="200" Average_rating="7,5" />
+  <OpEpisode Key="77" Rank="60,499" Trend="1" Season="1" Episode="78" Name="Nami ga Byouki? Umi ni Furu Yuki no Mukou ni!" Total_votes="203" Average_rating="7,3" />
+  <OpEpisode Key="78" Rank="58,477" Trend="1" Season="1" Episode="79" Name="Kishuu! Bliking Gou to Blik no Wapol" Total_votes="196" Average_rating="7,6" />
+  <OpEpisode Key="79" Rank="57,488" Trend="1" Season="1" Episode="80" Name="Isha no Inai Shima? Na mo Naki Kuni no Bouken!" Total_votes="195" Average_rating="7,7" />
+  <OpEpisode Key="80" Rank="58,903" Trend="1" Season="1" Episode="81" Name="Happy kai? Majo to Yobareta Isha!" Total_votes="189" Average_rating="7,7" />
+  <OpEpisode Key="81" Rank="59,597" Trend="1" Season="1" Episode="82" Name="Dolton no Kakugo! Wapol Gundan Shima ni Jouriku" Total_votes="191" Average_rating="7,6" />
+  <OpEpisode Key="82" Rank="56,391" Trend="1" Season="1" Episode="83" Name="Yuki no Sumu Shima! Drum-Rocky o Nobore!" Total_votes="200" Average_rating="7,7" />
+  <OpEpisode Key="83" Rank="56,392" Trend="1" Season="1" Episode="84" Name="Tonakai wa Aoppana! Chopper no Himitsu" Total_votes="200" Average_rating="7,7" />
+  <OpEpisode Key="84" Rank="50,246" Trend="1" Season="1" Episode="85" Name="Hamidashi Mono no Yume! Yabuisha Hiluluk!" Total_votes="211" Average_rating="8,1" />
+  <OpEpisode Key="85" Rank="40,318" Trend="3" Season="1" Episode="86" Name="Hiluluk no Sakura to Uketsugareyuku Ishi!" Total_votes="251" Average_rating="8,6" />
+  <OpEpisode Key="86" Rank="55,480" Trend="1" Season="1" Episode="87" Name="Versus Wapol Gundan! Bakubaku no Mi no Nouryoku!" Total_votes="194" Average_rating="7,9" />
+  <OpEpisode Key="87" Rank="57,979" Trend="1" Season="1" Episode="88" Name="Zoan-kei Akuma no Mi! Chopper Nanadan Henkei" Total_votes="193" Average_rating="7,7" />
+  <OpEpisode Key="88" Rank="58,679" Trend="1" Season="1" Episode="89" Name="Oukoku no Shihai Owaru Toki! Shinnen no Hata wa Eien ni" Total_votes="190" Average_rating="7,7" />
+  <OpEpisode Key="89" Rank="48,464" Trend="1" Season="1" Episode="90" Name="Hiluluk no Sakura! Drum Rocky no Kiseki" Total_votes="211" Average_rating="8,3" />
+  <OpEpisode Key="90" Rank="55,722" Trend="1" Season="1" Episode="91" Name="Sayonara Drum-tou! Boku wa Umi e Deru!" Total_votes="193" Average_rating="7,9" />
+  <OpEpisode Key="91" Rank="59,157" Trend="1" Season="1" Episode="92" Name="Arabasta no Eiyuu to Senjou no Ballerina" Total_votes="193" Average_rating="7,6" />
+  <OpEpisode Key="92" Rank="64,160" Trend="1" Season="1" Episode="93" Name="Iza Sabaku no Kuni e! Ame o Yobu Kona to Hanrangun" Total_votes="192" Average_rating="7,2" />
+  <OpEpisode Key="93" Rank="46,583" Trend="2" Season="1" Episode="94" Name="Gouketsu-tachi no Saikai! Yatsu no Na wa Hiken no Ace" Total_votes="217" Average_rating="8,4" />
+  <OpEpisode Key="94" Rank="50,579" Trend="1" Season="1" Episode="95" Name="Ace to Luffy! Atsuki Omoi to Kyoudai no Kizuna" Total_votes="209" Average_rating="8,1" />
+  <OpEpisode Key="95" Rank="62,235" Trend="1" Season="1" Episode="96" Name="Midori no Machi Erumaru to Kung Fu Jugon!" Total_votes="195" Average_rating="7,3" />
+  <OpEpisode Key="96" Rank="62,436" Trend="1" Season="1" Episode="97" Name="Suna no Kuni no Bouken! Ennetsu no Daichi ni Sumu Mamono" Total_votes="189" Average_rating="7,4" />
+  <OpEpisode Key="97" Rank="65,770" Trend="1" Season="1" Episode="98" Name="Sabaku no Kaizokudan Toujou! Jiyuu ni Ikiru Otoko-tachi" Total_votes="185" Average_rating="7,2" />
+  <OpEpisode Key="98" Rank="68,255" Trend="1" Season="1" Episode="99" Name="Nisemono no Iji! Kokoro no Hanrangun Kamyu!" Total_votes="180" Average_rating="7,1" />
+  <OpEpisode Key="99" Rank="61,961" Trend="1" Season="1" Episode="100" Name="Hanrangun Senshi Kouza! Vivi ni Chikatta Yume!" Total_votes="181" Average_rating="7,6" />
+  <OpEpisode Key="100" Rank="72,998" Trend="1" Season="1" Episode="101" Name="Kagerou no Kettou! Ace vs Otoko Scorpion" Total_votes="177" Average_rating="6,8" />
+  <OpEpisode Key="101" Rank="71,389" Trend="1" Season="1" Episode="102" Name="Iseki to Mayoigo! Vivi to Nakama to Kuni no Katachi" Total_votes="168" Average_rating="7,1" />
+  <OpEpisode Key="102" Rank="63,663" Trend="1" Season="1" Episode="103" Name="Spiders Cafe ni 8-ji Teki Kanbu Shuugou" Total_votes="179" Average_rating="7,5" />
+  <OpEpisode Key="103" Rank="58,829" Trend="1" Season="1" Episode="104" Name="Luffy Tai Vivi! Nakama ni Kakeru Namida no Chikai" Total_votes="180" Average_rating="7,9" />
+  <OpEpisode Key="104" Rank="60,105" Trend="1" Season="1" Episode="105" Name="Alabasta Sensen! Yume no Machi Rainbase" Total_votes="175" Average_rating="7,9" />
+  <OpEpisode Key="105" Rank="56,328" Trend="1" Season="1" Episode="106" Name="Zettai Zetsumei no Wana! Rain Dinners Totsunyuu" Total_votes="181" Average_rating="8,1" />
+  <OpEpisode Key="106" Rank="60,104" Trend="1" Season="1" Episode="107" Name="Utopia Sakusen Hatsudou! Ugokidashita Uneri" Total_votes="175" Average_rating="7,9" />
+  <OpEpisode Key="107" Rank="56,555" Trend="1" Season="1" Episode="108" Name="Kyoufu no Bananawani to Mr. Prince" Total_votes="180" Average_rating="8,1" />
+  <OpEpisode Key="108" Rank="53,973" Trend="1" Season="1" Episode="109" Name="Gyakuten Dai Dasshutsu e no Kagi! Doru-Doru Ball!" Total_votes="187" Average_rating="8,2" />
+  <OpEpisode Key="109" Rank="48,469" Trend="1" Season="1" Episode="110" Name="Nasake Muyou no Shitou! Luffy vs Crocodile" Total_votes="206" Average_rating="8,4" />
+  <OpEpisode Key="110" Rank="59,499" Trend="1" Season="1" Episode="111" Name="Kiseki e no Shissou! Arabasta Doubutsu Land" Total_votes="182" Average_rating="7,8" />
+  <OpEpisode Key="111" Rank="55,809" Trend="2" Season="1" Episode="112" Name="Hanrangun Tai Kokuougun! Kessen wa Alubarna!" Total_votes="188" Average_rating="8" />
+  <OpEpisode Key="112" Rank="59,732" Trend="3" Season="1" Episode="113" Name="Nageki no Alubarna! Gekitou Carue Taichou!" Total_votes="181" Average_rating="7,8" />
+  <OpEpisode Key="113" Rank="58,350" Trend="3" Season="1" Episode="114" Name="Nakama no Yume ni Chikau! Kettou Mogurazuka 4-bangai" Total_votes="182" Average_rating="7,9" />
+  <OpEpisode Key="114" Rank="55,561" Trend="3" Season="1" Episode="115" Name="Honjitsu Daikoukai! Mane-Mane Montage!" Total_votes="189" Average_rating="8" />
+  <OpEpisode Key="115" Rank="59,833" Trend="3" Season="1" Episode="116" Name="Nami ni Henshin! Bon Clay Renpatsu Ballet Kenpou" Total_votes="176" Average_rating="7,9" />
+  <OpEpisode Key="116" Rank="57,410" Trend="3" Season="1" Episode="117" Name="Nami no Senpuu Chuuihou! Clima Takt Sakuretsu" Total_votes="181" Average_rating="8" />
+  <OpEpisode Key="117" Rank="59,832" Trend="3" Season="1" Episode="118" Name="Ouke ni Tsutawaru Himitsu! Kodai Heiki Pluton" Total_votes="176" Average_rating="7,9" />
+  <OpEpisode Key="118" Rank="46,419" Trend="4" Season="1" Episode="119" Name="Gouken no Gokui! Koutetsu o Kiru Chikara to Mono no Kokyuu" Total_votes="213" Average_rating="8,5" />
+  <OpEpisode Key="119" Rank="59,563" Trend="2" Season="1" Episode="120" Name="Tatakai wa Owatta! Kooza ga Kakageta Shiroi Hata" Total_votes="177" Average_rating="7,9" />
+  <OpEpisode Key="120" Rank="55,099" Trend="2" Season="1" Episode="121" Name="Vivi no Koe no Yukue! Hero wa Maiorita!" Total_votes="182" Average_rating="8,2" />
+  <OpEpisode Key="121" Rank="52,453" Trend="2" Season="1" Episode="122" Name="Suna Wani to Mizu Luffy! Kettou Dai 2 Round" Total_votes="185" Average_rating="8,4" />
+  <OpEpisode Key="122" Rank="55,523" Trend="2" Season="1" Episode="123" Name="Wanippoi! Ouke no Haka e Hashire Luffy!" Total_votes="180" Average_rating="8,2" />
+  <OpEpisode Key="123" Rank="56,769" Trend="2" Season="1" Episode="124" Name="Akumu no Toki Semaru! Koko wa Sunasunadan Himitsu Kichi" Total_votes="179" Average_rating="8,1" />
+  <OpEpisode Key="124" Rank="49,624" Trend="2" Season="1" Episode="125" Name="Idainaru Tsubasa! Waga Na wa Kuni no Shugoshin Pell" Total_votes="195" Average_rating="8,5" />
+  <OpEpisode Key="125" Rank="32,949" Trend="11" Season="1" Episode="126" Name="Koeteiku! Arabasta ni Ame ga Furu!" Total_votes="302" Average_rating="9" />
+  <OpEpisode Key="126" Rank="58,193" Trend="3" Season="1" Episode="127" Name="Buki yo Saraba! Kaizoku to Ikutsuka no Seigi" Total_votes="178" Average_rating="8" />
+  <OpEpisode Key="127" Rank="57,931" Trend="3" Season="1" Episode="128" Name="Kaizoku-tachi no Utage to Arabasta Dasshutsu Sakusen!" Total_votes="179" Average_rating="8" />
+  <OpEpisode Key="128" Rank="46,420" Trend="4" Season="1" Episode="129" Name="Hajimari wa Ano Hi! Vivi ga Kataru Boukentan!" Total_votes="213" Average_rating="8,5" />
+  <OpEpisode Key="129" Rank="51,545" Trend="3" Season="1" Episode="130" Name="Kiken na Kaori! Shichininme wa Nico Robin!" Total_votes="194" Average_rating="8,3" />
+  <OpEpisode Key="130" Rank="74,683" Trend="1" Season="1" Episode="131" Name="Hajimete no Kranke! Rumble Ball Hiwa" Total_votes="161" Average_rating="7" />
+  <OpEpisode Key="131" Rank="79,130" Trend="1" Season="1" Episode="132" Name="Koukaishi no Hanran! Yuzurenai Yume no Tame ni!" Total_votes="156" Average_rating="6,8" />
+  <OpEpisode Key="132" Rank="77,965" Trend="1" Season="1" Episode="133" Name="Uketsugareru Recipe! Curry no Tetsujin Sanji" Total_votes="155" Average_rating="6,9" />
+  <OpEpisode Key="133" Rank="77,964" Trend="1" Season="1" Episode="134" Name="Sakasete Misemasu! Otoko Usopp Hasshakudama" Total_votes="155" Average_rating="6,9" />
+  <OpEpisode Key="134" Rank="76,295" Trend="1" Season="1" Episode="135" Name="Uwasa no Kaizokugari! Sasurai no Kenshi Zoro" Total_votes="156" Average_rating="7" />
+  <OpEpisode Key="135" Rank="82,239" Trend="1" Season="1" Episode="136" Name="Yagi no Shima no Zenny to Yama no Naka no Kaizokusen!" Total_votes="151" Average_rating="6,7" />
+  <OpEpisode Key="136" Rank="79,299" Trend="1" Season="1" Episode="137" Name="Moukarimakka? Kanekashi Zenny no Yabou!" Total_votes="151" Average_rating="6,9" />
+  <OpEpisode Key="137" Rank="84,878" Trend="1" Season="1" Episode="138" Name="Shima no Otakara no Yukue! Zenny Kaizokudan Shutsugeki!" Total_votes="148" Average_rating="6,6" />
+  <OpEpisode Key="138" Rank="76,099" Trend="1" Season="1" Episode="139" Name="Niji-iro no Kiri Densetsu! Ruluka Tou no Roujin Henzo" Total_votes="148" Average_rating="7,2" />
+  <OpEpisode Key="139" Rank="79,300" Trend="1" Season="1" Episode="140" Name="Eien no Kuni no Juunin! Pumpkin Kaizokudan!" Total_votes="151" Average_rating="6,9" />
+  <OpEpisode Key="140" Rank="81,301" Trend="1" Season="1" Episode="141" Name="Furusato e no Omoi! Dasshutsu Funou no Kaizoku Hakaba!" Total_votes="145" Average_rating="6,9" />
+  <OpEpisode Key="141" Rank="82,792" Trend="-" Season="1" Episode="142" Name="Ransen Hisshi! Wetton no Yabou to Niji no Tou" Total_votes="145" Average_rating="6,8" />
+  <OpEpisode Key="142" Rank="71,522" Trend="-" Season="1" Episode="143" Name="Soshite Densetsu ga Hajimaru! Iza Niji no Kanata e" Total_votes="150" Average_rating="7,5" />
+  <OpEpisode Key="143" Rank="71,622" Trend="1" Season="1" Episode="144" Name="Ubawareta Log! Salvage-ou Mashira!" Total_votes="158" Average_rating="7,3" />
+  <OpEpisode Key="144" Rank="68,635" Trend="1" Season="1" Episode="145" Name="Kaibutsu Toujou! Shirohige Ichimi ni wa Te o Dasuna" Total_votes="160" Average_rating="7,5" />
+  <OpEpisode Key="145" Rank="65,915" Trend="2" Season="1" Episode="146" Name="Yume o Miruna! Azakeri no Machi Mock Town!" Total_votes="157" Average_rating="7,8" />
+  <OpEpisode Key="146" Rank="67,833" Trend="2" Season="1" Episode="147" Name="Kaizoku no Takami! Yume o Kataru Otoko to Kaitei Tansaku Ou" Total_votes="163" Average_rating="7,5" />
+  <OpEpisode Key="147" Rank="69,456" Trend="1" Season="1" Episode="148" Name="Densetsu no Ichizoku! &amp;quot;Usotsuki Norland&amp;quot;" Total_votes="157" Average_rating="7,5" />
+  <OpEpisode Key="148" Rank="71,870" Trend="1" Season="1" Episode="149" Name="Kumo Kaji Ippai! Southbird o Oe!" Total_votes="153" Average_rating="7,4" />
+  <OpEpisode Key="149" Rank="63,762" Trend="2" Season="1" Episode="150" Name="Yume wa Kanawanai!? Bellamy VS Saruyama Rengou" Total_votes="157" Average_rating="8" />
+  <OpEpisode Key="150" Rank="42,152" Trend="7" Season="1" Episode="151" Name="Ichioku no Otoko! Sekai Saikou Kenryoku to Kaizoku Kurohige" Total_votes="231" Average_rating="8,7" />
+  <OpEpisode Key="151" Rank="62,079" Trend="2" Season="1" Episode="152" Name="Fune wa Sora o Yuku! Knock-Up Stream ni Nore" Total_votes="159" Average_rating="8,1" />
+  <OpEpisode Key="152" Rank="65,388" Trend="1" Season="1" Episode="153" Name="Koko wa Sora no Umi! Sora no Kishi to Tengoku no Mon" Total_votes="155" Average_rating="7,9" />
+  <OpEpisode Key="153" Rank="69,460" Trend="1" Season="1" Episode="154" Name="Kami no Kuni Skypiea! Kumo no Nagisa no Tenshi-tachi" Total_votes="157" Average_rating="7,5" />
+  <OpEpisode Key="154" Rank="70,926" Trend="1" Season="1" Episode="155" Name="Kindan no Seichi! Kami no Sumu Shima to Ten no Sabaki!" Total_votes="152" Average_rating="7,5" />
+  <OpEpisode Key="155" Rank="68,298" Trend="1" Season="1" Episode="156" Name="Hayaku mo Hanzaisha!? Skypiea no Hou no Bannin" Total_votes="157" Average_rating="7,6" />
+  <OpEpisode Key="156" Rank="69,103" Trend="1" Season="1" Episode="157" Name="Dasshutsu Naru ka!? Ugokihajimeta Kami no Shiren!" Total_votes="154" Average_rating="7,6" />
+  <OpEpisode Key="157" Rank="69,696" Trend="1" Season="1" Episode="158" Name="Lovely-doori no Wana! Zennounaru God Enel" Total_votes="152" Average_rating="7,6" />
+  <OpEpisode Key="158" Rank="68,843" Trend="1" Season="1" Episode="159" Name="Susume Karasumaru! Ikenie no Saidan o Mezase" Total_votes="151" Average_rating="7,7" />
+  <OpEpisode Key="159" Rank="65,644" Trend="1" Season="1" Episode="160" Name="Seizonritsu 10%! Mantra-tsukai no Shinkan Satori!" Total_votes="158" Average_rating="7,8" />
+  <OpEpisode Key="160" Rank="68,299" Trend="1" Season="1" Episode="161" Name="&amp;quot;Tama no Shiren&amp;quot; no Kyoui! Mayoi no Mori no Shitou" Total_votes="157" Average_rating="7,6" />
+  <OpEpisode Key="161" Rank="65,913" Trend="1" Season="1" Episode="162" Name="Chopper Ayaushi! Motokami Tai Shinkan Shura" Total_votes="157" Average_rating="7,8" />
+  <OpEpisode Key="162" Rank="67,431" Trend="1" Season="1" Episode="163" Name="Makafushigi! Himo no Shiren to Koi no Shiren!?" Total_votes="152" Average_rating="7,8" />
+  <OpEpisode Key="163" Rank="67,432" Trend="1" Season="1" Episode="164" Name="Shandra no Hi o Tomose! Senshi Wiper" Total_votes="152" Average_rating="7,8" />
+  <OpEpisode Key="164" Rank="68,541" Trend="1" Season="1" Episode="165" Name="Tenkuu no Ougonkyou Jaya! Mezase Kami no Yashiro!" Total_votes="152" Average_rating="7,7" />
+  <OpEpisode Key="165" Rank="72,178" Trend="1" Season="1" Episode="166" Name="Ougon Zen'yasai! &amp;quot;Vearth&amp;quot; e no Omoi!" Total_votes="152" Average_rating="7,4" />
+  <OpEpisode Key="166" Rank="70,690" Trend="1" Season="1" Episode="167" Name="God Enel Toujou!! Ikinokori e no Aubade" Total_votes="149" Average_rating="7,6" />
+  <OpEpisode Key="167" Rank="68,822" Trend="1" Season="1" Episode="168" Name="Kibamuku Uwabami! Tsui ni Hajimaru Survival Game" Total_votes="155" Average_rating="7,6" />
+  <OpEpisode Key="168" Rank="62,885" Trend="1" Season="1" Episode="169" Name="Sutemi no Haigeki (Reject)! &amp;quot;Senki&amp;quot; Wiper no Kakugo" Total_votes="160" Average_rating="8" />
+  <OpEpisode Key="169" Rank="62,572" Trend="1" Season="1" Episode="170" Name="Kuuchuu no Gekisen! Kaizoku Zoro VS Senshi Braham" Total_votes="161" Average_rating="8" />
+  <OpEpisode Key="170" Rank="66,501" Trend="1" Season="1" Episode="171" Name="Unaru Burn Bazooka!! Luffy VS Senki Wiper" Total_votes="155" Average_rating="7,8" />
+  <OpEpisode Key="171" Rank="67,433" Trend="1" Season="1" Episode="172" Name="Numa no Shiren! Chopper VS Shinkan Gedatsu!!" Total_votes="152" Average_rating="7,8" />
+  <OpEpisode Key="172" Rank="65,655" Trend="1" Season="1" Episode="173" Name="Muteki no Nouryoku! Akasareru Enel no Shoutai" Total_votes="154" Average_rating="7,9" />
+  <OpEpisode Key="173" Rank="66,502" Trend="1" Season="1" Episode="174" Name="Maburoshi no Miyako! Yuudai Naru Shandra no Iseki!!" Total_votes="155" Average_rating="7,8" />
+  <OpEpisode Key="174" Rank="67,729" Trend="1" Season="1" Episode="175" Name="Seizonritsu 0%!! Chopper VS Shinkan Ohm" Total_votes="151" Average_rating="7,8" />
+  <OpEpisode Key="175" Rank="65,066" Trend="1" Season="1" Episode="176" Name="Giant Jack o Nobore!! Jouzou Iseki no Shitou" Total_votes="156" Average_rating="7,9" />
+  <OpEpisode Key="176" Rank="62,886" Trend="1" Season="1" Episode="177" Name="Tetsu no Shiren no Shinkoccyou! Shiruibara Death Match!!" Total_votes="160" Average_rating="8" />
+  <OpEpisode Key="177" Rank="60,476" Trend="1" Season="1" Episode="178" Name="Hotobashiru Zangeki! Zoro VS Shinkan Ohm!!" Total_votes="161" Average_rating="8,2" />
+  <OpEpisode Key="178" Rank="60,709" Trend="1" Season="1" Episode="179" Name="Kuzure Yuku Jousou Iseki! Finale e no Quintet!!" Total_votes="160" Average_rating="8,2" />
+  <OpEpisode Key="179" Rank="58,336" Trend="1" Season="1" Episode="180" Name="Kodai Iseki no Taiketsu! God Enel no Mokuteki!!" Total_votes="161" Average_rating="8,4" />
+  <OpEpisode Key="180" Rank="61,519" Trend="1" Season="1" Episode="181" Name="Fairy Vearth e no Yabou Hakobune Maxim!!" Total_votes="157" Average_rating="8,2" />
+  <OpEpisode Key="181" Rank="55,209" Trend="1" Season="1" Episode="182" Name="Tsuini Gekitotsu! Kaizoku Luffy VS God Enel!!" Total_votes="173" Average_rating="8,4" />
+  <OpEpisode Key="182" Rank="57,446" Trend="1" Season="1" Episode="183" Name="Maxim Fujou! Ugoki Hajimeta Deathpiea!!" Total_votes="164" Average_rating="8,4" />
+  <OpEpisode Key="183" Rank="63,767" Trend="1" Season="1" Episode="184" Name="Luffy Rakka! Kami no Sabaki to Nami no Nozomi!!" Total_votes="157" Average_rating="8" />
+  <OpEpisode Key="184" Rank="59,639" Trend="1" Season="1" Episode="185" Name="Mezameta Futari! Moeru Koi no Kyuushutsu Zensen" Total_votes="164" Average_rating="8,2" />
+  <OpEpisode Key="185" Rank="66,198" Trend="1" Season="1" Episode="186" Name="Zetsubou e no Capriccio Semaei Kuru Sora Shima no Shoumetsu!!" Total_votes="156" Average_rating="7,8" />
+  <OpEpisode Key="186" Rank="67,957" Trend="1" Season="1" Episode="187" Name="Kane no Ne no Michibiki! Daisenshi to Tankenka no Monogatari" Total_votes="154" Average_rating="7,7" />
+  <OpEpisode Key="187" Rank="69,128" Trend="1" Season="1" Episode="188" Name="Jubaku kara no Kaihou! Daisenshi ga Nagashita Namida!!" Total_votes="150" Average_rating="7,7" />
+  <OpEpisode Key="188" Rank="55,930" Trend="2" Season="1" Episode="189" Name="Eien no Shinyuu! Oo-unabari ni Hibikuchikai no Kane!!" Total_votes="174" Average_rating="8,3" />
+  <OpEpisode Key="189" Rank="65,460" Trend="1" Season="1" Episode="190" Name="Angel-tou Shoumetsu! Raigou Kourin no Kyoufu!!" Total_votes="151" Average_rating="8" />
+  <OpEpisode Key="190" Rank="65,461" Trend="1" Season="1" Episode="191" Name="Giant Jack o Taose! Dasshutsu e no Saigo no Nozomi" Total_votes="151" Average_rating="8" />
+  <OpEpisode Key="191" Rank="56,887" Trend="1" Season="1" Episode="192" Name="Kami no Kune no Kiseki! Tenshi no Todoita Love Song" Total_votes="166" Average_rating="8,4" />
+  <OpEpisode Key="192" Rank="68,012" Trend="2" Season="1" Episode="193" Name="Tatakai no Shuuen! Tooku Hibiku Hokori Takaki Fantasia" Total_votes="150" Average_rating="7,8" />
+  <OpEpisode Key="193" Rank="66,855" Trend="1" Season="1" Episode="194" Name="Ware Koko ni Itaru! Poneglyphs ga Tsumugu Mono" Total_votes="150" Average_rating="7,9" />
+  <OpEpisode Key="194" Rank="66,793" Trend="1" Season="1" Episode="195" Name="Iza Seikai e!! Omoi ga Orinasu Saishuu Gakushou" Total_votes="154" Average_rating="7,8" />
+  <OpEpisode Key="195" Rank="77,786" Trend="-" Season="1" Episode="196" Name="Hijoujitai Hatsurei! Akumei Takaki Kaisokusen Sennyuu!" Total_votes="143" Average_rating="7,2" />
+  <OpEpisode Key="196" Rank="75,763" Trend="-" Season="1" Episode="197" Name="Ryourinin Sanji! Kaigun Shokudou de Shinka Hakki!" Total_votes="141" Average_rating="7,4" />
+  <OpEpisode Key="197" Rank="79,140" Trend="1" Season="1" Episode="198" Name="Torawareru Zoro to Chopper Kinkyuu Shittou" Total_votes="143" Average_rating="7,1" />
+  <OpEpisode Key="198" Rank="75,429" Trend="1" Season="1" Episode="199" Name="Semaru Kaigun no Sousa mou! Torawareta Futari Me!" Total_votes="142" Average_rating="7,4" />
+  <OpEpisode Key="199" Rank="74,611" Trend="1" Season="1" Episode="200" Name="Kesshi no Luffy to Sanji! Kyuushutsu Dai Sakusen!" Total_votes="137" Average_rating="7,6" />
+  <OpEpisode Key="200" Rank="76,592" Trend="1" Season="1" Episode="201" Name="Nekketsu Tokubetsu Butai Sansen! Bridge Koubousen!" Total_votes="135" Average_rating="7,5" />
+  <OpEpisode Key="201" Rank="76,482" Trend="1" Season="1" Episode="202" Name="Houi Mou Toppa! Dakkan Going Merry Gou" Total_votes="139" Average_rating="7,4" />
+  <OpEpisode Key="202" Rank="77,072" Trend="1" Season="1" Episode="203" Name="Kieta Kaizokusen! Yousai Koubou Dai 2 Round" Total_votes="141" Average_rating="7,3" />
+  <OpEpisode Key="203" Rank="77,161" Trend="-" Season="1" Episode="204" Name="Ougon Dakkan Sakusen to Waver Kaishuu Sakusen!" Total_votes="137" Average_rating="7,4" />
+  <OpEpisode Key="204" Rank="75,875" Trend="1" Season="1" Episode="205" Name="Ichimoudajin Keikaku! Jonathan Jishin no Hisaku" Total_votes="137" Average_rating="7,5" />
+  <OpEpisode Key="205" Rank="73,179" Trend="1" Season="1" Episode="206" Name="Saraba Kaigun Yousai! Dasshutsu e no Saigo no Koubou" Total_votes="141" Average_rating="7,6" />
+  <OpEpisode Key="206" Rank="74,726" Trend="-" Season="1" Episode="207" Name="Long Ring Long Land no Dai Bouken!" Total_votes="144" Average_rating="7,4" />
+  <OpEpisode Key="207" Rank="74,069" Trend="-" Season="1" Episode="208" Name="Foxy Kaizoku Dan to Davy Back!" Total_votes="146" Average_rating="7,4" />
+  <OpEpisode Key="208" Rank="73,811" Trend="-" Season="1" Episode="209" Name="Dai Ikkaisen! Gururi Isshuu Doughnut Race" Total_votes="143" Average_rating="7,5" />
+  <OpEpisode Key="209" Rank="74,363" Trend="-" Season="1" Episode="210" Name="Gingitsune no Foxy! Mouretsu Bougai Kousei" Total_votes="149" Average_rating="7,3" />
+  <OpEpisode Key="210" Rank="70,927" Trend="-" Season="1" Episode="211" Name="Dai 2 Kaisen! Buchi Kome Groggy Ring" Total_votes="152" Average_rating="7,5" />
+  <OpEpisode Key="211" Rank="70,764" Trend="-" Season="1" Episode="212" Name="Red Card Renpatsu! Groggy Ring" Total_votes="145" Average_rating="7,7" />
+  <OpEpisode Key="212" Rank="76,369" Trend="-" Season="1" Episode="213" Name="Dai Sankaisen! Guru Guru Roller Race!" Total_votes="143" Average_rating="7,3" />
+  <OpEpisode Key="213" Rank="73,902" Trend="-" Season="1" Episode="214" Name="Hakunetsu Bakusou Race! Saishuu Round Totsunyuu!" Total_votes="139" Average_rating="7,6" />
+  <OpEpisode Key="214" Rank="78,399" Trend="-" Season="1" Episode="215" Name="Unaru Netsukyuu Goukyuu! Kaizoku Dodgeball!" Total_votes="145" Average_rating="7,1" />
+  <OpEpisode Key="215" Rank="78,146" Trend="-" Season="1" Episode="216" Name="Dangai no Kessen! Daruma-san ga Koronda!" Total_votes="146" Average_rating="7,1" />
+  <OpEpisode Key="216" Rank="74,742" Trend="-" Season="1" Episode="217" Name="Captain Taiketsu! Saishuusen Combat!" Total_votes="152" Average_rating="7,2" />
+  <OpEpisode Key="217" Rank="74,364" Trend="-" Season="1" Episode="218" Name="Zenkai Noro Noro Kougeki VS Fujimi no Luffy" Total_votes="149" Average_rating="7,3" />
+  <OpEpisode Key="218" Rank="72,241" Trend="-" Season="1" Episode="219" Name="Souzetsu Nettou Combat! Unmei no Saishuu Kecchaku" Total_votes="144" Average_rating="7,6" />
+  <OpEpisode Key="219" Rank="79,032" Trend="-" Season="1" Episode="220" Name="Ushinatta? Ubawareta? Omae wa Dare Da?" Total_votes="132" Average_rating="7,4" />
+  <OpEpisode Key="220" Rank="82,396" Trend="-" Season="1" Episode="221" Name="Fue o Idaita Nazo no Shounen to Robin no Suiri!" Total_votes="134" Average_rating="7,1" />
+  <OpEpisode Key="221" Rank="83,902" Trend="-" Season="1" Episode="222" Name="Iza Kioku o Dakkan Seyo! Kaizoku Dan Shima ni Jouriku" Total_votes="138" Average_rating="6,9" />
+  <OpEpisode Key="222" Rank="80,754" Trend="-" Season="1" Episode="223" Name="Kiba o Muku Zoro! Tachihadakatta Yajuu!" Total_votes="131" Average_rating="7,3" />
+  <OpEpisode Key="223" Rank="85,086" Trend="-" Season="1" Episode="224" Name="Honjou o Awarashita Kioku Dorobou no Saigo Gyakushuu" Total_votes="131" Average_rating="7" />
+  <OpEpisode Key="224" Rank="85,770" Trend="-" Season="1" Episode="225" Name="Hokori takaki otoko! Gin Gitsune no Foxy" Total_votes="137" Average_rating="6,8" />
+  <OpEpisode Key="225" Rank="85,035" Trend="-" Season="1" Episode="226" Name="Mottomo Muteki ni Tsuyoi Yatsu? Tomottomo Kiken na Otoko!" Total_votes="139" Average_rating="6,8" />
+  <OpEpisode Key="226" Rank="59,969" Trend="2" Season="1" Episode="227" Name="Kaigun Honbu Taishou Aokiji! Saikou Senryoku no Kyoui" Total_votes="159" Average_rating="8,3" />
+  <OpEpisode Key="227" Rank="65,459" Trend="-" Season="1" Episode="228" Name="Gomu to Koori no Ikkiuchi! Luffy vs Aokiji" Total_votes="151" Average_rating="8" />
+  <OpEpisode Key="228" Rank="70,943" Trend="1" Season="1" Episode="229" Name="Shissou Umi Ressha to Mizu no Toshi Water Seven" Total_votes="148" Average_rating="7,6" />
+  <OpEpisode Key="229" Rank="70,434" Trend="1" Season="1" Episode="230" Name="Suijou Toshi no Bouken! Mokushise Kyodai Zousen Koujou" Total_votes="146" Average_rating="7,7" />
+  <OpEpisode Key="230" Rank="70,435" Trend="1" Season="1" Episode="231" Name="Franky ikka to Iceberg san!" Total_votes="146" Average_rating="7,7" />
+  <OpEpisode Key="231" Rank="70,060" Trend="1" Season="1" Episode="232" Name="Garera Company! Soukan Ichiban Dock" Total_votes="147" Average_rating="7,7" />
+  <OpEpisode Key="232" Rank="70,331" Trend="1" Season="1" Episode="233" Name="Kaizoku Yuukai Jiken to Shi o Matsu Dake no Kaizokusen" Total_votes="150" Average_rating="7,6" />
+  <OpEpisode Key="233" Rank="56,635" Trend="1" Season="1" Episode="234" Name="Nakama Kyuushutsu! Harikomi Franky House" Total_votes="167" Average_rating="8,4" />
+  <OpEpisode Key="234" Rank="48,566" Trend="4" Season="1" Episode="235" Name="Gekka no Oogenka! Kanashimi ni Hirugaeru Kaizokuki!" Total_votes="196" Average_rating="8,6" />
+  <OpEpisode Key="235" Rank="38,566" Trend="7" Season="1" Episode="236" Name="Luffy VS Usopp! Butsukaru Otoko no Iji" Total_votes="249" Average_rating="8,9" />
+  <OpEpisode Key="236" Rank="69,489" Trend="-" Season="1" Episode="237" Name="Genkishin Mizu no Toshi! Nerawareta Iceberg" Total_votes="145" Average_rating="7,8" />
+  <OpEpisode Key="237" Rank="67,252" Trend="-" Season="1" Episode="238" Name="Gomu Gomu Ningen VS Ka o Fuku Cyborg" Total_votes="145" Average_rating="8" />
+  <OpEpisode Key="238" Rank="69,223" Trend="-" Season="1" Episode="239" Name="Hannin wa Mugiwara Kaizukudan? Mizu no Toshi Youjinbou" Total_votes="146" Average_rating="7,8" />
+  <OpEpisode Key="239" Rank="70,503" Trend="-" Season="1" Episode="240" Name="Eien no Wakare? Yamo o Hiku Onna Nico Robin" Total_votes="142" Average_rating="7,8" />
+  <OpEpisode Key="240" Rank="71,651" Trend="-" Season="1" Episode="241" Name="Robin o Tsukamaero! Mugiwara Ichimi no Ketsui" Total_votes="142" Average_rating="7,7" />
+  <OpEpisode Key="241" Rank="67,886" Trend="-" Season="1" Episode="242" Name="Aizu wa Hougeki to Tomoni! Ugokidashita CP9" Total_votes="143" Average_rating="8" />
+  <OpEpisode Key="242" Rank="60,316" Trend="2" Season="1" Episode="243" Name="Kamen o Totta CP9! Sono Odoroki no Sugao" Total_votes="154" Average_rating="8,4" />
+  <OpEpisode Key="243" Rank="61,872" Trend="-" Season="1" Episode="244" Name="Himeta Kizuna! Iceberg to Franky" Total_votes="152" Average_rating="8,3" />
+  <OpEpisode Key="244" Rank="63,317" Trend="-" Season="1" Episode="245" Name="Kaete Koi Robin! CP9 to no Taiketsu!" Total_votes="151" Average_rating="8,2" />
+  <OpEpisode Key="245" Rank="68,480" Trend="-" Season="1" Episode="246" Name="Mugiwara Kaizoku Dan Zenmetsu? Model Leopard no Kyoui" Total_votes="141" Average_rating="8" />
+  <OpEpisode Key="246" Rank="69,626" Trend="-" Season="1" Episode="247" Name="Fune kara mo Aisareta Otoko! Usopp no Namida!" Total_votes="141" Average_rating="7,9" />
+  <OpEpisode Key="247" Rank="66,631" Trend="-" Season="1" Episode="248" Name="Franky no Kako! Umi ressha ga Hashitta Hi" Total_votes="147" Average_rating="8" />
+  <OpEpisode Key="248" Rank="66,044" Trend="-" Season="1" Episode="249" Name="Spandum no Inbou! Umi Ressha ga Yureta Hi" Total_votes="149" Average_rating="8" />
+  <OpEpisode Key="249" Rank="62,118" Trend="-" Season="1" Episode="250" Name="Densetsu no Otoko no Saigo! Umi Ressha ga Naita Hi" Total_votes="155" Average_rating="8,2" />
+  <OpEpisode Key="250" Rank="62,808" Trend="-" Season="1" Episode="251" Name="Uragiri no Shinsou! Robin no Kanashiki Ketsui!" Total_votes="149" Average_rating="8,3" />
+  <OpEpisode Key="251" Rank="70,919" Trend="-" Season="1" Episode="252" Name="Nakama o Hikihanasu Kiteki! Hashiridasu Umi Ressha" Total_votes="137" Average_rating="7,9" />
+  <OpEpisode Key="252" Rank="71,318" Trend="-" Season="1" Episode="253" Name="Sanji Totsunyuu! Arashi no Naka no Umiressha Battle!" Total_votes="143" Average_rating="7,7" />
+  <OpEpisode Key="253" Rank="66,339" Trend="1" Season="1" Episode="254" Name="Nami Tamashii no Sakebi! Mugiwara no Luffy Fukkatsu!" Total_votes="148" Average_rating="8" />
+  <OpEpisode Key="254" Rank="68,194" Trend="1" Season="1" Episode="255" Name="Mou Hitotsu no Umi Ressha! Rocketman Shutsugeki" Total_votes="142" Average_rating="8" />
+  <OpEpisode Key="255" Rank="68,104" Trend="1" Season="1" Episode="256" Name="Nakama o Sukue! Tekidoushi ga Musunda Chikai no Kizuna!" Total_votes="146" Average_rating="7,9" />
+  <OpEpisode Key="256" Rank="66,431" Trend="1" Season="1" Episode="257" Name="Nami o Kudake! Luffy to Zoro no Saikyou Combo" Total_votes="144" Average_rating="8,1" />
+  <OpEpisode Key="257" Rank="63,894" Trend="1" Season="1" Episode="258" Name="Nazo no Otoko Toujou!? Sono Na wa Sogeking!" Total_votes="149" Average_rating="8,2" />
+  <OpEpisode Key="258" Rank="74,239" Trend="1" Season="1" Episode="259" Name="Kokku Taiketsu! Sanji vs Ramen Kenpou" Total_votes="138" Average_rating="7,6" />
+  <OpEpisode Key="259" Rank="71,775" Trend="1" Season="1" Episode="260" Name="Yane no Ue no Kettou! Franky VS Nero" Total_votes="138" Average_rating="7,8" />
+  <OpEpisode Key="260" Rank="68,479" Trend="1" Season="1" Episode="261" Name="Gekitotsu! Onigiri Zoro VS Funekiri T-Bone" Total_votes="141" Average_rating="8" />
+  <OpEpisode Key="261" Rank="63,116" Trend="1" Season="1" Episode="262" Name="Robin Soudatsusen! Sogeking no Kisaku!!" Total_votes="148" Average_rating="8,3" />
+  <OpEpisode Key="262" Rank="66,134" Trend="1" Season="1" Episode="263" Name="Shihou no shima! Enies Lobby!" Total_votes="145" Average_rating="8,1" />
+  <OpEpisode Key="263" Rank="66,133" Trend="1" Season="1" Episode="264" Name="Jouriku Sakusen Shidou! Mugiwara Ichimi Totsunyuu Seyo!" Total_votes="145" Average_rating="8,1" />
+  <OpEpisode Key="264" Rank="65,723" Trend="1" Season="1" Episode="265" Name="Luffy Kaishingeki! Shihou no Shima de Daikessen!!" Total_votes="150" Average_rating="8" />
+  <OpEpisode Key="265" Rank="68,411" Trend="1" Season="1" Episode="266" Name="Kyojinzoku to no Koubou! Daini no Tobira o Akero!" Total_votes="145" Average_rating="7,9" />
+  <OpEpisode Key="266" Rank="66,432" Trend="1" Season="1" Episode="267" Name="Katsuro o Hirake! Sora o Tobu Rocketman!" Total_votes="144" Average_rating="8,1" />
+  <OpEpisode Key="267" Rank="65,834" Trend="1" Season="1" Episode="268" Name="Luffy ni Oitsuke! Mugiwara Ichimi Souryokusen" Total_votes="146" Average_rating="8,1" />
+  <OpEpisode Key="268" Rank="66,135" Trend="1" Season="1" Episode="269" Name="Uragirareta Robin! Sekai Seifu no Omowaku!" Total_votes="145" Average_rating="8,1" />
+  <OpEpisode Key="269" Rank="61,035" Trend="2" Season="1" Episode="270" Name="Robin o Kaese! Luffy VS Blueno!" Total_votes="155" Average_rating="8,3" />
+  <OpEpisode Key="270" Rank="67,250" Trend="1" Season="1" Episode="271" Name="Tachidomaru na! Hangeki no Noroshi o Agero!" Total_votes="145" Average_rating="8" />
+  <OpEpisode Key="271" Rank="63,315" Trend="1" Season="1" Episode="272" Name="Luffy Mokuzen! Saibansho Mae hiroba e Shuuketsu Seyo" Total_votes="151" Average_rating="8,2" />
+  <OpEpisode Key="272" Rank="55,410" Trend="3" Season="1" Episode="273" Name="Subete wa Nakama o Mamoru Tame ni! Gear Second Hatsudou" Total_votes="168" Average_rating="8,5" />
+  <OpEpisode Key="273" Rank="53,243" Trend="4" Season="1" Episode="274" Name="Kotaero Robin! Mugiwara Ichimi no Sakebi!!" Total_votes="173" Average_rating="8,6" />
+  <OpEpisode Key="274" Rank="59,363" Trend="2" Season="1" Episode="275" Name="Robin no Kako! Akuma to Yobareta Shoujo!" Total_votes="161" Average_rating="8,3" />
+  <OpEpisode Key="275" Rank="60,276" Trend="2" Season="1" Episode="276" Name="Shukumei no Oyako! Sono Haha no Na wa Orubia!" Total_votes="158" Average_rating="8,3" />
+  <OpEpisode Key="276" Rank="54,464" Trend="2" Season="1" Episode="277" Name="Ohara no Higeki! Buster Call no Kyoufu" Total_votes="172" Average_rating="8,5" />
+  <OpEpisode Key="277" Rank="34,336" Trend="15" Season="1" Episode="278" Name="Ikitai to Ie! Oretachi wa Nakama Da!!" Total_votes="280" Average_rating="9,1" />
+  <OpEpisode Key="278" Rank="86,202" Trend="1" Season="1" Episode="279" Name="Taki ni Mukatte Tobe!! Luffy no Omoi!!" Total_votes="132" Average_rating="6,9" />
+  <OpEpisode Key="279" Rank="91,170" Trend="1" Season="1" Episode="280" Name="Otoko no Ikizama! Zoro no Waza, Usopp no Yume" Total_votes="131" Average_rating="6,6" />
+  <OpEpisode Key="280" Rank="90,000" Trend="1" Season="1" Episode="281" Name="Namida ga Tsumuida Nakama no Kizuna! Nami no Sekai Chizu" Total_votes="134" Average_rating="6,6" />
+  <OpEpisode Key="281" Rank="91,582" Trend="1" Season="1" Episode="282" Name="Wakare ga Otoko o Migaku! Sanji to Chopper" Total_votes="126" Average_rating="6,7" />
+  <OpEpisode Key="282" Rank="91,171" Trend="1" Season="1" Episode="283" Name="Subete wa Nakama no Tame ni! Yami no Naka no Robin!" Total_votes="131" Average_rating="6,6" />
+  <OpEpisode Key="283" Rank="68,984" Trend="1" Season="1" Episode="284" Name="Sekkeizu wa Watasanai! Franky no Ketsudan" Total_votes="143" Average_rating="7,9" />
+  <OpEpisode Key="284" Rank="68,195" Trend="1" Season="1" Episode="285" Name="Itsutsu no Kagi o Ubae! Mugiwara Ichimi Tai CP9" Total_votes="142" Average_rating="8" />
+  <OpEpisode Key="285" Rank="67,887" Trend="1" Season="1" Episode="286" Name="Akuma no Mi no Chikara! Kaku to Jabra Daihenshin" Total_votes="143" Average_rating="8" />
+  <OpEpisode Key="286" Rank="68,782" Trend="1" Season="1" Episode="287" Name="Shinde mo Keran! Sanji Otoko no Kishidou!" Total_votes="140" Average_rating="8" />
+  <OpEpisode Key="287" Rank="65,616" Trend="1" Season="1" Episode="288" Name="Fukurou no Gosan! Ore no Cola wa Inochi no Mizu!" Total_votes="143" Average_rating="8,2" />
+  <OpEpisode Key="288" Rank="65,835" Trend="1" Season="1" Episode="289" Name="Zoro Shinwaza Sakuretsu! Katana no Na wa Sogeking?" Total_votes="146" Average_rating="8,1" />
+  <OpEpisode Key="289" Rank="67,022" Trend="1" Season="1" Episode="290" Name="Seigyo Funou! Chopper Kindan no Rumble" Total_votes="142" Average_rating="8,1" />
+  <OpEpisode Key="290" Rank="96,000" Trend="1" Season="1" Episode="291" Name="Luffy Oyabun Futatabi! Yume ka Utsutsu ka Tomikuji Soudou" Total_votes="136" Average_rating="6,2" />
+  <OpEpisode Key="291" Rank="100,456" Trend="-" Season="1" Episode="292" Name="Oshiro de Mochimaki Dai Race! Akai Hana no Inbou" Total_votes="134" Average_rating="6" />
+  <OpEpisode Key="292" Rank="70,826" Trend="-" Season="1" Episode="293" Name="Awa Tsukai Kalifa! Nami ni Semaru Sekken no Wana" Total_votes="141" Average_rating="7,8" />
+  <OpEpisode Key="293" Rank="67,365" Trend="-" Season="1" Episode="294" Name="Hibikiwataru Kyouhou! Hatsudou Buster Call" Total_votes="141" Average_rating="8,1" />
+  <OpEpisode Key="294" Rank="71,777" Trend="-" Season="1" Episode="295" Name="Gonin no Nami? Hangeki wa Shinkirou to Tomo ni!" Total_votes="138" Average_rating="7,8" />
+  <OpEpisode Key="295" Rank="63,318" Trend="-" Season="1" Episode="296" Name="Nami no Ketsudan! Bousou Chopper o Ute!" Total_votes="151" Average_rating="8,2" />
+  <OpEpisode Key="296" Rank="68,053" Trend="-" Season="1" Episode="297" Name="Kariudo Sanji Toujou? Usotsuki Ookami ni Okuru Banka" Total_votes="139" Average_rating="8,1" />
+  <OpEpisode Key="297" Rank="64,425" Trend="-" Season="1" Episode="298" Name="Shakunetsu no Keri! Sanji Ashiwaza no Full Course" Total_votes="147" Average_rating="8,2" />
+  <OpEpisode Key="298" Rank="64,996" Trend="1" Season="1" Episode="299" Name="Hakujin no Moushuu! Zoro Tai Kaku Kyouryoku Zangeki Taiketsu" Total_votes="145" Average_rating="8,2" />
+  <OpEpisode Key="299" Rank="46,449" Trend="6" Season="1" Episode="300" Name="Kishin Zoro! Kihaku ga Miseta Asura no Keshin" Total_votes="203" Average_rating="8,7" />
+  <OpEpisode Key="300" Rank="55,975" Trend="1" Season="1" Episode="301" Name="Spandam Kyougaku! Shihou no Tou ni Tatsu Eiyuu" Total_votes="162" Average_rating="8,6" />
+  <OpEpisode Key="301" Rank="64,079" Trend="-" Season="1" Episode="302" Name="Robin Kaihou! Luffy Tai Lucci Choujou Kessen" Total_votes="152" Average_rating="8,1" />
+  <OpEpisode Key="302" Rank="98,908" Trend="-" Season="1" Episode="303" Name="Hannin wa Luffy Oyabun? Kieta Oozakura o Oe" Total_votes="129" Average_rating="6,2" />
+  <OpEpisode Key="303" Rank="59,148" Trend="1" Season="1" Episode="304" Name="Katenakya Daremo Mamorenai! Gear Third Shidou" Total_votes="158" Average_rating="8,4" />
+  <OpEpisode Key="304" Rank="63,115" Trend="-" Season="1" Episode="305" Name="Senritsu no Kako! Yami no Seigi to Rob Lucci" Total_votes="148" Average_rating="8,3" />
+  <OpEpisode Key="305" Rank="66,758" Trend="-" Season="1" Episode="306" Name="Maboroshi no Ningyo Arawaru? Usureyuku Ishiki no Naka de" Total_votes="143" Average_rating="8,1" />
+  <OpEpisode Key="306" Rank="65,617" Trend="-" Season="1" Episode="307" Name="Houka ni Shizumu Shima! Franky Munen no Sakebi" Total_votes="143" Average_rating="8,2" />
+  <OpEpisode Key="307" Rank="61,689" Trend="-" Season="1" Episode="308" Name="Luffy o Mate! Tamerai no Hashi no Shitou!" Total_votes="149" Average_rating="8,4" />
+  <OpEpisode Key="308" Rank="35,744" Trend="11" Season="1" Episode="309" Name="Kobushi ni Kometa Omoi! Luffy Konshin no Gatling" Total_votes="271" Average_rating="9" />
+  <OpEpisode Key="309" Rank="59,147" Trend="-" Season="1" Episode="310" Name="Tomo, Umi yori Kitaru! Mugiwara Ichimi Saikyou no Kizuna" Total_votes="158" Average_rating="8,4" />
+  <OpEpisode Key="310" Rank="60,066" Trend="-" Season="1" Episode="311" Name="Zen'in Dai Dasshutsu! Shousha no Michi wa Kaizoku no Tame ni" Total_votes="155" Average_rating="8,4" />
+  <OpEpisode Key="311" Rank="35,566" Trend="12" Season="1" Episode="312" Name="Arigatou Merry! Yuki ni Kemuru Wakare no Umi" Total_votes="273" Average_rating="9" />
+  <OpEpisode Key="312" Rank="62,520" Trend="-" Season="1" Episode="313" Name="Yaburareta Ansoku! Ai no Kobushi o Motsu Kaigun Chuujou" Total_votes="150" Average_rating="8,3" />
+  <OpEpisode Key="313" Rank="50,902" Trend="3" Season="1" Episode="314" Name="Saikyou no Kakei? Akasareta Luffy no Chichi!" Total_votes="188" Average_rating="8,5" />
+  <OpEpisode Key="314" Rank="66,928" Trend="-" Season="1" Episode="315" Name="Sono Na wa Shinsekai! Grand Line no Yukue" Total_votes="146" Average_rating="8" />
+  <OpEpisode Key="315" Rank="51,743" Trend="3" Season="1" Episode="316" Name="Shanks Ugoku! Bousou Suru Jidai e no Kusabi" Total_votes="184" Average_rating="8,5" />
+  <OpEpisode Key="316" Rank="96,680" Trend="-" Season="1" Episode="317" Name="Yagara o Sagasu Shoujo! Mizu no Miyako Daisousasen" Total_votes="130" Average_rating="6,3" />
+  <OpEpisode Key="317" Rank="99,046" Trend="-" Season="1" Episode="318" Name="Haha wa Tsuyoshi! Zoro no Dotabata Kaji Tetsudai" Total_votes="133" Average_rating="6,1" />
+  <OpEpisode Key="318" Rank="91,489" Trend="-" Season="1" Episode="319" Name="Sanji Shougeki! Nazo no Jii-san to Gekiuma Ryouri" Total_votes="134" Average_rating="6,5" />
+  <OpEpisode Key="319" Rank="69,970" Trend="-" Season="1" Episode="320" Name="Tsui ni Zen'in Shoukin Kubi! 6-okugoe no Ichimi!" Total_votes="140" Average_rating="7,9" />
+  <OpEpisode Key="320" Rank="70,132" Trend="-" Season="1" Episode="321" Name="Umi o Nozomu Hyakujuu no Ou! Yume no Fune Doudou Kansei!" Total_votes="136" Average_rating="8" />
+  <OpEpisode Key="321" Rank="70,920" Trend="-" Season="1" Episode="322" Name="Saraba Itoshiki Kobun-tachi! Franky Tatsu" Total_votes="137" Average_rating="7,9" />
+  <OpEpisode Key="322" Rank="66,433" Trend="-" Season="1" Episode="323" Name="Shukkou Mizu no Miyako! Otoko Usopp Kettou no Kejime" Total_votes="144" Average_rating="8,1" />
+  <OpEpisode Key="323" Rank="69,969" Trend="-" Season="1" Episode="324" Name="Meguru Tehaisho! Kokyou wa Odoru Fune wa Susumu!" Total_votes="140" Average_rating="7,9" />
+  <OpEpisode Key="324" Rank="52,351" Trend="4" Season="1" Episode="325" Name="Saikyou no Nouryoku! Ace o Osou Kurohige no Yami" Total_votes="177" Average_rating="8,6" />
+  <OpEpisode Key="325" Rank="89,265" Trend="-" Season="1" Episode="326" Name="Nazo no Kaizoku Goikkou! Sunny-gou to Kiken na Wana" Total_votes="128" Average_rating="6,8" />
+  <OpEpisode Key="326" Rank="98,912" Trend="-" Season="1" Episode="327" Name="Sunny-gou Pinch! Unare Chousoku no Himitsu Mecha" Total_votes="129" Average_rating="6,2" />
+  <OpEpisode Key="327" Rank="95,402" Trend="-" Season="1" Episode="328" Name="Shinsekai ni Shizumu Yume! Shitsui no Kaizoku Puzzle" Total_votes="129" Average_rating="6,4" />
+  <OpEpisode Key="328" Rank="91,225" Trend="-" Season="1" Episode="329" Name="Osoikuru Shikaku-tachi! Hyoujou Dai Battle Kaishi" Total_votes="127" Average_rating="6,7" />
+  <OpEpisode Key="329" Rank="96,220" Trend="-" Season="1" Episode="330" Name="Dai Kusen Mugiwara Ichimi! Hata ni Kakeru Kaizoku Tamashii" Total_votes="123" Average_rating="6,5" />
+  <OpEpisode Key="330" Rank="93,658" Trend="-" Season="1" Episode="331" Name="Atsukurushisa Zenkai! Semaru Futago no Jiryoku Power" Total_votes="125" Average_rating="6,6" />
+  <OpEpisode Key="331" Rank="94,069" Trend="1" Season="1" Episode="332" Name="Dai Konran no Yakata! Ikaru Don to Toraware no Ichimi" Total_votes="124" Average_rating="6,6" />
+  <OpEpisode Key="332" Rank="96,221" Trend="-" Season="1" Episode="333" Name="Fushichou Futatabi! Tomo ni Chikau Kaizokuki no Yume" Total_votes="123" Average_rating="6,5" />
+  <OpEpisode Key="333" Rank="92,884" Trend="-" Season="1" Episode="334" Name="Atsu Atsu Choukessen! Luffy VS Shakunetsu no Don" Total_votes="123" Average_rating="6,7" />
+  <OpEpisode Key="334" Rank="94,070" Trend="-" Season="1" Episode="335" Name="Shin Sekai de Matsu! Isamashiki Kaizoku to no Wakare" Total_votes="124" Average_rating="6,6" />
+  <OpEpisode Key="335" Rank="109,201" Trend="-" Season="1" Episode="336" Name="Shutsudou Chopperman! Mamore Nagisa no TV-kyoku" Total_votes="133" Average_rating="5,6" />
+  <OpEpisode Key="336" Rank="66,273" Trend="-" Season="1" Episode="337" Name="Ma no Umi Totsunyuu! Kiri ni Ukabu Nazo no Gaikotsu" Total_votes="141" Average_rating="8,2" />
+  <OpEpisode Key="337" Rank="72,341" Trend="-" Season="1" Episode="338" Name="Hito ni Aeta Yorokobi! Gaikotsu Shinshi no Shoutai" Total_votes="133" Average_rating="7,9" />
+  <OpEpisode Key="338" Rank="74,707" Trend="-" Season="1" Episode="339" Name="Kai Genshou Zokuzoku! Thriller Bark Jouriku" Total_votes="133" Average_rating="7,7" />
+  <OpEpisode Key="339" Rank="74,625" Trend="-" Season="1" Episode="340" Name="Tensai to Yobareta Otoko! Hogback Arawaru!" Total_votes="130" Average_rating="7,8" />
+  <OpEpisode Key="340" Rank="70,586" Trend="-" Season="1" Episode="341" Name="Nami Dai Pinch! Zombie Yashiki to Toumei Ningen" Total_votes="138" Average_rating="7,9" />
+  <OpEpisode Key="341" Rank="74,347" Trend="-" Season="1" Episode="342" Name="Zombie no Nazo! Akumu no Hogback Kenkyuujo" Total_votes="134" Average_rating="7,7" />
+  <OpEpisode Key="342" Rank="77,267" Trend="-" Season="1" Episode="343" Name="Sono Na wa Moriah! Kage o Nigiru Dai Kaizoku no Wana" Total_votes="123" Average_rating="7,8" />
+  <OpEpisode Key="343" Rank="77,935" Trend="-" Season="1" Episode="344" Name="Zombie Song no Kyouen! Youchi no Kane wa Yami no Oto" Total_votes="128" Average_rating="7,6" />
+  <OpEpisode Key="344" Rank="80,008" Trend="-" Season="1" Episode="345" Name="Doubutsu Ippai? Perona no Wonder Garden" Total_votes="126" Average_rating="7,5" />
+  <OpEpisode Key="345" Rank="76,534" Trend="-" Season="1" Episode="346" Name="Kieru Mugiwara Ichimi! Arawareta Nazo no Kenshi!" Total_votes="125" Average_rating="7,8" />
+  <OpEpisode Key="346" Rank="76,999" Trend="-" Season="1" Episode="347" Name="Nokoru Kishidou! Nami o Mamoru Uragiri Zombie" Total_votes="127" Average_rating="7,7" />
+  <OpEpisode Key="347" Rank="74,152" Trend="-" Season="1" Episode="348" Name="Sora kara Sanjou! Kenkyou Hanauta wa Ano Otoko!" Total_votes="128" Average_rating="7,9" />
+  <OpEpisode Key="348" Rank="75,320" Trend="-" Season="1" Episode="349" Name="Luffy Kinkyuujitai! Saikyou no Kage no Ikisaki" Total_votes="128" Average_rating="7,8" />
+  <OpEpisode Key="349" Rank="74,893" Trend="-" Season="1" Episode="350" Name="Majin to Yobareta Senshi!! Oz Fukkatsu no Toki" Total_votes="126" Average_rating="7,9" />
+  <OpEpisode Key="350" Rank="76,142" Trend="-" Season="1" Episode="351" Name="500-nenburi no Mezame!! Oars Kaigan!!" Total_votes="126" Average_rating="7,8" />
+  <OpEpisode Key="351" Rank="75,321" Trend="-" Season="1" Episode="352" Name="Shinnen no Inochigoi!! Afro o Mamoru Brook" Total_votes="128" Average_rating="7,8" />
+  <OpEpisode Key="352" Rank="71,180" Trend="-" Season="1" Episode="353" Name="Otoko no Chikai wa Shinazu!! Tooi Sora de Matsu Tomo e" Total_votes="133" Average_rating="8" />
+  <OpEpisode Key="353" Rank="82,191" Trend="-" Season="1" Episode="354" Name="Kanarazu Ai ni Iku!! Brook to Yakusoku no Misaki" Total_votes="124" Average_rating="7,4" />
+  <OpEpisode Key="354" Rank="77,268" Trend="-" Season="1" Episode="355" Name="Meshi to Nami to Kage!! Luffy Ikari no Daihangeki" Total_votes="123" Average_rating="7,8" />
+  <OpEpisode Key="355" Rank="77,269" Trend="-" Season="1" Episode="356" Name="Usopp Saikyou? Negative wa Makasetoke" Total_votes="123" Average_rating="7,8" />
+  <OpEpisode Key="356" Rank="76,894" Trend="-" Season="1" Episode="357" Name="General Zombie Shunsatsu!! Oars wa Bouken Kibun!!" Total_votes="124" Average_rating="7,8" />
+  <OpEpisode Key="357" Rank="79,078" Trend="-" Season="1" Episode="358" Name="Honoo no Knight Sanji!! Keritsubuse Itsuwari no Kyoshiki" Total_votes="125" Average_rating="7,6" />
+  <OpEpisode Key="358" Rank="78,294" Trend="-" Season="1" Episode="359" Name="Suke Suke no Innen? Ubawareta Sanji no Yume" Total_votes="127" Average_rating="7,6" />
+  <OpEpisode Key="359" Rank="76,535" Trend="-" Season="1" Episode="360" Name="Tasukete Hero!? Teki wa Fujimi no Princess" Total_votes="125" Average_rating="7,8" />
+  <OpEpisode Key="360" Rank="76,998" Trend="1" Season="1" Episode="361" Name="Perona Kyoufu!? Uso no U wa Usopp no U" Total_votes="127" Average_rating="7,7" />
+  <OpEpisode Key="361" Rank="73,050" Trend="-" Season="1" Episode="362" Name="Yane ni Mau Zangeki!! Kecchaku Zoro Tai Ryuuma" Total_votes="131" Average_rating="7,9" />
+  <OpEpisode Key="362" Rank="78,172" Trend="-" Season="1" Episode="363" Name="Chopper Gekido!! Hogback Ma no Ijutsu" Total_votes="124" Average_rating="7,7" />
+  <OpEpisode Key="363" Rank="81,547" Trend="-" Season="1" Episode="364" Name="Oz Hoeru!! Detekoi Mugiwara no Ichimi" Total_votes="129" Average_rating="7,3" />
+  <OpEpisode Key="364" Rank="78,696" Trend="-" Season="1" Episode="365" Name="Teki wa Luffy!! Saikyou Zombie Tai Mugiwara no Ichimi" Total_votes="126" Average_rating="7,6" />
+  <OpEpisode Key="365" Rank="77,373" Trend="-" Season="1" Episode="366" Name="Taorero Absalom!! Nami Yuujou no Raigeki!!" Total_votes="126" Average_rating="7,7" />
+  <OpEpisode Key="366" Rank="71,492" Trend="-" Season="1" Episode="367" Name="Ubae Down!! Hissatsu Mugiwara Docking?" Total_votes="132" Average_rating="8" />
+  <OpEpisode Key="367" Rank="74,262" Trend="-" Season="1" Episode="368" Name="Ashioto Naki Shuurai!! Nazo no Boumonsha: Boukun Kuma" Total_votes="131" Average_rating="7,8" />
+  <OpEpisode Key="368" Rank="73,727" Trend="-" Season="1" Episode="369" Name="Oars Plus Moriah: Chikara to Zunou no Saikyou Gattai" Total_votes="129" Average_rating="7,9" />
+  <OpEpisode Key="369" Rank="72,670" Trend="-" Season="1" Episode="370" Name="Gyakuten e no Hisaku: Nightmare Luffy Kenzan" Total_votes="132" Average_rating="7,9" />
+  <OpEpisode Key="370" Rank="71,493" Trend="-" Season="1" Episode="371" Name="Kaimetsu, Mugiwara Ichimi: Kagekage no Chikara Zenkai" Total_votes="132" Average_rating="8" />
+  <OpEpisode Key="371" Rank="64,557" Trend="1" Season="1" Episode="372" Name="Chouzetsu Battle Start! Luffy vs Luffy" Total_votes="143" Average_rating="8,3" />
+  <OpEpisode Key="372" Rank="66,909" Trend="-" Season="1" Episode="373" Name="Kecchaku Semaru! Tatakikome, Todome no Ichigeki" Total_votes="139" Average_rating="8,2" />
+  <OpEpisode Key="373" Rank="68,042" Trend="-" Season="1" Episode="374" Name="Karada ga Kieru! Akumu no Shima ni Sasu Asahi!" Total_votes="139" Average_rating="8,1" />
+  <OpEpisode Key="374" Rank="70,496" Trend="-" Season="1" Episode="375" Name="Owaranai Kiki! Mugiwara Ichimi Massatsu Shirei" Total_votes="135" Average_rating="8" />
+  <OpEpisode Key="375" Rank="60,740" Trend="1" Season="1" Episode="376" Name="Subete o Hajiku: Kuma no Nikyunikyu no Chikara" Total_votes="156" Average_rating="8,3" />
+  <OpEpisode Key="376" Rank="28,147" Trend="20" Season="1" Episode="377" Name="Nakama no Itami wa Waga Itami: Zoro Kesshi no Tatakai" Total_votes="359" Average_rating="9,2" />
+  <OpEpisode Key="377" Rank="71,608" Trend="-" Season="1" Episode="378" Name="Tooi Hi no Yakusoku: Kaizoku no Uta to Chiisana Kujira" Total_votes="135" Average_rating="7,9" />
+  <OpEpisode Key="378" Rank="73,878" Trend="-" Season="1" Episode="379" Name="Brook no Kako: Youki na Nakama Kanashiki Wakare" Total_votes="132" Average_rating="7,8" />
+  <OpEpisode Key="379" Rank="60,860" Trend="1" Season="1" Episode="380" Name="Binks no Sake: Kako to Genzai o Tsunagu Uta" Total_votes="152" Average_rating="8,4" />
+  <OpEpisode Key="380" Rank="72,602" Trend="-" Season="1" Episode="381" Name="Arata na Nakama! Ongakuka Hanauta no Brook" Total_votes="129" Average_rating="8" />
+  <OpEpisode Key="381" Rank="95,851" Trend="-" Season="1" Episode="382" Name="Noronoro no Kyoui: Gingitsune no Foxy Futatabi" Total_votes="124" Average_rating="6,5" />
+  <OpEpisode Key="382" Rank="94,888" Trend="-" Season="1" Episode="383" Name="Otakara Daisoudatsusen! Houkai! Spa Island Gou" Total_votes="126" Average_rating="6,5" />
+  <OpEpisode Key="383" Rank="81,747" Trend="-" Season="1" Episode="384" Name="Brook's Hard Struggle the Difficult Path to Becoming a True C..." Total_votes="125" Average_rating="7,4" />
+  <OpEpisode Key="384" Rank="76,991" Trend="-" Season="1" Episode="385" Name="Halfway Through the Grand Line Arrival! The Red Line" Total_votes="127" Average_rating="7,7" />
+  <OpEpisode Key="385" Rank="76,992" Trend="-" Season="1" Episode="386" Name="Hatred of the Straw Hat Crew Enter Iron Mask Duval" Total_votes="127" Average_rating="7,7" />
+  <OpEpisode Key="386" Rank="79,082" Trend="-" Season="1" Episode="387" Name="The Fated Reunion! Save the Imprisoned Fishman" Total_votes="125" Average_rating="7,6" />
+  <OpEpisode Key="387" Rank="76,884" Trend="-" Season="1" Episode="388" Name="Tragedy! The Truth of the Unmasked Duval" Total_votes="124" Average_rating="7,8" />
+  <OpEpisode Key="388" Rank="76,885" Trend="-" Season="1" Episode="389" Name="Explosion! The Sunny's Super Secret Weapon Gaon Cannon" Total_votes="124" Average_rating="7,8" />
+  <OpEpisode Key="389" Rank="77,943" Trend="-" Season="1" Episode="390" Name="Gyojin-tou o Mezashite Jouriku: Sabaody Shotou" Total_votes="128" Average_rating="7,6" />
+  <OpEpisode Key="390" Rank="75,632" Trend="-" Season="1" Episode="391" Name="Bougyaku! Sabaody no Shihaisha Tenryuubito" Total_votes="124" Average_rating="7,9" />
+  <OpEpisode Key="391" Rank="71,176" Trend="-" Season="1" Episode="392" Name="Arata na Rival Shuuketsu! 11-nin no Choushinsei" Total_votes="133" Average_rating="8" />
+  <OpEpisode Key="392" Rank="75,325" Trend="-" Season="1" Episode="393" Name="Hyouteki wa Camie!! Semaru Hitosaraiya no Mashu" Total_votes="128" Average_rating="7,8" />
+  <OpEpisode Key="393" Rank="73,876" Trend="-" Season="1" Episode="394" Name="Camie o Sukue: Shotou ni Nokoru Ankoku no Rekishi" Total_votes="132" Average_rating="7,8" />
+  <OpEpisode Key="394" Rank="70,495" Trend="-" Season="1" Episode="395" Name="Time Limit: Human Auction Kaimaku" Total_votes="135" Average_rating="8" />
+  <OpEpisode Key="395" Rank="48,093" Trend="7" Season="1" Episode="396" Name="Tekken Sakuretsu! Auction o Buttsubuse" Total_votes="194" Average_rating="8,7" />
+  <OpEpisode Key="396" Rank="51,448" Trend="5" Season="1" Episode="397" Name="Dai Panic! Auction Kaijou no Shitou" Total_votes="177" Average_rating="8,7" />
+  <OpEpisode Key="397" Rank="63,986" Trend="2" Season="1" Episode="398" Name="Taishou Kizaru Ugoku! Souzen Sabaody Shotou" Total_votes="145" Average_rating="8,3" />
+  <OpEpisode Key="398" Rank="65,611" Trend="2" Season="1" Episode="399" Name="Houimou o Toppa Seyo! Kaigun Tai Sannin no Senchou" Total_votes="143" Average_rating="8,2" />
+  <OpEpisode Key="399" Rank="53,504" Trend="5" Season="1" Episode="400" Name="Roger to Rayleigh: Kaizoku Ou to Sono Migiude" Total_votes="176" Average_rating="8,5" />
+  <OpEpisode Key="400" Rank="64,260" Trend="1" Season="1" Episode="401" Name="Kaihi Fukanou!? Taishou Kizaru no Kousoku no Keri" Total_votes="144" Average_rating="8,3" />
+  <OpEpisode Key="401" Rank="65,532" Trend="2" Season="1" Episode="402" Name="Attouteki! Kaigun no Sentou Heiki Pacifista" Total_votes="140" Average_rating="8,3" />
+  <OpEpisode Key="402" Rank="62,992" Trend="3" Season="1" Episode="403" Name="Saranaru Kyouteki Arawaru! Masakari Katsuida Sentoumaru" Total_votes="145" Average_rating="8,4" />
+  <OpEpisode Key="403" Rank="48,214" Trend="7" Season="1" Episode="404" Name="Taishou Kizuru no Moukou Mugiwara Ichimi Zettaizetsumei!" Total_votes="189" Average_rating="8,8" />
+  <OpEpisode Key="404" Rank="28,216" Trend="24" Season="1" Episode="405" Name="Kesareta Nakama-tachi: Mugiwara Ichimi Saigo no Hi" Total_votes="358" Average_rating="9,2" />
+  <OpEpisode Key="405" Rank="104,117" Trend="1" Season="1" Episode="406" Name="Jidaigeki Tokubetsu Hen: Luffy Oyabun Futatabi Kenzan" Total_votes="122" Average_rating="6,1" />
+  <OpEpisode Key="406" Rank="106,033" Trend="-" Season="1" Episode="407" Name="Jidaigeki Tokubetsu Hen: Yabure! Thriller Shoukai no Wana" Total_votes="118" Average_rating="6,1" />
+  <OpEpisode Key="407" Rank="75,844" Trend="-" Season="1" Episode="408" Name="Jouriku! Danshi Kinsei no Shima Amazon Lily" Total_votes="130" Average_rating="7,7" />
+  <OpEpisode Key="408" Rank="76,234" Trend="-" Season="1" Episode="409" Name="Isoge! Nakama-tachi no Moto e: Nyougashima no Bouken" Total_votes="129" Average_rating="7,7" />
+  <OpEpisode Key="409" Rank="76,746" Trend="-" Season="1" Episode="410" Name="Minna Meromero! Kaizoku Jotei Hancock" Total_votes="131" Average_rating="7,6" />
+  <OpEpisode Key="410" Rank="76,146" Trend="-" Season="1" Episode="411" Name="Senaka ni Kakusareta Himitsu: Souguu Luffy to Hebihime" Total_votes="126" Average_rating="7,8" />
+  <OpEpisode Key="411" Rank="72,604" Trend="-" Season="1" Episode="412" Name="Hijou no Sabaki! Ishi ni Sareta Margaret!!" Total_votes="129" Average_rating="8" />
+  <OpEpisode Key="412" Rank="67,932" Trend="1" Season="1" Episode="413" Name="Luffy Daikusen! Hebi Shimai no Haki no Chikara!!" Total_votes="136" Average_rating="8,2" />
+  <OpEpisode Key="413" Rank="70,668" Trend="-" Season="1" Episode="414" Name="Nouryoku Zenkai Battle!! Gomugomu Tai Hebihebi" Total_votes="128" Average_rating="8,2" />
+  <OpEpisode Key="414" Rank="68,933" Trend="-" Season="1" Episode="415" Name="Hancock no Kokuhaku: Shimai no Imawashiki Kako" Total_votes="133" Average_rating="8,2" />
+  <OpEpisode Key="415" Rank="70,394" Trend="-" Season="1" Episode="416" Name="Ace o Sukue! Arata na Mokutekichi wa Daikangoku" Total_votes="132" Average_rating="8,1" />
+  <OpEpisode Key="416" Rank="68,049" Trend="-" Season="1" Episode="417" Name="Koi wa Hurricane! Meromero Hancock" Total_votes="139" Average_rating="8,1" />
+  <OpEpisode Key="417" Rank="75,711" Trend="-" Season="1" Episode="418" Name="Nakama-tachi no Yukue: Tenkou no Kagaku to Karakurijima" Total_votes="127" Average_rating="7,8" />
+  <OpEpisode Key="418" Rank="81,313" Trend="-" Season="1" Episode="419" Name="Nakama-tachi no Yukue: Kyochou no Shima to Momoiro no Rakuen!" Total_votes="126" Average_rating="7,4" />
+  <OpEpisode Key="419" Rank="76,989" Trend="-" Season="1" Episode="420" Name="Nakama-tachi no Yukue: Shima o Tsunagu Hashi to Shokujin Shok..." Total_votes="127" Average_rating="7,7" />
+  <OpEpisode Key="420" Rank="77,371" Trend="-" Season="1" Episode="421" Name="Nakama-tachi no Yukue: Negative Princess to Akuma Ou" Total_votes="126" Average_rating="7,7" />
+  <OpEpisode Key="421" Rank="76,538" Trend="-" Season="1" Episode="422" Name="Kesshi no Sennyuu! Kaitei Kangoku Impel Down Sennyuu!" Total_votes="125" Average_rating="7,8" />
+  <OpEpisode Key="422" Rank="76,145" Trend="-" Season="1" Episode="423" Name="Jigoku de Saikai!? Bara Bara no Mi no Jitsuryokusha!" Total_votes="126" Average_rating="7,8" />
+  <OpEpisode Key="423" Rank="77,808" Trend="-" Season="1" Episode="424" Name="Yabure! Guren Jigoku: Buggy no Dohade Daisakusen" Total_votes="125" Average_rating="7,7" />
+  <OpEpisode Key="424" Rank="77,809" Trend="1" Season="1" Episode="425" Name="Kangoku Saikyou no Otoko! Doku Ningen Magellan Toujou" Total_votes="125" Average_rating="7,7" />
+  <OpEpisode Key="425" Rank="91,987" Trend="-" Season="1" Episode="426" Name="Eiga Rendou Special: Ugokidasu Kinjishi no Yabou" Total_votes="118" Average_rating="6,9" />
+  <OpEpisode Key="426" Rank="100,117" Trend="-" Season="1" Episode="427" Name="Eiga Rendou Special: Nerawareta Little East Blue" Total_votes="115" Average_rating="6,5" />
+  <OpEpisode Key="427" Rank="97,820" Trend="-" Season="1" Episode="428" Name="Eiga Rendou Special: Amigo Kaizokudan no Moukou" Total_votes="116" Average_rating="6,6" />
+  <OpEpisode Key="428" Rank="98,316" Trend="-" Season="1" Episode="429" Name="Eiga Rendou Special: Kessen! Luffy Tai Largo" Total_votes="115" Average_rating="6,6" />
+  <OpEpisode Key="429" Rank="78,086" Trend="-" Season="1" Episode="430" Name="Toraware no Ouka Shichibukai! Kaikyou no Jinbee" Total_votes="121" Average_rating="7,8" />
+  <OpEpisode Key="430" Rank="80,627" Trend="-" Season="1" Episode="431" Name="Roubanchou Saldeath no Wana: Level 3 Kiga Jigoku" Total_votes="118" Average_rating="7,7" />
+  <OpEpisode Key="431" Rank="76,452" Trend="-" Season="1" Episode="432" Name="Tokihanatareta Swan! Saikai! Bon Clay" Total_votes="122" Average_rating="7,9" />
+  <OpEpisode Key="432" Rank="70,393" Trend="2" Season="1" Episode="433" Name="Shochou Magellan Ugoku: Kansei! Mugiwara Houimou" Total_votes="132" Average_rating="8,1" />
+  <OpEpisode Key="433" Rank="77,810" Trend="1" Season="1" Episode="434" Name="Zensenryoku Shuuketsu! Level 4 Shounetsu Jigoku no Kessen" Total_votes="125" Average_rating="7,7" />
+  <OpEpisode Key="434" Rank="70,839" Trend="1" Season="1" Episode="435" Name="Magellan Tsuyoshi! Bon Clay Tekizen Toubou" Total_votes="134" Average_rating="8" />
+  <OpEpisode Key="435" Rank="68,048" Trend="1" Season="1" Episode="436" Name="Shiyuu Kessu! Sutemi no Luffy Saigo no Ichigeki" Total_votes="139" Average_rating="8,1" />
+  <OpEpisode Key="436" Rank="74,529" Trend="-" Season="1" Episode="437" Name="Dachi Dakara: Bon Clay Kesshi no Kyuushutsukou" Total_votes="127" Average_rating="7,9" />
+  <OpEpisode Key="437" Rank="78,179" Trend="-" Season="1" Episode="438" Name="Jigoku ni Rakuen! Impel Down Level 5.5" Total_votes="124" Average_rating="7,7" />
+  <OpEpisode Key="438" Rank="83,011" Trend="-" Season="1" Episode="439" Name="Luffy Chiryou Kaishi: Ivan-san Kiseki no Chikara!!" Total_votes="122" Average_rating="7,4" />
+  <OpEpisode Key="439" Rank="79,204" Trend="-" Season="1" Episode="440" Name="Kiseki o Shinjite! Bon Clay Tamashii no Seien" Total_votes="128" Average_rating="7,5" />
+  <OpEpisode Key="440" Rank="75,227" Trend="-" Season="1" Episode="441" Name="Luffy Fukkatsu! Iwa-san Datsugoku Keikaku Shidou!!" Total_votes="125" Average_rating="7,9" />
+  <OpEpisode Key="441" Rank="73,323" Trend="-" Season="1" Episode="442" Name="Ace Gosou Kaishi: Saikasou Level 6 no Koubou!" Total_votes="127" Average_rating="8" />
+  <OpEpisode Key="442" Rank="72,606" Trend="-" Season="1" Episode="443" Name="Saikyou Team Kessei: Shinkan! Inpel Down" Total_votes="129" Average_rating="8" />
+  <OpEpisode Key="443" Rank="74,532" Trend="-" Season="1" Episode="444" Name="Saranaru Konran! Kurohige Teach Shuurai!" Total_votes="127" Average_rating="7,9" />
+  <OpEpisode Key="444" Rank="74,887" Trend="-" Season="1" Episode="445" Name="Kiken na Deai! Kurohige to Ame no Shiryuu" Total_votes="126" Average_rating="7,9" />
+  <OpEpisode Key="445" Rank="71,422" Trend="-" Season="1" Episode="446" Name="Iji demo Taorenu! Honki no Hannyabaru" Total_votes="129" Average_rating="8,1" />
+  <OpEpisode Key="446" Rank="61,866" Trend="2" Season="1" Episode="447" Name="Ikari no Jet Pistol: Luffy vs Kurohige" Total_votes="152" Average_rating="8,3" />
+  <OpEpisode Key="447" Rank="76,898" Trend="-" Season="1" Episode="448" Name="Magellan o Tomero! Iva-san Ougi Sakuretsu" Total_votes="124" Average_rating="7,8" />
+  <OpEpisode Key="448" Rank="76,024" Trend="-" Season="1" Episode="449" Name="Magellan no Kisaku! Habamareta Datsugoku Keikaku" Total_votes="123" Average_rating="7,9" />
+  <OpEpisode Key="449" Rank="71,424" Trend="-" Season="1" Episode="450" Name="Datsugoku Team Zettaizetsumei: Kinjite &amp;quot;Venom Demon&amp;quot;" Total_votes="129" Average_rating="8,1" />
+  <OpEpisode Key="450" Rank="60,416" Trend="1" Season="1" Episode="451" Name="Okose Saigo no Kiseki: Seigi no Mon o Toppa Seyo" Total_votes="150" Average_rating="8,5" />
+  <OpEpisode Key="451" Rank="76,022" Trend="-" Season="1" Episode="452" Name="Mezase Kaigun Honbu: Ace Kyuushutsu e no Funade!" Total_votes="123" Average_rating="7,9" />
+  <OpEpisode Key="452" Rank="86,114" Trend="-" Season="1" Episode="453" Name="Nakama-tachi no Yukue: Weatheria Report to Cyborg Animal" Total_votes="118" Average_rating="7,3" />
+  <OpEpisode Key="453" Rank="92,197" Trend="-" Season="1" Episode="454" Name="Nakama-tachi no Yukue: Kyochou no Hina to Momoiro no Taiketsu" Total_votes="121" Average_rating="6,8" />
+  <OpEpisode Key="454" Rank="86,978" Trend="-" Season="1" Episode="455" Name="Nakama-tachi no Yukue: Kakumeigun to Boushoku no Mori no Wana!" Total_votes="116" Average_rating="7,3" />
+  <OpEpisode Key="455" Rank="86,115" Trend="-" Season="1" Episode="456" Name="Nakama-tachi no Yukue: Kyodai na Bohyou to Pantsu no On" Total_votes="118" Average_rating="7,3" />
+  <OpEpisode Key="456" Rank="85,836" Trend="-" Season="1" Episode="457" Name="Marineford Chokuzen Kaisou Special: Kyoudai no Chikai!" Total_votes="122" Average_rating="7,2" />
+  <OpEpisode Key="457" Rank="86,556" Trend="1" Season="1" Episode="458" Name="Marineford Chokuzen Kaisou Special: Shuuketsu! San Taishou" Total_votes="131" Average_rating="6,9" />
+  <OpEpisode Key="458" Rank="65,817" Trend="2" Season="1" Episode="459" Name="Kessen no Toki Semaru! Kaigun Saikyou no Fujin Kansei!" Total_votes="146" Average_rating="8,1" />
+  <OpEpisode Key="459" Rank="62,399" Trend="2" Season="1" Episode="460" Name="Kyodai Kantai Arawaru: Shuurai! Shirohige Kaizokudan" Total_votes="154" Average_rating="8,2" />
+  <OpEpisode Key="460" Rank="54,984" Trend="3" Season="1" Episode="461" Name="Kessen no Makuake! Ace to Shirohige no Kako" Total_votes="174" Average_rating="8,4" />
+  <OpEpisode Key="461" Rank="62,400" Trend="3" Season="1" Episode="462" Name="Sekai o Horobosu Chikara! Guragura no Mi no Nouryoku" Total_votes="154" Average_rating="8,2" />
+  <OpEpisode Key="462" Rank="56,935" Trend="4" Season="1" Episode="463" Name="Subete o Yakitsukusu!! Taishou Akainu no Chikara!" Total_votes="162" Average_rating="8,5" />
+  <OpEpisode Key="463" Rank="62,512" Trend="4" Season="1" Episode="464" Name="Majin no Shison! Little Oars Jr. Bakushin!" Total_votes="150" Average_rating="8,3" />
+  <OpEpisode Key="464" Rank="60,059" Trend="3" Season="1" Episode="465" Name="Shousha dake ga Seigi Hatsudou! Sengoku no Sakusen!" Total_votes="155" Average_rating="8,4" />
+  <OpEpisode Key="465" Rank="49,641" Trend="5" Season="1" Episode="466" Name="Mugiwara Team Touchaku Fuunkyuu o Tsugeru Senjou" Total_votes="186" Average_rating="8,7" />
+  <OpEpisode Key="466" Rank="52,090" Trend="5" Season="1" Episode="467" Name="Shinde mo Tasukeru: Luffy vs Kaigun Battle Start" Total_votes="174" Average_rating="8,7" />
+  <OpEpisode Key="467" Rank="56,980" Trend="4" Season="1" Episode="468" Name="Gekisen no Renzoku! Nouryokusha Gundan VS Nouryokusha Gundan" Total_votes="158" Average_rating="8,6" />
+  <OpEpisode Key="468" Rank="62,211" Trend="4" Season="1" Episode="469" Name="Kuma ni Okita Ihen Iva-san Ikari no Ichigeki" Total_votes="151" Average_rating="8,3" />
+  <OpEpisode Key="469" Rank="58,957" Trend="4" Season="1" Episode="470" Name="Kengou Mihawk Luffy ni Semaru Kokutou no Zangeki" Total_votes="155" Average_rating="8,5" />
+  <OpEpisode Key="470" Rank="61,113" Trend="4" Season="1" Episode="471" Name="Senmetsu Sakusen Shidou: Pacifista Gundan no Iryoku" Total_votes="151" Average_rating="8,4" />
+  <OpEpisode Key="471" Rank="61,615" Trend="4" Season="1" Episode="472" Name="Akainu no Bouryaku! Otoshiirerareta Shirohige" Total_votes="153" Average_rating="8,3" />
+  <OpEpisode Key="472" Rank="61,402" Trend="4" Season="1" Episode="473" Name="Houiheki Sadou! Shirohige Kaizokudan Zettaizetsumei!!" Total_votes="150" Average_rating="8,4" />
+  <OpEpisode Key="473" Rank="52,575" Trend="5" Season="1" Episode="474" Name="Shokei Shikkou Shirei Kudaru: Houiheki o Toppa Seyo!" Total_votes="180" Average_rating="8,5" />
+  <OpEpisode Key="474" Rank="58,217" Trend="4" Season="1" Episode="475" Name="Saishuu Kyokumen Totsunyuu! Shirohige Kishikaisei no Itte" Total_votes="154" Average_rating="8,6" />
+  <OpEpisode Key="475" Rank="59,144" Trend="5" Season="1" Episode="476" Name="Luffy Chikaratsuku! Oris Hiroba no Souryokusen!!" Total_votes="158" Average_rating="8,4" />
+  <OpEpisode Key="476" Rank="62,302" Trend="4" Season="1" Episode="477" Name="Inochi o Kezuru Chikara: Tension Hormone Futatabi" Total_votes="147" Average_rating="8,4" />
+  <OpEpisode Key="477" Rank="52,767" Trend="4" Season="1" Episode="478" Name="Yakusoku no Tame ni!! Gekitou! Luffy to Coby" Total_votes="175" Average_rating="8,6" />
+  <OpEpisode Key="478" Rank="60,058" Trend="4" Season="1" Episode="479" Name="Shokeidai Mokuzen! Hirakareta Ace e no Michi!!" Total_votes="155" Average_rating="8,4" />
+  <OpEpisode Key="479" Rank="51,895" Trend="5" Season="1" Episode="480" Name="Sorezore no Eranda Michi: Luffy vs Garp!" Total_votes="179" Average_rating="8,6" />
+  <OpEpisode Key="480" Rank="42,522" Trend="10" Season="1" Episode="481" Name="Ace Kyuushutsu! Shirohige Saigo no Senchou Meirei!" Total_votes="218" Average_rating="8,9" />
+  <OpEpisode Key="481" Rank="30,117" Trend="29" Season="1" Episode="482" Name="Hi o mo Yaki Tsukusu Chikara: Akainu Hijou no Tsuigeki" Total_votes="334" Average_rating="9,1" />
+  <OpEpisode Key="482" Rank="20,664" Trend="58" Season="1" Episode="483" Name="Kotae o Sagashite: Hiken Ace Senjou ni Shisu" Total_votes="524" Average_rating="9,3" />
+  <OpEpisode Key="483" Rank="34,454" Trend="23" Season="1" Episode="484" Name="Kaigun Honbu Houkai! Shirohige Kotobanaki Ikari!" Total_votes="285" Average_rating="9" />
+  <OpEpisode Key="484" Rank="27,093" Trend="37" Season="1" Episode="485" Name="Kejime o Tsukeru: Shirohige vs Kurohige Kaizokudan" Total_votes="370" Average_rating="9,3" />
+  <OpEpisode Key="485" Rank="49,315" Trend="12" Season="1" Episode="486" Name="Show no Kaimaku: Akasareta Kurohige no Takurami" Total_votes="192" Average_rating="8,6" />
+  <OpEpisode Key="486" Rank="55,637" Trend="8" Season="1" Episode="487" Name="Akainu no Shuunen! Luffy o Osou Magma no Kobushi" Total_votes="171" Average_rating="8,4" />
+  <OpEpisode Key="487" Rank="43,228" Trend="14" Season="1" Episode="488" Name="Hisshi no Sakebi: Unmei o Kaeru Yuuki Aru Suubyou" Total_votes="223" Average_rating="8,7" />
+  <OpEpisode Key="488" Rank="39,674" Trend="15" Season="1" Episode="489" Name="Shanks Kenzan! Choujou Sensou Tsui ni Shuuketsu" Total_votes="245" Average_rating="8,8" />
+  <OpEpisode Key="489" Rank="66,747" Trend="5" Season="1" Episode="490" Name="Gun'yuu Kakkyo Su! &amp;quot;Atarashii Jidai&amp;quot; no Hajimari!" Total_votes="143" Average_rating="8,1" />
+  <OpEpisode Key="490" Rank="69,787" Trend="4" Season="1" Episode="491" Name="Nyougashima Jouriku: Luffy o Semeru Kakoku na Genjitsu" Total_votes="137" Average_rating="8" />
+  <OpEpisode Key="491" Rank="104,696" Trend="2" Season="1" Episode="492" Name="Saikyou Tag! Funtou, Luffy to Toriko!" Total_votes="117" Average_rating="6,2" />
+  <OpEpisode Key="492" Rank="66,353" Trend="3" Season="1" Episode="493" Name="Luffy to Ace: Kyoudai no Deai no Monogatari!" Total_votes="148" Average_rating="8" />
+  <OpEpisode Key="493" Rank="71,604" Trend="3" Season="1" Episode="494" Name="Sabo Toujou! Gray Terminal no Shounen" Total_votes="135" Average_rating="7,9" />
+  <OpEpisode Key="494" Rank="77,804" Trend="3" Season="1" Episode="495" Name="Ore wa Nigenai: Ace Kesshi no Kyuushutsu Sakusen" Total_votes="125" Average_rating="7,7" />
+  <OpEpisode Key="495" Rank="76,899" Trend="3" Season="1" Episode="496" Name="Itsuka Umi e! Sannin no Akudou Chikai no Sakazuki!" Total_votes="124" Average_rating="7,8" />
+  <OpEpisode Key="496" Rank="77,805" Trend="4" Season="1" Episode="497" Name="Dadan Ikka to no Wakare!? Kansei! Himitsu Kichi" Total_votes="125" Average_rating="7,7" />
+  <OpEpisode Key="497" Rank="83,972" Trend="3" Season="1" Episode="498" Name="Luffy Deshiiri!? Kaizoku Ou to Tatakatta Otoko!" Total_votes="123" Average_rating="7,3" />
+  <OpEpisode Key="498" Rank="83,008" Trend="2" Season="1" Episode="499" Name="Ootora to no Kessen! Senchou ni Naru no wa Dare Da!" Total_votes="122" Average_rating="7,4" />
+  <OpEpisode Key="499" Rank="79,403" Trend="2" Season="1" Episode="500" Name="Ubawareta Jiyuu! Sankyoudai ni Semaru Kizoku no Wana" Total_votes="121" Average_rating="7,7" />
+  <OpEpisode Key="500" Rank="79,086" Trend="2" Season="1" Episode="501" Name="Hanatareta Honoo: Gray Terminal no Kiki" Total_votes="125" Average_rating="7,6" />
+  <OpEpisode Key="501" Rank="80,293" Trend="1" Season="1" Episode="502" Name="Jiyuu wa Doko ni Aru? Shounen no Kanashiki Funade" Total_votes="122" Average_rating="7,6" />
+  <OpEpisode Key="502" Rank="68,247" Trend="3" Season="1" Episode="503" Name="Yoroshiku Tanomu! Kyoudai kara Todoita Tegami!" Total_votes="135" Average_rating="8,2" />
+  <OpEpisode Key="503" Rank="74,631" Trend="1" Season="1" Episode="504" Name="Yakusoku o Hatasu Tame: Sorezore no Tabidachi!" Total_votes="130" Average_rating="7,8" />
+  <OpEpisode Key="504" Rank="68,379" Trend="1" Season="1" Episode="505" Name="Aitsura ni Aitee! Luffy Namida no Sakebi" Total_votes="138" Average_rating="8,1" />
+  <OpEpisode Key="505" Rank="75,716" Trend="2" Season="1" Episode="506" Name="Mugiwara no Ichimi Gekishin! Motarasareta Kyouhou" Total_votes="127" Average_rating="7,8" />
+  <OpEpisode Key="506" Rank="74,272" Trend="2" Season="1" Episode="507" Name="Meiou Rayleigh to no Saikai: Luffy Ketsudan no Toki" Total_votes="131" Average_rating="7,8" />
+  <OpEpisode Key="507" Rank="80,492" Trend="1" Season="1" Episode="508" Name="Senchou no Moto e: Sorajima no Datsugoku to Fuyujima no Jiken" Total_votes="128" Average_rating="7,4" />
+  <OpEpisode Key="508" Rank="77,381" Trend="1" Season="1" Episode="509" Name="Sesshoku! Daikengou Mihawk: Zoro Iji no Shitou" Total_votes="126" Average_rating="7,7" />
+  <OpEpisode Key="509" Rank="77,938" Trend="1" Season="1" Episode="510" Name="Sanji no Junan: Oukoku e to Kikan Shita Joou!" Total_votes="128" Average_rating="7,6" />
+  <OpEpisode Key="510" Rank="74,343" Trend="2" Season="1" Episode="511" Name="Masaka no Saijouriku! Luffy Marineford e!" Total_votes="134" Average_rating="7,7" />
+  <OpEpisode Key="511" Rank="76,996" Trend="1" Season="1" Episode="512" Name="Nakama ni Todoke: Kakemeguru Dai News!" Total_votes="127" Average_rating="7,7" />
+  <OpEpisode Key="512" Rank="82,271" Trend="2" Season="1" Episode="513" Name="Ugokidasu Kaizoku-tachi! Kyoutendouchi no Shinsekai" Total_votes="127" Average_rating="7,3" />
+  <OpEpisode Key="513" Rank="84,577" Trend="1" Season="1" Episode="514" Name="Jigoku o Ikinuke: Sanji Otoko o Kaketa Shoubu" Total_votes="125" Average_rating="7,2" />
+  <OpEpisode Key="514" Rank="76,232" Trend="2" Season="1" Episode="515" Name="Madamada Tsuyoku Naru! Zoro Senchou e no Chikai" Total_votes="129" Average_rating="7,7" />
+  <OpEpisode Key="515" Rank="58,059" Trend="2" Season="1" Episode="516" Name="Luffy Shugyou Kaishi: 2-nengo ni Yakusoku no Basho de" Total_votes="162" Average_rating="8,4" />
+  <OpEpisode Key="516" Rank="48,830" Trend="5" Season="1" Episode="517" Name="Shinshou Kaimaku: Saishuuketsu! Mugiwara no Ichimi" Total_votes="204" Average_rating="8,4" />
+  <OpEpisode Key="517" Rank="68,401" Trend="2" Season="1" Episode="518" Name="Isshokusokuhatsu! Luffy Tai Nise Luffy" Total_votes="145" Average_rating="7,9" />
+  <OpEpisode Key="518" Rank="70,816" Trend="1" Season="1" Episode="519" Name="Kaigun Shutsudou: Nerawareta Mugiwara no Ichimi" Total_votes="141" Average_rating="7,8" />
+  <OpEpisode Key="519" Rank="71,634" Trend="1" Season="1" Episode="520" Name="Oomono Shuuketsu: Nise Mugiwara Ichimi no Kyoui" Total_votes="142" Average_rating="7,7" />
+  <OpEpisode Key="520" Rank="51,052" Trend="5" Season="1" Episode="521" Name="Sentou Kaishi! Misero Shugyou no Seika!" Total_votes="183" Average_rating="8,6" />
+  <OpEpisode Key="521" Rank="68,381" Trend="1" Season="1" Episode="522" Name="Zen'in Shuugou: Luffy Shinsekai e no Funade" Total_votes="138" Average_rating="8,1" />
+  <OpEpisode Key="522" Rank="76,607" Trend="1" Season="1" Episode="523" Name="Kyougaku no Shinjitsu: Sunny-gou o Mamotta Otoko" Total_votes="128" Average_rating="7,7" />
+  <OpEpisode Key="523" Rank="80,955" Trend="2" Season="1" Episode="524" Name="Kaichuu no Shitou: Arawareta Oounabara no Akuma" Total_votes="127" Average_rating="7,4" />
+  <OpEpisode Key="524" Rank="81,932" Trend="2" Season="1" Episode="525" Name="Shinkai de Sounan: Hagureta Mugiwara no Ichimi" Total_votes="118" Average_rating="7,6" />
+  <OpEpisode Key="525" Rank="81,933" Trend="1" Season="1" Episode="526" Name="Kaitei Kazan Funka! Nagasarete Gyojintou" Total_votes="118" Average_rating="7,6" />
+  <OpEpisode Key="526" Rank="80,623" Trend="1" Season="1" Episode="527" Name="Gyojintou Jouriku: Uruwashiki Ningyo-tachi" Total_votes="118" Average_rating="7,7" />
+  <OpEpisode Key="527" Rank="83,007" Trend="1" Season="1" Episode="528" Name="Koufun Bakuhatsu! Sanji Seimei no Kiki!" Total_votes="122" Average_rating="7,4" />
+  <OpEpisode Key="528" Rank="83,083" Trend="2" Season="1" Episode="529" Name="Gyojintou Metsubou!? Sharley no Yogen" Total_votes="125" Average_rating="7,3" />
+  <OpEpisode Key="529" Rank="82,483" Trend="-" Season="1" Episode="530" Name="Gyojintou no Ou: Kaishin Neptune!" Total_votes="120" Average_rating="7,5" />
+  <OpEpisode Key="530" Rank="85,841" Trend="-" Season="1" Episode="531" Name="Ryuuguujou! Tasuketa Same ni Tsurerarete" Total_votes="122" Average_rating="7,2" />
+  <OpEpisode Key="531" Rank="83,478" Trend="-" Season="1" Episode="532" Name="Yowamushi de Nakimushi! Koukakutou no Ningyo Hime" Total_votes="121" Average_rating="7,4" />
+  <OpEpisode Key="532" Rank="85,282" Trend="-" Season="1" Episode="533" Name="Kinkyuu Jitai Hassei: Senkyo Sareta Ryuuguujou" Total_votes="120" Average_rating="7,3" />
+  <OpEpisode Key="533" Rank="77,939" Trend="-" Season="1" Episode="534" Name="Ryuuguujou Gekishin! Shirahoshi Yuukai Jiken" Total_votes="128" Average_rating="7,6" />
+  <OpEpisode Key="534" Rank="83,863" Trend="1" Season="1" Episode="535" Name="Hody Shuurai: Fukushuu Keikaku no Hajimari" Total_votes="120" Average_rating="7,4" />
+  <OpEpisode Key="535" Rank="79,794" Trend="-" Season="1" Episode="536" Name="Ryuuguujou no Kessen! Zoro Tai Hody" Total_votes="120" Average_rating="7,7" />
+  <OpEpisode Key="536" Rank="80,198" Trend="-" Season="1" Episode="537" Name="Shirahoshi o Mamore: Decken no Tsuigeki" Total_votes="119" Average_rating="7,7" />
+  <OpEpisode Key="537" Rank="81,578" Trend="-" Season="1" Episode="538" Name="Ichimi Haiboku!? Hody Ryuuguujou Seiatsu" Total_votes="119" Average_rating="7,6" />
+  <OpEpisode Key="538" Rank="83,479" Trend="-" Season="1" Episode="539" Name="Yomigaeru Innen! Nami to Gyojin Kaizokudan!" Total_votes="121" Average_rating="7,4" />
+  <OpEpisode Key="539" Rank="77,503" Trend="-" Season="1" Episode="540" Name="Dorei Kaihou no Eiyuu: Boukenka Tiger" Total_votes="129" Average_rating="7,6" />
+  <OpEpisode Key="540" Rank="76,890" Trend="-" Season="1" Episode="541" Name="Kizaru Toujou! Tiger o Nerau Wana!" Total_votes="124" Average_rating="7,8" />
+  <OpEpisode Key="541" Rank="103,661" Trend="-" Season="1" Episode="542" Name="Team Kessei! Chopper o Sukue" Total_votes="115" Average_rating="6,3" />
+  <OpEpisode Key="542" Rank="76,134" Trend="1" Season="1" Episode="543" Name="Eiyuu no Saigo: Tiger Shougeki no Shinjitsu" Total_votes="126" Average_rating="7,8" />
+  <OpEpisode Key="543" Rank="82,579" Trend="-" Season="1" Episode="544" Name="Kaizokudan Bunretsu: Jinbe Tai Arlong" Total_votes="123" Average_rating="7,4" />
+  <OpEpisode Key="544" Rank="84,866" Trend="-" Season="1" Episode="545" Name="Yureru Gyojintou! Hyouchaku Shita Tenryuubito" Total_votes="121" Average_rating="7,3" />
+  <OpEpisode Key="545" Rank="79,401" Trend="-" Season="1" Episode="546" Name="Totsuzen no Higeki! Mirai o Tozasu Kyoudan" Total_votes="121" Average_rating="7,7" />
+  <OpEpisode Key="546" Rank="82,826" Trend="-" Season="1" Episode="547" Name="Futatabi Genzai e! Ugokidasu Hody" Total_votes="116" Average_rating="7,6" />
+  <OpEpisode Key="547" Rank="82,827" Trend="1" Season="1" Episode="548" Name="Oukoku Gekishin: Neptune Shokei Shirei" Total_votes="116" Average_rating="7,6" />
+  <OpEpisode Key="548" Rank="81,031" Trend="1" Season="1" Episode="549" Name="Shoujita Kiretsu! Luffy Tai Jinbe" Total_votes="117" Average_rating="7,7" />
+  <OpEpisode Key="549" Rank="87,952" Trend="1" Season="1" Episode="550" Name="Hody no Ihen: Kyouyaku no Shin no Chikara!" Total_votes="117" Average_rating="7,2" />
+  <OpEpisode Key="550" Rank="88,554" Trend="1" Season="1" Episode="551" Name="Kessen Hajimaru: Gyoncorde Hiroba!" Total_votes="119" Average_rating="7,1" />
+  <OpEpisode Key="551" Rank="85,691" Trend="1" Season="1" Episode="552" Name="Shougeki no Kokuhaku: Otohime Ansatsu no Shinjitsu" Total_votes="119" Average_rating="7,3" />
+  <OpEpisode Key="552" Rank="78,176" Trend="1" Season="1" Episode="553" Name="Shirahoshi no Namida! Luffy Tsui ni Toujou" Total_votes="124" Average_rating="7,7" />
+  <OpEpisode Key="553" Rank="65,863" Trend="1" Season="1" Episode="554" Name="Dai Gekitotsu! Mugiwara Ichimi VS 10 Man no Teki" Total_votes="139" Average_rating="8,3" />
+  <OpEpisode Key="554" Rank="80,199" Trend="-" Season="1" Episode="555" Name="Oowaza Sakuretsu! Zoro Sanji Shutsugeki!" Total_votes="119" Average_rating="7,7" />
+  <OpEpisode Key="555" Rank="82,481" Trend="-" Season="1" Episode="556" Name="Hatsu Hirou! Sunny Gou no Himitsu Heiki!" Total_votes="120" Average_rating="7,5" />
+  <OpEpisode Key="556" Rank="87,461" Trend="-" Season="1" Episode="557" Name="Iron Pirate! Franky Shougun Toujou" Total_votes="115" Average_rating="7,3" />
+  <OpEpisode Key="557" Rank="87,101" Trend="-" Season="1" Episode="558" Name="Noah Sekkin! Gyojintou Kaimetsu no Kiki!" Total_votes="119" Average_rating="7,2" />
+  <OpEpisode Key="558" Rank="90,062" Trend="-" Season="1" Episode="559" Name="Isoge Luffy! Shirahoshi Zettaizetsumei" Total_votes="119" Average_rating="7" />
+  <OpEpisode Key="559" Rank="85,394" Trend="-" Season="1" Episode="560" Name="Gekitou Kaishi! Luffy Tai Hody!" Total_votes="123" Average_rating="7,2" />
+  <OpEpisode Key="560" Rank="83,584" Trend="-" Season="1" Episode="561" Name="Dairansen! Ichimi Tai Shin Gyojin Kaizokudan!" Total_votes="124" Average_rating="7,3" />
+  <OpEpisode Key="561" Rank="93,112" Trend="-" Season="1" Episode="562" Name="Luffy Haiboku!? Hody Fukushuu no Toki" Total_votes="119" Average_rating="6,8" />
+  <OpEpisode Key="562" Rank="91,985" Trend="-" Season="1" Episode="563" Name="Shougeki no Jijitsu! Hody no Shoutai!" Total_votes="118" Average_rating="6,9" />
+  <OpEpisode Key="563" Rank="89,491" Trend="-" Season="1" Episode="564" Name="Zero ni! Luffy e no Atsuki Negai!" Total_votes="117" Average_rating="7,1" />
+  <OpEpisode Key="564" Rank="80,296" Trend="-" Season="1" Episode="565" Name="Luffy Konshin no Ichigeki! Red Hawk Sakuretsu" Total_votes="122" Average_rating="7,6" />
+  <OpEpisode Key="565" Rank="85,600" Trend="-" Season="1" Episode="566" Name="Tsui ni Kecchaku! Hody Saishuu Kessen" Total_votes="116" Average_rating="7,4" />
+  <OpEpisode Key="566" Rank="85,697" Trend="-" Season="1" Episode="567" Name="Tomare Noah! Kesshi no Elephant Gatling!" Total_votes="119" Average_rating="7,3" />
+  <OpEpisode Key="567" Rank="83,975" Trend="-" Season="1" Episode="568" Name="Mirai e! Taiyou e to Tsuzuku Michi!" Total_votes="123" Average_rating="7,3" />
+  <OpEpisode Key="568" Rank="85,840" Trend="-" Season="1" Episode="569" Name="Akasareta Himitsu: Kodai Heiki no Shinjitsu" Total_votes="122" Average_rating="7,2" />
+  <OpEpisode Key="569" Rank="77,708" Trend="-" Season="1" Episode="570" Name="Ichimi Kyougaku! Aratanaru Kaigun Gensui!" Total_votes="122" Average_rating="7,8" />
+  <OpEpisode Key="570" Rank="81,120" Trend="-" Season="1" Episode="571" Name="Okashizuki! Yonkou Big Mom" Total_votes="120" Average_rating="7,6" />
+  <OpEpisode Key="571" Rank="85,601" Trend="-" Season="1" Episode="572" Name="Zento Tanan: Shin Sekai ni Machiukeru Wana" Total_votes="116" Average_rating="7,4" />
+  <OpEpisode Key="572" Rank="86,109" Trend="-" Season="1" Episode="573" Name="Tsui ni Shukkou! Sayonara Gyojin-tou" Total_votes="118" Average_rating="7,3" />
+  <OpEpisode Key="573" Rank="86,982" Trend="-" Season="1" Episode="574" Name="Shin Sekai e! Saikyou no Umi o Mezashite" Total_votes="116" Average_rating="7,3" />
+  <OpEpisode Key="574" Rank="96,229" Trend="-" Season="1" Episode="575" Name="Z no Yabou Hen: Chiisana Kyojin Lily!" Total_votes="106" Average_rating="7" />
+  <OpEpisode Key="575" Rank="94,756" Trend="-" Season="1" Episode="576" Name="Z no Yabou Hen: Nazo no Saikyou Gundan Toujou!" Total_votes="109" Average_rating="7" />
+  <OpEpisode Key="576" Rank="95,853" Trend="-" Season="1" Episode="577" Name="Z no Yabou Hen: Kesshi no Dai Dasshutsu Sakusen!" Total_votes="110" Average_rating="6,9" />
+  <OpEpisode Key="577" Rank="93,849" Trend="-" Season="1" Episode="578" Name="Z no Yabou Hen: Luffy VS Shuzo!" Total_votes="121" Average_rating="6,7" />
+  <OpEpisode Key="578" Rank="81,311" Trend="-" Season="1" Episode="579" Name="Jouriku! Moeru Shima Punk Hazard" Total_votes="126" Average_rating="7,4" />
+  <OpEpisode Key="579" Rank="86,673" Trend="-" Season="1" Episode="580" Name="Shakunetsu no Tatakai! Luffy Tai Kyodai Ryuu!" Total_votes="120" Average_rating="7,2" />
+  <OpEpisode Key="580" Rank="90,063" Trend="-" Season="1" Episode="581" Name="Ichimi Souzen! Shougeki no Kubi dake Samurai Toujou!" Total_votes="119" Average_rating="7" />
+  <OpEpisode Key="581" Rank="87,560" Trend="-" Season="1" Episode="582" Name="Kyougaku! Tsui ni Akasareru Shima no Himitsu" Total_votes="118" Average_rating="7,2" />
+  <OpEpisode Key="582" Rank="90,917" Trend="-" Season="1" Episode="583" Name="Kodomo-tachi o Sukue! Ichimi Sentou Kaishi" Total_votes="117" Average_rating="7" />
+  <OpEpisode Key="583" Rank="86,041" Trend="-" Season="1" Episode="584" Name="Kenjutsu Shoubu: Brook Tai Nazo no Doutai Samurai" Total_votes="115" Average_rating="7,4" />
+  <OpEpisode Key="584" Rank="83,349" Trend="-" Season="1" Episode="585" Name="Shichibukai! Trafalgar Law" Total_votes="118" Average_rating="7,5" />
+  <OpEpisode Key="585" Rank="84,165" Trend="-" Season="1" Episode="586" Name="Dai Pinch: Luffy Gokkan no Mizuumi ni Shizumu" Total_votes="116" Average_rating="7,5" />
+  <OpEpisode Key="586" Rank="78,055" Trend="1" Season="1" Episode="587" Name="Gekitotsu! Law VS Smoker Chuujou" Total_votes="118" Average_rating="7,9" />
+  <OpEpisode Key="587" Rank="84,653" Trend="-" Season="1" Episode="588" Name="2 Nenburi no Saikai! Luffy to Law" Total_votes="115" Average_rating="7,5" />
+  <OpEpisode Key="588" Rank="87,855" Trend="-" Season="1" Episode="589" Name="Sekai Saiaku Kyoufu no Kagakusha Caesar" Total_votes="114" Average_rating="7,3" />
+  <OpEpisode Key="589" Rank="108,155" Trend="-" Season="1" Episode="590" Name="Jijou Saikyou Colabo VS Umi no Taishokukan" Total_votes="122" Average_rating="5,9" />
+  <OpEpisode Key="590" Rank="87,456" Trend="-" Season="1" Episode="591" Name="Chopper Gekido Master Hidounaru Jikken" Total_votes="115" Average_rating="7,3" />
+  <OpEpisode Key="591" Rank="90,918" Trend="-" Season="1" Episode="592" Name="Ichimi Massatsu! Densetsu no Koroshiya Raishuu!" Total_votes="117" Average_rating="7" />
+  <OpEpisode Key="592" Rank="84,753" Trend="-" Season="1" Episode="593" Name="Nami o Sukue! Luffy Yukiyama no Tatakai" Total_votes="118" Average_rating="7,4" />
+  <OpEpisode Key="593" Rank="81,118" Trend="-" Season="1" Episode="594" Name="Kessei! Luffy-Law Kaizoku Doumei!" Total_votes="120" Average_rating="7,6" />
+  <OpEpisode Key="594" Rank="87,856" Trend="-" Season="1" Episode="595" Name="Master o Toraero: Kaizoku Doumei Sakusen Kaishi!" Total_votes="114" Average_rating="7,3" />
+  <OpEpisode Key="595" Rank="87,457" Trend="-" Season="1" Episode="596" Name="Zenmetsu no Kiki: Shi no Monster Hirai" Total_votes="115" Average_rating="7,3" />
+  <OpEpisode Key="596" Rank="82,316" Trend="-" Season="1" Episode="597" Name="Dai-Gekisen: Caesar Shin no Nouryoku Hatsudou!" Total_votes="114" Average_rating="7,7" />
+  <OpEpisode Key="597" Rank="87,857" Trend="-" Season="1" Episode="598" Name="Honoo Kirisaku Samurai! Kitsunebi no Kin'emon!" Total_votes="114" Average_rating="7,3" />
+  <OpEpisode Key="598" Rank="85,169" Trend="-" Season="1" Episode="599" Name="Shougeki! Nazo no Otoko Vergo no Shoutai!" Total_votes="117" Average_rating="7,4" />
+  <OpEpisode Key="599" Rank="87,947" Trend="-" Season="1" Episode="600" Name="Kodomo-tachi o Mamore! Semaru Master no Ma no Te" Total_votes="117" Average_rating="7,2" />
+  <OpEpisode Key="600" Rank="86,577" Trend="-" Season="1" Episode="601" Name="Shin Sekai Gekishin: Caesar Akumu no Jikken" Total_votes="117" Average_rating="7,3" />
+  <OpEpisode Key="601" Rank="87,858" Trend="-" Season="1" Episode="602" Name="Shijou Saiaku no Satsuriku Heiki! Shinokuni" Total_votes="114" Average_rating="7,3" />
+  <OpEpisode Key="602" Rank="83,264" Trend="1" Season="1" Episode="603" Name="Hangeki Kaishi! Luffy-Law Daidasshutsu" Total_votes="115" Average_rating="7,6" />
+  <OpEpisode Key="603" Rank="86,042" Trend="-" Season="1" Episode="604" Name="Mezase R-tou! Kaizoku Doumei Kaishingeki!" Total_votes="115" Average_rating="7,4" />
+  <OpEpisode Key="604" Rank="89,090" Trend="-" Season="1" Episode="605" Name="Tashigi no Namida: G-5 Kesshi no Toppa Sakusen" Total_votes="118" Average_rating="7,1" />
+  <OpEpisode Key="605" Rank="86,578" Trend="-" Season="1" Episode="606" Name="Uragiri no Chuujou! Kichiku no Vergo" Total_votes="117" Average_rating="7,3" />
+  <OpEpisode Key="606" Rank="79,381" Trend="-" Season="1" Episode="607" Name="Hakunetsu no Gekisen: Luffy VS Caesar" Total_votes="115" Average_rating="7,9" />
+  <OpEpisode Key="607" Rank="85,170" Trend="-" Season="1" Episode="608" Name="Yami no Kuromaku! Doflamingo Ugoku!" Total_votes="117" Average_rating="7,4" />
+  <OpEpisode Key="608" Rank="85,171" Trend="-" Season="1" Episode="609" Name="Luffy Toushi!? Kyoufu no Yukionna Monet!" Total_votes="117" Average_rating="7,4" />
+  <OpEpisode Key="609" Rank="87,948" Trend="1" Season="1" Episode="610" Name="Butsukaru Kobushi! Futari no Chuujou no Tatakai" Total_votes="117" Average_rating="7,2" />
+  <OpEpisode Key="610" Rank="88,466" Trend="-" Season="1" Episode="611" Name="Chiisana Dragon! Momonosuke Arawaru" Total_votes="116" Average_rating="7,2" />
+  <OpEpisode Key="611" Rank="86,043" Trend="-" Season="1" Episode="612" Name="Fubuki no Shitou: Mugiwara no Ichimi Tai Yukionna" Total_votes="115" Average_rating="7,4" />
+  <OpEpisode Key="612" Rank="72,213" Trend="1" Season="1" Episode="613" Name="Ougi Sakuretsu! Zoro Saikyou no Ittou-ryuu!" Total_votes="130" Average_rating="8" />
+  <OpEpisode Key="613" Rank="82,477" Trend="-" Season="1" Episode="614" Name="Tomodachi o Mamoru! Mocha Inochi-gake no Tousou" Total_votes="120" Average_rating="7,5" />
+  <OpEpisode Key="614" Rank="82,823" Trend="-" Season="1" Episode="615" Name="Chahige Hitsuu! Luffy Ikari no Ichigeki" Total_votes="116" Average_rating="7,6" />
+  <OpEpisode Key="615" Rank="67,927" Trend="1" Season="1" Episode="616" Name="Shougeki no Kecchaku! Smoker Tai Vergo!" Total_votes="136" Average_rating="8,2" />
+  <OpEpisode Key="616" Rank="78,583" Trend="-" Season="1" Episode="617" Name="Caesar Gekiha! Saikyou no Grizzly Magnum" Total_votes="123" Average_rating="7,7" />
+  <OpEpisode Key="617" Rank="84,655" Trend="-" Season="1" Episode="618" Name="Shuurai! Dressrosa kara no Shikaku" Total_votes="115" Average_rating="7,5" />
+  <OpEpisode Key="618" Rank="81,574" Trend="-" Season="1" Episode="619" Name="Ooabare! Muteki no Franky Shougun" Total_votes="119" Average_rating="7,6" />
+  <OpEpisode Key="619" Rank="78,978" Trend="1" Season="1" Episode="620" Name="Zettai Zetsumei! Punk Hazard Dai-Bakuhatsu" Total_votes="122" Average_rating="7,7" />
+  <OpEpisode Key="620" Rank="77,715" Trend="-" Season="1" Episode="621" Name="Caesar o Hokaku-seyo - General Canon Sakuretsu" Total_votes="122" Average_rating="7,8" />
+  <OpEpisode Key="621" Rank="80,300" Trend="-" Season="1" Episode="622" Name="Kandou no Saikai! Momonosuke to Kin'emon" Total_votes="122" Average_rating="7,6" />
+  <OpEpisode Key="622" Rank="82,576" Trend="-" Season="1" Episode="623" Name="Sekibetsu no Toki - Punk Hazard Shukkou!" Total_votes="123" Average_rating="7,4" />
+  <OpEpisode Key="623" Rank="71,273" Trend="4" Season="1" Episode="624" Name="G-5 Kaimetsu! Doflamingo Kyuushuu!" Total_votes="136" Average_rating="7,9" />
+  <OpEpisode Key="624" Rank="73,510" Trend="1" Season="1" Episode="625" Name="Kinpaku! Aokiji tai Doflamingo" Total_votes="133" Average_rating="7,8" />
+  <OpEpisode Key="625" Rank="93,412" Trend="-" Season="1" Episode="626" Name="Kieta Caesar! Kaizoku Doumei Shutsugeki" Total_votes="115" Average_rating="6,9" />
+  <OpEpisode Key="626" Rank="95,520" Trend="-" Season="1" Episode="627" Name="Luffy Umi ni Shisu!? Kaizoku Doumei Houkai" Total_votes="114" Average_rating="6,8" />
+  <OpEpisode Key="627" Rank="98,208" Trend="-" Season="1" Episode="628" Name="Daigyakuten! Sakuretsu Luffy Ikari no Tekken" Total_votes="112" Average_rating="6,7" />
+  <OpEpisode Key="628" Rank="71,276" Trend="-" Season="1" Episode="629" Name="Gekishin! Shinsekai Ugokasu Dai News" Total_votes="136" Average_rating="7,9" />
+  <OpEpisode Key="629" Rank="73,385" Trend="-" Season="1" Episode="630" Name="Bouken! Ai to Jounetsu no Kuni Dressrosa" Total_votes="130" Average_rating="7,9" />
+  <OpEpisode Key="630" Rank="69,783" Trend="-" Season="1" Episode="631" Name="Nekkyou Uzumaku: Corrida Colosseum" Total_votes="137" Average_rating="8" />
+  <OpEpisode Key="631" Rank="76,136" Trend="-" Season="1" Episode="632" Name="Kiken na Koi: Odoriko Violet" Total_votes="126" Average_rating="7,8" />
+  <OpEpisode Key="632" Rank="76,137" Trend="-" Season="1" Episode="633" Name="Saikyou no Mumei Senshi! Lucy Toujou" Total_votes="126" Average_rating="7,8" />
+  <OpEpisode Key="633" Rank="76,529" Trend="-" Season="1" Episode="634" Name="Kaizoku Kikoushi Cavendish" Total_votes="125" Average_rating="7,8" />
+  <OpEpisode Key="634" Rank="74,881" Trend="-" Season="1" Episode="635" Name="Unmei no Saikai: Hyena no Bellamy" Total_votes="126" Average_rating="7,9" />
+  <OpEpisode Key="635" Rank="75,229" Trend="-" Season="1" Episode="636" Name="Choushinsei! Hitokui no Bartolomeo" Total_votes="125" Average_rating="7,9" />
+  <OpEpisode Key="636" Rank="77,199" Trend="-" Season="1" Episode="637" Name="Gun'yuu Kakkyo! Hakunetsu no B Block!" Total_votes="120" Average_rating="7,9" />
+  <OpEpisode Key="637" Rank="74,882" Trend="-" Season="1" Episode="638" Name="Ichigeki Hissatsu! Kyoui no King Punch" Total_votes="126" Average_rating="7,9" />
+  <OpEpisode Key="638" Rank="78,972" Trend="-" Season="1" Episode="639" Name="Tougyo Shuurai! Shi no Tekkyou o Toppa Seyo" Total_votes="122" Average_rating="7,7" />
+  <OpEpisode Key="639" Rank="84,295" Trend="-" Season="1" Episode="640" Name="Bouken! Yousei no Shima Green Bit" Total_votes="119" Average_rating="7,4" />
+  <OpEpisode Key="640" Rank="82,487" Trend="-" Season="1" Episode="641" Name="Shirarezaru Sekai Tontatta Oukoku" Total_votes="120" Average_rating="7,5" />
+  <OpEpisode Key="641" Rank="75,165" Trend="1" Season="1" Episode="642" Name="Seiki no Bouryaku: Doflamingo Ugoku" Total_votes="122" Average_rating="8" />
+  <OpEpisode Key="642" Rank="72,523" Trend="-" Season="1" Episode="643" Name="Tenchi Yurugasu! Taishou Fujitora no Jitsuryoku" Total_votes="126" Average_rating="8,1" />
+  <OpEpisode Key="643" Rank="76,893" Trend="-" Season="1" Episode="644" Name="Ikari no Ichigeki! Kyojin vs Lucy" Total_votes="124" Average_rating="7,8" />
+  <OpEpisode Key="644" Rank="83,482" Trend="-" Season="1" Episode="645" Name="Hakai-hou Sakuretsu! Lucy Kikiippatsu" Total_votes="121" Average_rating="7,4" />
+  <OpEpisode Key="645" Rank="63,120" Trend="1" Season="1" Episode="646" Name="Densetsu no Kaizoku - Don Chinjao!" Total_votes="148" Average_rating="8,3" />
+  <OpEpisode Key="646" Rank="81,584" Trend="-" Season="1" Episode="647" Name="Hikari to Kage - Dressrosa ni Hisomu Yami!" Total_votes="119" Average_rating="7,6" />
+  <OpEpisode Key="647" Rank="80,624" Trend="-" Season="1" Episode="648" Name="Shutsugeki - Densetsu no Hero Usoland" Total_votes="118" Average_rating="7,7" />
+  <OpEpisode Key="648" Rank="69,672" Trend="-" Season="1" Episode="649" Name="Gekisen Kecchaku! Lucy VS Chinjao!" Total_votes="134" Average_rating="8,1" />
+  <OpEpisode Key="649" Rank="78,051" Trend="-" Season="1" Episode="650" Name="Luffy to Shukumei no Ken Toushi Rebecca" Total_votes="118" Average_rating="7,9" />
+  <OpEpisode Key="650" Rank="80,577" Trend="-" Season="1" Episode="651" Name="Mamorinuku! Rebecca to Omocha no Heitai" Total_votes="115" Average_rating="7,8" />
+  <OpEpisode Key="651" Rank="83,689" Trend="-" Season="1" Episode="652" Name="Saigo no Chou Gekisen Ku - D Block Kaisen" Total_votes="114" Average_rating="7,6" />
+  <OpEpisode Key="652" Rank="84,156" Trend="-" Season="1" Episode="653" Name="Kessen! Joura vs Mugiwara no Ichimi" Total_votes="113" Average_rating="7,6" />
+  <OpEpisode Key="653" Rank="77,651" Trend="-" Season="1" Episode="654" Name="Yoshiken! Hakuba no Cavendish" Total_votes="119" Average_rating="7,9" />
+  <OpEpisode Key="654" Rank="68,377" Trend="-" Season="1" Episode="655" Name="Dai Kessen! Sanji VS Doflamingo" Total_votes="138" Average_rating="8,1" />
+  <OpEpisode Key="655" Rank="79,324" Trend="-" Season="1" Episode="656" Name="Rebecca no Shi no Ken! Haisui no Kenbu" Total_votes="118" Average_rating="7,8" />
+  <OpEpisode Key="656" Rank="83,690" Trend="-" Season="1" Episode="657" Name="Saikyou no Senshi! Logan vs Rebecca" Total_votes="114" Average_rating="7,6" />
+  <OpEpisode Key="657" Rank="81,994" Trend="-" Season="1" Episode="658" Name="Shougeki! Omocha no Heitai no Shoutai!" Total_votes="112" Average_rating="7,8" />
+  <OpEpisode Key="658" Rank="77,241" Trend="-" Season="1" Episode="659" Name="Senritsu no Kako! Dressrosa no Himitsu" Total_votes="117" Average_rating="8" />
+  <OpEpisode Key="659" Rank="76,420" Trend="-" Season="1" Episode="660" Name="Akumu! Dressrosa Higeki no Ichiya" Total_votes="119" Average_rating="8" />
+  <OpEpisode Key="660" Rank="64,189" Trend="2" Season="1" Episode="661" Name="Shichibukai Taiketsu Law VS Doflamingo" Total_votes="141" Average_rating="8,4" />
+  <OpEpisode Key="661" Rank="64,732" Trend="1" Season="1" Episode="662" Name="Ryouyuu Aimamieru! Mugiwara to Ten Yasha" Total_votes="139" Average_rating="8,4" />
+  <OpEpisode Key="662" Rank="45,219" Trend="12" Season="1" Episode="663" Name="Luffy Kyougaku: Ace no Ishi o Tsugu Otoko" Total_votes="201" Average_rating="8,9" />
+  <OpEpisode Key="663" Rank="84,154" Trend="-" Season="1" Episode="664" Name="SOP Sakusen Kaishi: Usoland Totsugeki" Total_votes="113" Average_rating="7,6" />
+  <OpEpisode Key="664" Rank="84,155" Trend="-" Season="1" Episode="665" Name="Atsuki Omoi - Rebecca vs. Suleiman" Total_votes="113" Average_rating="7,6" />
+  <OpEpisode Key="665" Rank="81,995" Trend="-" Season="1" Episode="666" Name="Shousha Kettei!? D Block Shougeki no Ketsumatsu" Total_votes="112" Average_rating="7,8" />
+  <OpEpisode Key="666" Rank="79,326" Trend="-" Season="1" Episode="667" Name="Taishou no Ketsudan - Fujitora vs. Doflamingo" Total_votes="118" Average_rating="7,8" />
+  <OpEpisode Key="667" Rank="80,576" Trend="-" Season="1" Episode="668" Name="Kesshou Kaishi: Eiyuu Diamante Toujou" Total_votes="115" Average_rating="7,8" />
+  <OpEpisode Key="668" Rank="80,119" Trend="-" Season="1" Episode="669" Name="Ugoku Shiro! Saikou Kanbu Pica Shutsugen" Total_votes="116" Average_rating="7,8" />
+  <OpEpisode Key="669" Rank="75,567" Trend="-" Season="1" Episode="670" Name="Ryuu no Tsume Sakuretsu! Lucy Kyoui no Ichigeki!" Total_votes="121" Average_rating="8" />
+  <OpEpisode Key="670" Rank="81,992" Trend="-" Season="1" Episode="671" Name="Tatou Sugar: Kodomo no Heitai Totsugeki!" Total_votes="112" Average_rating="7,8" />
+  <OpEpisode Key="671" Rank="81,512" Trend="-" Season="1" Episode="672" Name="Saigo no Hikari: Warera ga Taichou no Himitsu!" Total_votes="113" Average_rating="7,8" />
+  <OpEpisode Key="672" Rank="82,438" Trend="-" Season="1" Episode="673" Name="Panku Ningen: Gladius Dai Bakuhatsu!" Total_votes="111" Average_rating="7,8" />
+  <OpEpisode Key="673" Rank="80,575" Trend="-" Season="1" Episode="674" Name="Usotsuki Usoland Tousouchuu!" Total_votes="115" Average_rating="7,8" />
+  <OpEpisode Key="674" Rank="73,250" Trend="-" Season="1" Episode="675" Name="Unmei no Deai: Kyros to Riku Ou" Total_votes="124" Average_rating="8,1" />
+  <OpEpisode Key="675" Rank="74,446" Trend="1" Season="1" Episode="676" Name="Sakusen Shippai! Eiyuu Usoland Shisu!?" Total_votes="124" Average_rating="8" />
+  <OpEpisode Key="676" Rank="54,238" Trend="4" Season="1" Episode="677" Name="Densetsu Fukkatsu! Kyros Konshin no Ichigeki" Total_votes="169" Average_rating="8,6" />
+  <OpEpisode Key="677" Rank="55,978" Trend="6" Season="1" Episode="678" Name="Kaken Sakuretsu! Fukkatsu Meramera no Mi no Chikara" Total_votes="162" Average_rating="8,6" />
+  <OpEpisode Key="678" Rank="73,977" Trend="-" Season="1" Episode="679" Name="Sassou Toujou: Kakumeigun Sanbou Souchou Sabo!" Total_votes="122" Average_rating="8,1" />
+  <OpEpisode Key="679" Rank="76,061" Trend="-" Season="1" Episode="680" Name="Akuma no Wana: Dressrosa Senmetsu Sakusen" Total_votes="117" Average_rating="8,1" />
+  <OpEpisode Key="680" Rank="78,926" Trend="-" Season="1" Episode="681" Name="Go-oku no Otoko: Nerawareta Usoland!" Total_votes="116" Average_rating="7,9" />
+  <OpEpisode Key="681" Rank="83,696" Trend="-" Season="1" Episode="682" Name="Tekijin Toppa: Luffy Zoro Hangeki Kaishi" Total_votes="114" Average_rating="7,6" />
+  <OpEpisode Key="682" Rank="79,837" Trend="-" Season="1" Episode="683" Name="Daichi Meidou: Hakai Kami Kyoudai Pica Kourin" Total_votes="114" Average_rating="7,9" />
+  <OpEpisode Key="683" Rank="81,991" Trend="-" Season="1" Episode="684" Name="Daishuuketsu! Luffy to Kyouaku Senshi Gundan" Total_votes="112" Average_rating="7,8" />
+  <OpEpisode Key="684" Rank="76,816" Trend="-" Season="1" Episode="685" Name="Kaishingeki! Luffy Gundan vs Pica!" Total_votes="118" Average_rating="8" />
+  <OpEpisode Key="685" Rank="78,458" Trend="-" Season="1" Episode="686" Name="Shougeki Kokuhaku! Law Atsuki Tamashii no Chikai!" Total_votes="117" Average_rating="7,9" />
+  <OpEpisode Key="686" Rank="65,959" Trend="1" Season="1" Episode="687" Name="Daigekitotsu! Sanbou Souchou Sabo vs Taishou Fujitora" Total_votes="142" Average_rating="8,2" />
+  <OpEpisode Key="687" Rank="76,028" Trend="-" Season="1" Episode="688" Name="Zettaizetsumei: Wana ni Kakatta Luffy!" Total_votes="123" Average_rating="7,9" />
+  <OpEpisode Key="688" Rank="76,449" Trend="-" Season="1" Episode="689" Name="Daidasshutsu! Luffy Kishikaisei no Elephant Gun" Total_votes="122" Average_rating="7,9" />
+  <OpEpisode Key="689" Rank="80,716" Trend="-" Season="1" Episode="690" Name="Kyoudousensen: Luffy Shouri e no Toppakou" Total_votes="121" Average_rating="7,6" />
+  <OpEpisode Key="690" Rank="81,490" Trend="-" Season="1" Episode="691" Name="Futarime no Samurai: Yuudachi Kanjuurou Toujou" Total_votes="116" Average_rating="7,7" />
+  <OpEpisode Key="691" Rank="71,670" Trend="1" Season="1" Episode="692" Name="Funtou to no Pica: Zoro Ichi Todome no Ichigeki" Total_votes="125" Average_rating="8,2" />
+  <OpEpisode Key="692" Rank="84,170" Trend="-" Season="1" Episode="693" Name="Kobito no Hime: Toraware no Mansherry" Total_votes="116" Average_rating="7,5" />
+  <OpEpisode Key="693" Rank="85,599" Trend="-" Season="1" Episode="694" Name="Fujimi! Kyoufu no Atamawari Ningyou Gundan" Total_votes="116" Average_rating="7,4" />
+  <OpEpisode Key="694" Rank="75,566" Trend="-" Season="1" Episode="695" Name="Inochi Kakete! Luffy wa Shouri no Kirifuda" Total_votes="121" Average_rating="8" />
+  <OpEpisode Key="695" Rank="73,592" Trend="-" Season="1" Episode="696" Name="Namida no Saikai: Rebecca to Kyros" Total_votes="120" Average_rating="8,2" />
+  <OpEpisode Key="696" Rank="65,410" Trend="2" Season="1" Episode="697" Name="Ichigeki Hissatsu: Dressrosa o Sukuu Otoko" Total_votes="137" Average_rating="8,4" />
+  <OpEpisode Key="697" Rank="50,194" Trend="5" Season="1" Episode="698" Name="Ikari Bakuhatsu: Luffy Law Saikyou no Hisaku" Total_votes="179" Average_rating="8,8" />
+  <OpEpisode Key="698" Rank="64,681" Trend="1" Season="1" Episode="699" Name="Kedakaki Ichizoku! Doflamingo no Shoutai!" Total_votes="136" Average_rating="8,5" />
+  <OpEpisode Key="699" Rank="72,033" Trend="2" Season="1" Episode="700" Name="Kyuukyoku no Chikara: Op-Op no Jitsu no Himitsu!" Total_votes="124" Average_rating="8,2" />
+  <OpEpisode Key="700" Rank="67,047" Trend="4" Season="1" Episode="701" Name="Kanashiki Kioku: Shiroi Machi no Shounen Law!" Total_votes="132" Average_rating="8,4" />
+  <OpEpisode Key="701" Rank="67,866" Trend="2" Season="1" Episode="702" Name="Tenryuubito! Doffy no Souzetsu Naru Kako" Total_votes="133" Average_rating="8,3" />
+  <OpEpisode Key="702" Rank="58,062" Trend="4" Season="1" Episode="703" Name="Kunan no Michi: Law to Corazon Inochi no Tabi" Total_votes="151" Average_rating="8,7" />
+  <OpEpisode Key="703" Rank="63,385" Trend="2" Season="1" Episode="704" Name="Toki Sameru! Op-Op no Mi o Ubae!" Total_votes="137" Average_rating="8,6" />
+  <OpEpisode Key="704" Rank="60,565" Trend="2" Season="1" Episode="705" Name="Kakugo no Toki: Corazon Wakare no Egao!" Total_votes="146" Average_rating="8,6" />
+  <OpEpisode Key="705" Rank="44,706" Trend="11" Season="1" Episode="706" Name="Yuke Law: Yasashiki Otoko Saigo no Tatakai!" Total_votes="204" Average_rating="8,9" />
+  <OpEpisode Key="706" Rank="77,682" Trend="1" Season="1" Episode="707" Name="Jiyuu e! Law Injection Shot Sakuretsu" Total_votes="116" Average_rating="8" />
+  <OpEpisode Key="707" Rank="61,716" Trend="3" Season="1" Episode="708" Name="Atsuki Tatakai: Law vs Doflamingo" Total_votes="142" Average_rating="8,6" />
+  <OpEpisode Key="708" Rank="82,895" Trend="-" Season="1" Episode="709" Name="Kanbu Kessen: Hokori Takaki Hajrudin" Total_votes="110" Average_rating="7,8" />
+  <OpEpisode Key="709" Rank="80,783" Trend="-" Season="1" Episode="710" Name="Ai no Kessen: Shintouryou Sai tai Baby 5" Total_votes="109" Average_rating="8" />
+  <OpEpisode Key="710" Rank="80,326" Trend="-" Season="1" Episode="711" Name="Otoko no Iji: Bellamy Saigo no Totsugeki!" Total_votes="110" Average_rating="8" />
+  <OpEpisode Key="711" Rank="79,125" Trend="1" Season="1" Episode="712" Name="Shippuudotou: Hakuba tai Dellinger" Total_votes="110" Average_rating="8,1" />
+  <OpEpisode Key="712" Rank="75,803" Trend="-" Season="1" Episode="713" Name="Baribari: Homage Shinken Hatsudou!" Total_votes="112" Average_rating="8,3" />
+  <OpEpisode Key="713" Rank="86,790" Trend="-" Season="1" Episode="714" Name="Iyashi no Hime: Mansherry o Sukue!" Total_votes="102" Average_rating="7,8" />
+  <OpEpisode Key="714" Rank="72,044" Trend="1" Season="1" Episode="715" Name="Otoko no Kettou: Senor Ai no Banka" Total_votes="121" Average_rating="8,3" />
+  <OpEpisode Key="715" Rank="76,571" Trend="1" Season="1" Episode="716" Name="Shi no Hoshikuzu: Diamante Moukou no Arashi" Total_votes="113" Average_rating="8,2" />
+  <OpEpisode Key="716" Rank="75,367" Trend="1" Season="1" Episode="717" Name="Trueno Bastardo: Kyros Ikari no Ichigeki" Total_votes="113" Average_rating="8,3" />
+  <OpEpisode Key="717" Rank="76,858" Trend="-" Season="1" Episode="718" Name="Daichi Oudan: Kyozou Pica Kishuu Sakusen!" Total_votes="115" Average_rating="8,1" />
+  <OpEpisode Key="718" Rank="36,067" Trend="17" Season="1" Episode="719" Name="Kuuchuu Kessen: Zoro Shin Hissastsu Ougi Sakuretsu!" Total_votes="262" Average_rating="9,1" />
+  <OpEpisode Key="719" Rank="69,523" Trend="-" Season="1" Episode="720" Name="Abayo! Bellamy Wakare no Ichigeki!" Total_votes="125" Average_rating="8,4" />
+  <OpEpisode Key="720" Rank="69,524" Trend="-" Season="1" Episode="721" Name="Law Shisu: Luffy Fundo no Moukougeki!" Total_votes="125" Average_rating="8,4" />
+  <OpEpisode Key="721" Rank="66,704" Trend="3" Season="1" Episode="722" Name="Shuunen no Yaiba: Gyakushuu no Gamma Knife!" Total_votes="130" Average_rating="8,5" />
+  <OpEpisode Key="722" Rank="47,172" Trend="9" Season="1" Episode="723" Name="Haki Gekitotsu: Luffy tai Doflamingo" Total_votes="190" Average_rating="8,9" />
+  <OpEpisode Key="723" Rank="69,872" Trend="-" Season="1" Episode="724" Name="Kougeki Funou: Trebol Shougeki no Himitsu" Total_votes="124" Average_rating="8,4" />
+  <OpEpisode Key="724" Rank="56,977" Trend="4" Season="1" Episode="725" Name="Ikari Bakuhatsu: Ore ga Zenbu Hikiukeru" Total_votes="158" Average_rating="8,6" />
+  <OpEpisode Key="725" Rank="30,035" Trend="23" Season="1" Episode="726" Name="Gear Fourth! Kyoui no Bounce Man!" Total_votes="328" Average_rating="9,2" />
+  <OpEpisode Key="726" Rank="74,470" Trend="-" Season="1" Episode="727" Name="Daigyakushuu! Doflamingo no Kakusei!" Total_votes="118" Average_rating="8,2" />
+  <OpEpisode Key="727" Rank="54,367" Trend="5" Season="1" Episode="728" Name="Luffy! Konshin no Leo Bazooka" Total_votes="161" Average_rating="8,8" />
+  <OpEpisode Key="728" Rank="73,704" Trend="-" Season="1" Episode="729" Name="Kaen Ryuuou: Luffy no Inochi o Mamorinuke" Total_votes="117" Average_rating="8,3" />
+  <OpEpisode Key="729" Rank="87,633" Trend="-" Season="1" Episode="730" Name="Kiseki no Namida: Mansherry no Tatakai!" Total_votes="103" Average_rating="7,7" />
+  <OpEpisode Key="730" Rank="88,320" Trend="-" Season="1" Episode="731" Name="Inochi no Kagiri: Shi no Tori Kago o Tomero!" Total_votes="110" Average_rating="7,4" />
+  <OpEpisode Key="731" Rank="82,122" Trend="-" Season="1" Episode="732" Name="Sei ka Shi ka: Unmei no Countdown" Total_votes="109" Average_rating="7,9" />
+  <OpEpisode Key="732" Rank="47,660" Trend="5" Season="1" Episode="733" Name="Ten o Utsu: Luffy Ikari no King Kong Gun" Total_votes="192" Average_rating="8,8" />
+  <OpEpisode Key="733" Rank="85,125" Trend="-" Season="1" Episode="734" Name="Jiyuu e! Yorokobi no Dressrosa!" Total_votes="111" Average_rating="7,6" />
+  <OpEpisode Key="734" Rank="74,403" Trend="-" Season="1" Episode="735" Name="Zendaimimon: Taishou Fujitora Shougeki no Ketsudan!" Total_votes="121" Average_rating="8,1" />
+  <OpEpisode Key="735" Rank="67,404" Trend="1" Season="1" Episode="736" Name="Gekishin Hashiru: Ugokidasu Saiaku no Sedai!" Total_votes="128" Average_rating="8,5" />
+  <OpEpisode Key="736" Rank="76,555" Trend="1" Season="1" Episode="737" Name="Densetsu Tanjou: Kakumei Senshi Sabo no Bouken!" Total_votes="113" Average_rating="8,2" />
+  <OpEpisode Key="737" Rank="75,671" Trend="-" Season="1" Episode="738" Name="Kyoudai no Kizuna: Luffy Sabo Saikai Hiwa" Total_votes="115" Average_rating="8,2" />
+  <OpEpisode Key="738" Rank="51,012" Trend="4" Season="1" Episode="739" Name="Saikyou no Seibutsu: Yonkou - Hyakujuu no Kaidou" Total_votes="179" Average_rating="8,7" />
+  <OpEpisode Key="739" Rank="85,316" Trend="-" Season="1" Episode="740" Name="Fujitora Ugoku: Mugiwara no Ichimi Kanzen Houimou" Total_votes="105" Average_rating="7,8" />
+  <OpEpisode Key="740" Rank="84,334" Trend="-" Season="1" Episode="741" Name="Hijoujitai: Sarawareta Rebecca!" Total_votes="107" Average_rating="7,8" />
+  <OpEpisode Key="741" Rank="85,671" Trend="-" Season="1" Episode="742" Name="Oyako no Kizuna: Kyros to Rebecca!" Total_votes="107" Average_rating="7,7" />
+  <OpEpisode Key="742" Rank="69,575" Trend="2" Season="1" Episode="743" Name="Otoko no Iji: Luffy tai Fujitora Makkou Shoubu" Total_votes="122" Average_rating="8,5" />
+  <OpEpisode Key="743" Rank="68,802" Trend="2" Season="1" Episode="744" Name="Nigeba Nashi: Taishou Fujitora Hijou no Tsuigeki!" Total_votes="124" Average_rating="8,5" />
+  <OpEpisode Key="744" Rank="62,829" Trend="3" Season="1" Episode="745" Name="Kobun no Sakazuki: Kessei! Mugiwara Daisendan!" Total_votes="142" Average_rating="8,5" />
+  <OpEpisode Key="745" Rank="75,251" Trend="2" Season="1" Episode="746" Name="Gun'yuukakyo: Arekuruu Shinsekai no Kaibutsu-tachi" Total_votes="116" Average_rating="8,2" />
+  <OpEpisode Key="746" Rank="96,261" Trend="-" Season="1" Episode="747" Name="Gin no Yousai: Luffy to Barto Daibouken" Total_votes="109" Average_rating="6,9" />
+  <OpEpisode Key="747" Rank="107,851" Trend="-" Season="1" Episode="748" Name="Chika Meikyuu: Luffy tai Torokko Ningen" Total_votes="101" Average_rating="6,5" />
+  <OpEpisode Key="748" Rank="107,252" Trend="-" Season="1" Episode="749" Name="Kengi Hakunetsu: Law Zoro Tsui ni Kenzan!" Total_votes="96" Average_rating="6,7" />
+  <OpEpisode Key="749" Rank="107,911" Trend="-" Season="1" Episode="750" Name="Zettaizetsumei: Luffy Kyokugen no Shakunetsu Kessen" Total_votes="95" Average_rating="6,7" />
+  <OpEpisode Key="750" Rank="93,689" Trend="-" Season="1" Episode="751" Name="Bouken Kaimaku: Maboroshi no Shima &amp;quot;Zou&amp;quot; Touchaku!" Total_votes="105" Average_rating="7,2" />
+  <OpEpisode Key="751" Rank="82,120" Trend="1" Season="1" Episode="752" Name="Shin Shichi Bukai: Densetsu Shirohige no Musuko Toujou" Total_votes="109" Average_rating="7,9" />
+  <OpEpisode Key="752" Rank="90,259" Trend="-" Season="1" Episode="753" Name="Kesshi no Tozou: Kyozou no Se no Daibouken!" Total_votes="106" Average_rating="7,4" />
+  <OpEpisode Key="753" Rank="95,499" Trend="-" Season="1" Episode="754" Name="Sentou Kaishi: Luffy vs Mink-zoku!" Total_votes="99" Average_rating="7,3" />
+  <OpEpisode Key="754" Rank="92,824" Trend="-" Season="1" Episode="755" Name="Garchuu! Mugiwara no Ichimi Saishuuketsu" Total_votes="101" Average_rating="7,4" />
+  <OpEpisode Key="755" Rank="95,500" Trend="-" Season="1" Episode="756" Name="Hangeki Kaishi: Guruwara no Ichimi Daikatsuyaku!" Total_votes="99" Average_rating="7,3" />
+  <OpEpisode Key="756" Rank="89,130" Trend="-" Season="1" Episode="757" Name="Kyoui Shuurai: Hyakujuu Kaizokudan Jack!" Total_votes="100" Average_rating="7,7" />
+  <OpEpisode Key="757" Rank="92,463" Trend="-" Season="1" Episode="758" Name="Hiru no Ou: Inuarashi Koushaku Toujou!" Total_votes="99" Average_rating="7,5" />
+  <OpEpisode Key="758" Rank="85,946" Trend="1" Season="1" Episode="759" Name="Yoru no Ou: Nekomamushi no Danna Kenzan" Total_votes="101" Average_rating="7,9" />
+  <OpEpisode Key="759" Rank="84,987" Trend="1" Season="1" Episode="760" Name="Shuto Kaimetsu: Guruware no Ichimi Jouriku!" Total_votes="103" Average_rating="7,9" />
+  <OpEpisode Key="760" Rank="90,968" Trend="1" Season="1" Episode="761" Name="Limit Semaru: Mink-zoku to Ichimi no Kizuna!" Total_votes="99" Average_rating="7,6" />
+  <OpEpisode Key="761" Rank="84,096" Trend="2" Season="1" Episode="762" Name="Akudou Kikyou: Yonkou Big Mom no Shikaku" Total_votes="102" Average_rating="8" />
+  <OpEpisode Key="762" Rank="84,097" Trend="2" Season="1" Episode="763" Name="Shissou no Shinjitsu: Sanji Kyougaku no Shoutaijou" Total_votes="102" Average_rating="8" />
+  <OpEpisode Key="763" Rank="80,456" Trend="3" Season="1" Episode="764" Name="Yarou Domo e: Sanji Wakare no Okitegami" Total_votes="107" Average_rating="8,1" />
+  <OpEpisode Key="764" Rank="95,571" Trend="1" Season="1" Episode="765" Name="Nekomamushi no Danna ni Ai ni Ikou" Total_votes="96" Average_rating="7,4" />
+  <OpEpisode Key="765" Rank="93,486" Trend="-" Season="1" Episode="766" Name="Luffy Ketsudan: Sanji Dattai no Kiki!" Total_votes="97" Average_rating="7,5" />
+  <OpEpisode Key="766" Rank="72,127" Trend="3" Season="1" Episode="767" Name="Isshokusokuhatsu: Inu to Neko to Samurai!" Total_votes="118" Average_rating="8,4" />
+  <OpEpisode Key="767" Rank="87,640" Trend="-" Season="1" Episode="768" Name="Sanninme! Ninja Kiri no Raizou Toujou" Total_votes="103" Average_rating="7,7" />
+  <OpEpisode Key="768" Rank="75,205" Trend="-" Season="1" Episode="769" Name="Akai Ishi! &amp;quot;One Piece&amp;quot; e no Michishirube" Total_votes="119" Average_rating="8,1" />
+  <OpEpisode Key="769" Rank="74,109" Trend="2" Season="1" Episode="770" Name="Wano Kuni no Himitsu: Kouzuki-ke to Rekishi no Ponegliffs" Total_votes="116" Average_rating="8,3" />
+  <OpEpisode Key="770" Rank="86,656" Trend="1" Season="1" Episode="771" Name="Okoto no Chikai: Luffy to Kouzuki Momonosuke" Total_votes="105" Average_rating="7,7" />
+  <OpEpisode Key="771" Rank="92,671" Trend="-" Season="1" Episode="772" Name="Densetsu no Koukai: Inu to Neko to Kaizokuou!" Total_votes="96" Average_rating="7,6" />
+  <OpEpisode Key="772" Rank="93,897" Trend="-" Season="1" Episode="773" Name="Akumu Futatabi: Fujimi no Jack Kyoushuu" Total_votes="94" Average_rating="7,6" />
+  <OpEpisode Key="773" Rank="87,242" Trend="1" Season="1" Episode="774" Name="Zou Boueisen: Luffy to Zunesha!" Total_votes="101" Average_rating="7,8" />
+  <OpEpisode Key="774" Rank="104,368" Trend="-" Season="1" Episode="775" Name="Zunesha o Sukue: Mugiwara Rescue Daisakusen!" Total_votes="87" Average_rating="7,2" />
+  <OpEpisode Key="775" Rank="94,977" Trend="-" Season="1" Episode="776" Name="Wakare no Gezou: Sanji Dakkan no Funade!" Total_votes="92" Average_rating="7,6" />
+  <OpEpisode Key="776" Rank="101,005" Trend="-" Season="1" Episode="777" Name="Reverie e: Oujo Vivi to Shirahoshi-hime" Total_votes="95" Average_rating="7,1" />
+  <OpEpisode Key="777" Rank="101,540" Trend="-" Season="1" Episode="778" Name="Reverie e: Rebecca to Sakura Oukoku" Total_votes="89" Average_rating="7,3" />
+  <OpEpisode Key="778" Rank="95,604" Trend="-" Season="1" Episode="779" Name="Kaidou Futatabi: Kyoui Semaru Saiaku no Sedai!" Total_votes="91" Average_rating="7,6" />
+  <OpEpisode Key="779" Rank="108,112" Trend="-" Season="1" Episode="780" Name="Harapeko Sensen: Luffy to Kaigun Rookie!" Total_votes="82" Average_rating="7,2" />
+  <OpEpisode Key="780" Rank="107,967" Trend="-" Season="1" Episode="781" Name="Shuunen no 3 Nin: Mugiwara Ichimi Dai Chase!" Total_votes="80" Average_rating="7,3" />
+  <OpEpisode Key="781" Rank="103,307" Trend="-" Season="1" Episode="782" Name="Akuma no Kobushi: Kessen! Luffy tai Grant" Total_votes="84" Average_rating="7,4" />
+  <OpEpisode Key="782" Rank="97,503" Trend="-" Season="1" Episode="783" Name="Sanji Kikyou: Big Mom no Nawabari e!" Total_votes="88" Average_rating="7,6" />
+  <OpEpisode Key="783" Rank="97,504" Trend="1" Season="1" Episode="784" Name="Rei to Yon: Souguu! Germa Double Six" Total_votes="88" Average_rating="7,6" />
+  <OpEpisode Key="784" Rank="82,637" Trend="3" Season="1" Episode="785" Name="Moudoku no Kiki: Luffy to Reiju!" Total_votes="100" Average_rating="8,2" />
+  <OpEpisode Key="785" Rank="91,535" Trend="-" Season="1" Episode="786" Name="Totto Land! Yonkou Big Mom Toujou" Total_votes="98" Average_rating="7,6" />
+  <OpEpisode Key="786" Rank="93,283" Trend="-" Season="1" Episode="787" Name="Yonkou no Musume: Sanji no Fiancee Purin" Total_votes="95" Average_rating="7,6" />
+  <OpEpisode Key="787" Rank="98,851" Trend="-" Season="1" Episode="788" Name="Dai Shingeki! Kui Wazurai no Mom" Total_votes="86" Average_rating="7,6" />
+  <OpEpisode Key="788" Rank="94,784" Trend="-" Season="1" Episode="789" Name="Shuto Houkai!? Big Mom to Jinbee" Total_votes="90" Average_rating="7,7" />
+  <OpEpisode Key="789" Rank="98,263" Trend="-" Season="1" Episode="790" Name="Yonkou No Shiro: Whole Cake Island Touchaku" Total_votes="87" Average_rating="7,6" />
+  <OpEpisode Key="790" Rank="102,688" Trend="-" Season="1" Episode="791" Name="Okashi na Mori: Luffy tai Luffy!?" Total_votes="85" Average_rating="7,4" />
+  <OpEpisode Key="791" Rank="102,689" Trend="-" Season="1" Episode="792" Name="Mom no Shikaku: Luffy to Yuuwaku no Mori!" Total_votes="85" Average_rating="7,4" />
+  <OpEpisode Key="792" Rank="95,960" Trend="-" Season="1" Episode="793" Name="Kaiyuu Kokka: Germa no Ou Judge" Total_votes="93" Average_rating="7,5" />
+  <OpEpisode Key="793" Rank="97,502" Trend="-" Season="1" Episode="794" Name="Oyako Taiketsu: Judge tai Sanji!" Total_votes="88" Average_rating="7,6" />
+  <OpEpisode Key="794" Rank="99,005" Trend="-" Season="1" Episode="795" Name="Kyoudai na Yabou: Big Mom to Caesar" Total_votes="88" Average_rating="7,5" />
+  <OpEpisode Key="795" Rank="101,803" Trend="-" Season="1" Episode="796" Name="Tamashii no Kuni: Mom no Osorubeki Nouryoku!" Total_votes="84" Average_rating="7,5" />
+  <OpEpisode Key="796" Rank="97,319" Trend="-" Season="1" Episode="797" Name="Daikanbu! Sanshousei Cracker Toujou!" Total_votes="86" Average_rating="7,7" />
+  <OpEpisode Key="797" Rank="93,542" Trend="-" Season="1" Episode="798" Name="8 Oku no Teki: Luffy tai Senshu no Cracker" Total_votes="92" Average_rating="7,7" />
+  <OpEpisode Key="798" Rank="88,095" Trend="2" Season="1" Episode="799" Name="Zenryoku Shoubu: Gear Fourth tai Bisbis no Chikara" Total_votes="97" Average_rating="7,9" />
+  <OpEpisode Key="799" Rank="89,188" Trend="1" Season="1" Episode="800" Name="Ichi to Ni: Shuuketsu! Vinsmoke-ke" Total_votes="95" Average_rating="7,9" />
+  <OpEpisode Key="800" Rank="91,851" Trend="1" Season="1" Episode="801" Name="Onjin no Inochi: Sanji to Owner Zeff" Total_votes="95" Average_rating="7,7" />
+  <OpEpisode Key="801" Rank="84,061" Trend="2" Season="1" Episode="802" Name="Ikari no Sanji: Germa Double Six no Himitsu" Total_votes="95" Average_rating="8,3" />
+  <OpEpisode Key="802" Rank="79,038" Trend="3" Season="1" Episode="803" Name="Suteta Kako: Vinsmoke Sanji" Total_votes="100" Average_rating="8,5" />
+  <OpEpisode Key="803" Rank="40,918" Trend="24" Season="1" Episode="804" Name="East Blue e: Sanji Ketsui no Funade" Total_votes="215" Average_rating="9,2" />
+  <OpEpisode Key="804" Rank="76,201" Trend="2" Season="1" Episode="805" Name="Genkai Shoubu: Luffy to Mugen Biscuit" Total_votes="106" Average_rating="8,5" />
+  <OpEpisode Key="805" Rank="65,324" Trend="4" Season="1" Episode="806" Name="Manpuku no Chikara: Shin Gear Fourth Tan Man!" Total_votes="125" Average_rating="8,8" />
+  <OpEpisode Key="806" Rank="57,178" Trend="2" Season="1" Episode="807" Name="Kanashiki Kettou: Luffy tai Sanji (Zenpen)" Total_votes="169" Average_rating="8,3" />
+  <OpEpisode Key="807" Rank="18,272" Trend="58" Season="1" Episode="808" Name="Kanashiki Kettou: Luffy tai Sanji (Kouhen)" Total_votes="571" Average_rating="9,6" />
+  <OpEpisode Key="808" Rank="72,699" Trend="3" Season="1" Episode="809" Name="Fukushuu no Arashi: Ikari no Gundan Shuurai!" Total_votes="114" Average_rating="8,5" />
+  <OpEpisode Key="809" Rank="71,992" Trend="3" Season="1" Episode="810" Name="Bouken no Owari: Sanji Ketsui no Propose" Total_votes="113" Average_rating="8,6" />
+  <OpEpisode Key="810" Rank="76,202" Trend="3" Season="1" Episode="811" Name="Koko de Matsu: Luffy tai Ikari no Gundan" Total_votes="106" Average_rating="8,5" />
+  <OpEpisode Key="811" Rank="76,203" Trend="3" Season="1" Episode="812" Name="Chateau Sennyuu: Ubae! Road Ponegliff" Total_votes="106" Average_rating="8,5" />
+  <OpEpisode Key="812" Rank="86,388" Trend="3" Season="1" Episode="813" Name="Innnen no Taimen: Luffy to Big Mom!" Total_votes="93" Average_rating="8,2" />
+  <OpEpisode Key="813" Rank="77,832" Trend="3" Season="1" Episode="814" Name="Tamashii no Sakebi: Brook &amp;amp; Pedro Dengeki Sakusen" Total_votes="105" Average_rating="8,4" />
+  <OpEpisode Key="814" Rank="77,061" Trend="3" Season="1" Episode="815" Name="Sayonara: Purin Namida no Ketsui" Total_votes="104" Average_rating="8,5" />
+  <OpEpisode Key="815" Rank="73,681" Trend="3" Season="1" Episode="816" Name="Hidari Me no Innen: Pedro tai Tamago-Danshaku" Total_votes="109" Average_rating="8,6" />
+  <OpEpisode Key="816" Rank="37,535" Trend="21" Season="1" Episode="817" Name="Shikemoku: Sanji no Kekkon Zen'ya" Total_votes="242" Average_rating="9,2" />
+  <OpEpisode Key="817" Rank="71,991" Trend="3" Season="1" Episode="818" Name="Fukutsu no Soul: Brook tai Big Mom" Total_votes="113" Average_rating="8,6" />
+  <OpEpisode Key="818" Rank="73,933" Trend="2" Season="1" Episode="819" Name="Sora no Negai: Germa no Shippaisaku Sanji" Total_votes="111" Average_rating="8,5" />
+  <OpEpisode Key="819" Rank="71,196" Trend="4" Season="1" Episode="820" Name="Sanji no Moto e: Luffy Gyakushuu no Dai Gekisou!" Total_votes="115" Average_rating="8,6" />
+  <OpEpisode Key="820" Rank="82,638" Trend="4" Season="1" Episode="821" Name="Chateau Douran: Luffy Yakusoku no Basho e" Total_votes="100" Average_rating="8,2" />
+  <OpEpisode Key="821" Rank="95,607" Trend="3" Season="1" Episode="822" Name="Wakare no Ketsui: Sanji to Mugiwara Bentou" Total_votes="91" Average_rating="7,6" />
+  <OpEpisode Key="822" Rank="90,969" Trend="2" Season="1" Episode="823" Name="Yonkou no Negaeri: Brook Kyuushutsu Daisakusen!" Total_votes="99" Average_rating="7,6" />
+  <OpEpisode Key="823" Rank="82,946" Trend="4" Season="1" Episode="824" Name="The Rendezvous! Luffy, a One-on-One at His Limit!" Total_votes="102" Average_rating="8,1" />
+  <OpEpisode Key="824" Rank="70,449" Trend="4" Season="1" Episode="825" Name="A Liar! Luffy and Sanji!!" Total_votes="117" Average_rating="8,6" />
+  <OpEpisode Key="825" Rank="86,010" Trend="3" Season="1" Episode="826" Name="Sanji Comes Back! Crash! The Tea Party from Hell!" Total_votes="96" Average_rating="8,1" />
+  <OpEpisode Key="826" Rank="93,893" Trend="4" Season="1" Episode="827" Name="A Secret Meeting! Luffy vs. the Fire Tank Pirates!" Total_votes="94" Average_rating="7,6" />
+  <OpEpisode Key="827" Rank="92,912" Trend="2" Season="1" Episode="828" Name="The Deadly Pact! Luffy &amp;amp; Bege's Allied Forces!" Total_votes="93" Average_rating="7,7" />
+  <OpEpisode Key="828" Rank="98,741" Trend="2" Season="1" Episode="829" Name="Luffy Engages in a Secret Maneuver! The Wedding Full of Consp..." Total_votes="84" Average_rating="7,7" />
+  <OpEpisode Key="829" Rank="84,773" Trend="3" Season="1" Episode="830" Name="The Family Gets Together! The Hellish Tea Party Starts!" Total_votes="96" Average_rating="8,2" />
+  <OpEpisode Key="830" Rank="99,531" Trend="3" Season="1" Episode="831" Name="The Broken Couple! Sanji and Pudding Enter!" Total_votes="85" Average_rating="7,6" />
+  <OpEpisode Key="831" Rank="76,396" Trend="2" Season="1" Episode="832" Name="A Deadly Kiss! The Mission to Assassinate the Emperor Kicks Off!" Total_votes="103" Average_rating="8,6" />
+  <OpEpisode Key="832" Rank="44,896" Trend="16" Season="1" Episode="833" Name="Returning the Sake Cup! The Manly Jimbei Pays His Debt!" Total_votes="194" Average_rating="9,1" />
+  <OpEpisode Key="833" Rank="88,031" Trend="3" Season="1" Episode="834" Name="The Mission Failed?! The Big Mom Pirates Strike Back!" Total_votes="88" Average_rating="8,3" />
+  <OpEpisode Key="834" Rank="88,621" Trend="3" Season="1" Episode="835" Name="Run, Sanji! SOS! Germa 66!" Total_votes="87" Average_rating="8,3" />
+  <OpEpisode Key="835" Rank="106,923" Trend="2" Season="1" Episode="836" Name="Mom's Secret! The Giant's Island Elbaph and a Little Monster!" Total_votes="77" Average_rating="7,5" />
+  <OpEpisode Key="836" Rank="92,995" Trend="2" Season="1" Episode="837" Name="The Birth of Mom! The Day That Carmel Vanished!" Total_votes="84" Average_rating="8,1" />
+  <OpEpisode Key="837" Rank="99,355" Trend="2" Season="1" Episode="838" Name="The Launcher Blasts! The Moment of Big Mom's Assassination!" Total_votes="83" Average_rating="7,7" />
+  <OpEpisode Key="838" Rank="101,605" Trend="2" Season="1" Episode="839" Name="The Evil Army! Transform! Germa 66!" Total_votes="82" Average_rating="7,6" />
+  <OpEpisode Key="839" Rank="104,015" Trend="3" Season="1" Episode="840" Name="Cutting the Father-Son Relationship! Sanji and Judge!" Total_votes="83" Average_rating="7,4" />
+  <OpEpisode Key="840" Rank="95,723" Trend="3" Season="1" Episode="841" Name="Escape From the Tea Party! Luffy vs. Big Mom!" Total_votes="82" Average_rating="8" />
+  <OpEpisode Key="841" Rank="99,926" Trend="2" Season="1" Episode="842" Name="The Execution Begins! Luffy's Allied Forces Are Annihilated?!&amp;quot;" Total_votes="78" Average_rating="7,9" />
+  <OpEpisode Key="842" Rank="112,998" Trend="2" Season="1" Episode="843" Name="The Chateau Collapses! The Straw Hat's Great Escape Begins!" Total_votes="70" Average_rating="7,5" />
+  <OpEpisode Key="843" Rank="112,204" Trend="3" Season="1" Episode="844" Name="The Spear of Elbaph! Onslaught! The Flying Big Mom!" Total_votes="77" Average_rating="7,2" />
+  <OpEpisode Key="844" Rank="106,098" Trend="2" Season="1" Episode="845" Name="Pudding's Determination! Ablaze! The Seducing Woods!" Total_votes="76" Average_rating="7,6" />
+  <OpEpisode Key="845" Rank="106,099" Trend="3" Season="1" Episode="846" Name="A Lightning Counterattack! Nami and Zeus the Thundercloud!" Total_votes="76" Average_rating="7,6" />
+  <OpEpisode Key="846" Rank="104,539" Trend="2" Season="1" Episode="847" Name="A Coincidental Reunion! Sanji and the Lovestruck Evil Pudding!" Total_votes="78" Average_rating="7,6" />
+  <OpEpisode Key="847" Rank="107,078" Trend="3" Season="1" Episode="848" Name="Save the Sunny! Fighting Bravely! Chopper and Brook!" Total_votes="79" Average_rating="7,4" />
+  <OpEpisode Key="848" Rank="60,994" Trend="8" Season="1" Episode="849" Name="Before the Dawn! Pedro, the Captain of the Guardians!" Total_votes="138" Average_rating="8,8" />
+  <OpEpisode Key="849" Rank="56,863" Trend="10" Season="1" Episode="850" Name="I'll Be Back! Luffy, Deadly Departure!" Total_votes="148" Average_rating="8,9" />
+  <OpEpisode Key="850" Rank="87,545" Trend="1" Season="1" Episode="851" Name="The Man with a Bounty of Billion! The Strongest Sweet General..." Total_votes="91" Average_rating="8,2" />
+  <OpEpisode Key="851" Rank="84,586" Trend="2" Season="1" Episode="852" Name="A Hard Battle Starts! Luffy vs. Katakuri!" Total_votes="94" Average_rating="8,3" />
+  <OpEpisode Key="852" Rank="97,320" Trend="1" Season="1" Episode="853" Name="The Green Room! An Invincible Helmsman, Jimbei!" Total_votes="86" Average_rating="7,7" />
+  <OpEpisode Key="853" Rank="89,418" Trend="1" Season="1" Episode="854" Name="The Threat of the Mole! Luffy's Silent Fight!" Total_votes="90" Average_rating="8,1" />
+  <OpEpisode Key="854" Rank="93,882" Trend="1" Season="1" Episode="855" Name="The End of the Deadly Battle?! Katakuri's Awakening in Anger!" Total_votes="87" Average_rating="7,9" />
+  <OpEpisode Key="855" Rank="51,718" Trend="8" Season="1" Episode="856" Name="The Forbidden Secret! Katakuri's Merienda!" Total_votes="168" Average_rating="8,9" />
+  <OpEpisode Key="856" Rank="90,671" Trend="2" Season="1" Episode="857" Name="Luffy Fights Back! The Invincible Katakuri's Weak Point!" Total_votes="90" Average_rating="8" />
+  <OpEpisode Key="857" Rank="101,800" Trend="1" Season="1" Episode="858" Name="Another Crisis! Gear Four vs. Unstoppable Donuts!" Total_votes="84" Average_rating="7,5" />
+  <OpEpisode Key="858" Rank="110,526" Trend="1" Season="1" Episode="859" Name="The Rebellious Daughter, Chiffon! Sanji's Big Plan for Transp..." Total_votes="79" Average_rating="7,2" />
+  <OpEpisode Key="859" Rank="103,867" Trend="1" Season="1" Episode="860" Name="The Cake Sank?! Sanji and Bege's Getaway Battle!" Total_votes="81" Average_rating="7,5" />
+  <OpEpisode Key="860" Rank="110,308" Trend="1" Season="1" Episode="861" Name="The Cake Sank?! Sanji and Bege's Getaway Battle!" Total_votes="77" Average_rating="7,3" />
+  <OpEpisode Key="861" Rank="72,698" Trend="4" Season="1" Episode="862" Name="Sulong! Carrot's Big Mystic Transformation!" Total_votes="114" Average_rating="8,5" />
+  <OpEpisode Key="862" Rank="103,868" Trend="1" Season="1" Episode="863" Name="Break Through! The Straw Hat's Mighty Sea Battle!" Total_votes="81" Average_rating="7,5" />
+  <OpEpisode Key="863" Rank="96,708" Trend="1" Season="1" Episode="864" Name="Finally Clash - Yonko VS Straw Hat Crew" Total_votes="87" Average_rating="7,7" />
+  <OpEpisode Key="864" Rank="96,569" Trend="1" Season="1" Episode="865" Name="Dark King's Direct Precepts! The Battle Against Katakuri Turn..." Total_votes="85" Average_rating="7,8" />
+  <OpEpisode Key="865" Rank="103,303" Trend="1" Season="1" Episode="866" Name="Finally He Returns! Sanji, the Man Who'll Stop the Emperor of..." Total_votes="84" Average_rating="7,4" />
+  <OpEpisode Key="866" Rank="81,376" Trend="3" Season="1" Episode="867" Name="Lurking in the Darkness! An Assassin Targeting Luffy!" Total_votes="105" Average_rating="8,1" />
+  <OpEpisode Key="867" Rank="37,048" Trend="22" Season="1" Episode="868" Name="One Man's Determination! Katakuri's Deadly Big Fight!" Total_votes="252" Average_rating="9,1" />
+  <OpEpisode Key="868" Rank="61,971" Trend="6" Season="1" Episode="869" Name="Wake Up! The Color of Observation Able to Top the Strongest!" Total_votes="135" Average_rating="8,8" />
+  <OpEpisode Key="869" Rank="15,729" Trend="80" Season="1" Episode="870" Name="A Fist of Divine Speed! Another Gear Four Application Activated!" Total_votes="683" Average_rating="9,5" />
+  <OpEpisode Key="870" Rank="56,862" Trend="12" Season="1" Episode="871" Name="Finally Concluded - An Outcome of the Fierce Battle with Kata..." Total_votes="148" Average_rating="8,9" />
+  <OpEpisode Key="871" Rank="88,272" Trend="1" Season="1" Episode="872" Name="A Desperate Situation! The Iron-Tight Entrapment of Luffy!" Total_votes="92" Average_rating="8,1" />
+  <OpEpisode Key="872" Rank="86,319" Trend="1" Season="1" Episode="873" Name="Pulling Back from the Brink! The Formidable Reinforcements - ..." Total_votes="91" Average_rating="8,3" />
+  <OpEpisode Key="873" Rank="96,457" Trend="1" Season="1" Episode="874" Name="The Last Hope! The Sun Pirates Emerge!" Total_votes="83" Average_rating="7,9" />
+  <OpEpisode Key="874" Rank="87,269" Trend="3" Season="1" Episode="875" Name="A Fascinating Taste - Sanji's Cake of Happiness" Total_votes="96" Average_rating="8" />
+  <OpEpisode Key="875" Rank="84,584" Trend="1" Season="1" Episode="876" Name="The Man of Humanity and Justice - Jinbe, a Desperate Massive ..." Total_votes="94" Average_rating="8,3" />
+  <OpEpisode Key="876" Rank="38,952" Trend="20" Season="1" Episode="877" Name="Time for Farewell! Pudding's One Last Request!" Total_votes="235" Average_rating="9,1" />
+  <OpEpisode Key="877" Rank="81,085" Trend="1" Season="1" Episode="878" Name="The World in Shock! The Fifth Emperor of the Sea Arrives!" Total_votes="114" Average_rating="7,8" />
+  <OpEpisode Key="878" Rank="99,319" Trend="1" Season="1" Episode="879" Name="To the Levely! Gathering of the Straw Hat Allies!" Total_votes="95" Average_rating="7,2" />
+  <OpEpisode Key="879" Rank="91,492" Trend="3" Season="1" Episode="880" Name="Sabo Goes into Action! All the Captains of the Revolutionary ..." Total_votes="98" Average_rating="7,6" />
+  <OpEpisode Key="880" Rank="116,089" Trend="5" Season="1" Episode="881" Name="Going into Action! The Implacable New Admiral of the Fleet - ..." Total_votes="120" Average_rating="5,6" />
+  <OpEpisode Key="881" Rank="110,806" Trend="3" Season="1" Episode="882" Name="The Paramount War! The Inherited Will of the King of the Pira..." Total_votes="113" Average_rating="6" />
+  <OpEpisode Key="882" Rank="110,797" Trend="2" Season="1" Episode="883" Name="One Step Ahead of the Dream - Shirahoshi's Path to the Sun!" Total_votes="106" Average_rating="6,2" />
+  <OpEpisode Key="883" Rank="108,150" Trend="2" Season="1" Episode="884" Name="I Miss Him! Vivi and Rebecca's Sentiments!" Total_votes="107" Average_rating="6,3" />
+  <OpEpisode Key="884" Rank="92,212" Trend="2" Season="1" Episode="885" Name="In the Dark Recesses of the Holyland! A Mysterious Giant Stra..." Total_votes="114" Average_rating="7" />
+  <OpEpisode Key="885" Rank="93,460" Trend="3" Season="1" Episode="886" Name="The Uproarious Holy Land - Princess Shirahoshi is being targe..." Total_votes="118" Average_rating="6,8" />
+  <OpEpisode Key="886" Rank="66,430" Trend="3" Season="1" Episode="887" Name="On the Verge - The Two Yonko Targeting Luffy" Total_votes="144" Average_rating="8,1" />
+  <OpEpisode Key="887" Rank="78,078" Trend="3" Season="1" Episode="888" Name="Sabo Gets Angry - Tragedy of the Revolutionary Army Officer Kuma" Total_votes="121" Average_rating="7,8" />
+  <OpEpisode Key="888" Rank="88,321" Trend="3" Season="1" Episode="889" Name="Finally, It Starts! The Conspiracy-filled Reverie!" Total_votes="110" Average_rating="7,4" />
+  <OpEpisode Key="889" Rank="99,853" Trend="1" Season="1" Episode="890" Name="Marco! The Keeper of Whitebeard's Last Memento!" Total_votes="94" Average_rating="7,2" />
+  <OpEpisode Key="890" Rank="57,213" Trend="3" Season="1" Episode="891" Name="Climbing Up a Waterfall! A Great Journey Through the Land of ..." Total_votes="161" Average_rating="8,5" />
+  <OpEpisode Key="891" Rank="29,288" Trend="29" Season="1" Episode="892" Name="Wano Country! To the Land of Dancing Sakura and Samurai" Total_votes="340" Average_rating="9,2" />
+  <OpEpisode Key="892" Rank="51,888" Trend="5" Season="1" Episode="893" Name="Otama Appears! Luffy vs. Kaido's Army!" Total_votes="171" Average_rating="8,8" />
+  <OpEpisode Key="893" Rank="51,654" Trend="6" Season="1" Episode="894" Name="He'll Come! The Legend of Ace in the Land of Wano!" Total_votes="172" Average_rating="8,8" />
+  <OpEpisode Key="894" Rank="117,329" Trend="-" Season="1" Episode="895" Name="Side Story! The World's Greatest Bounty Hunter, Cidre!" Total_votes="96" Average_rating="6,2" />
+  <OpEpisode Key="895" Rank="126,450" Trend="1" Season="1" Episode="896" Name="Side Story! Clash! Luffy vs. the King of Carbonation!" Total_votes="91" Average_rating="6" />
+  <OpEpisode Key="896" Rank="61,848" Trend="3" Season="1" Episode="897" Name="Save Otama! Straw Hat, Bounding through the Wasteland!" Total_votes="145" Average_rating="8,5" />
+  <OpEpisode Key="897" Rank="66,406" Trend="3" Season="1" Episode="898" Name="The Headliner! Hawkings the Magician Appears!" Total_votes="134" Average_rating="8,4" />
+  <OpEpisode Key="898" Rank="48,195" Trend="12" Season="1" Episode="899" Name="Defeat is Inevitable! The Strawman's Fierce Attack!" Total_votes="185" Average_rating="8,9" />
+  <OpEpisode Key="899" Rank="71,027" Trend="4" Season="1" Episode="900" Name="The Greatest Day of My Life! Otama and Her Sweet Red-bean Soup!" Total_votes="121" Average_rating="8,4" />
+  <OpEpisode Key="900" Rank="87,971" Trend="2" Season="1" Episode="901" Name="Entering Enemy Territory! The Protagonists Spread into the To..." Total_votes="105" Average_rating="7,6" />
+  <OpEpisode Key="901" Rank="89,525" Trend="2" Season="1" Episode="902" Name="The Yokozuna Appears! The Invincible Urashima Goes After Okiku!" Total_votes="102" Average_rating="7,6" />
+  <OpEpisode Key="902" Rank="96,899" Trend="3" Season="1" Episode="903" Name="A Climactic Sumo Battle! Straw Hat vs. the Strongest Ever Yok..." Total_votes="118" Average_rating="6,6" />
+  <OpEpisode Key="903" Rank="99,060" Trend="2" Season="1" Episode="904" Name="Luffy Rages! Rescue Otama from Danger!" Total_votes="107" Average_rating="6,8" />
+  <OpEpisode Key="904" Rank="74,034" Trend="5" Season="1" Episode="905" Name="Fighting for Otama! Fight against Holdem!" Total_votes="119" Average_rating="8,2" />
+  <OpEpisode Key="905" Rank="76,268" Trend="6" Season="1" Episode="906" Name="Duel! The Magician and the Surgeon of Death!" Total_votes="111" Average_rating="8,3" />
+  <OpEpisode Key="906" Rank="108,149" Trend="4" Season="1" Episode="907" Name="Romance Dawn" Total_votes="107" Average_rating="6,3" />
+  <OpEpisode Key="907" Rank="74,994" Trend="6" Season="1" Episode="908" Name="The Coming of the Treasure Ship! Luffytaro Returns the Favor!" Total_votes="114" Average_rating="8,3" />
+  <OpEpisode Key="908" Rank="61,121" Trend="5" Season="1" Episode="909" Name="Nazo no Bohyo - Oden Joseki de no Saikai!" Total_votes="144" Average_rating="8,6" />
+  <OpEpisode Key="909" Rank="70,223" Trend="6" Season="1" Episode="910" Name="A Legendary Samurai! The Man Who Roger Admired!" Total_votes="123" Average_rating="8,4" />
+  <OpEpisode Key="910" Rank="82,536" Trend="3" Season="1" Episode="911" Name="Bringing Down the Emperor of the Sea! A Secret Raid Operation..." Total_votes="108" Average_rating="7,9" />
+  <OpEpisode Key="911" Rank="38,386" Trend="21" Season="1" Episode="912" Name="The Strongest Man in the World! Shutenmaru, the Thieves Briga..." Total_votes="245" Average_rating="9" />
+  <OpEpisode Key="912" Rank="44,651" Trend="14" Season="1" Episode="913" Name="Everyone is Annihilated! Kaido's Furious Blast Breath!" Total_votes="209" Average_rating="8,8" />
+  <OpEpisode Key="913" Rank="26,154" Trend="32" Season="1" Episode="914" Name="Finally Clashing! The Ferocious Luffy vs. Kaido!" Total_votes="397" Average_rating="9,2" />
+  <OpEpisode Key="914" Rank="30,998" Trend="21" Season="1" Episode="915" Name="Hakai-teki! Ichigeki Hissatsu no Raimei Hakke!" Total_votes="321" Average_rating="9,1" />
+  <OpEpisode Key="915" Rank="52,460" Trend="8" Season="1" Episode="916" Name="Iki-jigoku! Rufi Kutsujoku no Dai Tankutsu-jo" Total_votes="185" Average_rating="8,4" />
+  <OpEpisode Key="916" Rank="41,065" Trend="16" Season="1" Episode="917" Name="The Holyland in Tumult! Emperor of the Sea Blackbeard Cackles!" Total_votes="234" Average_rating="8,8" />
+  <OpEpisode Key="917" Rank="76,819" Trend="6" Season="1" Episode="918" Name="Ugokidasu - Dato Kaido Daikeikaku!" Total_votes="121" Average_rating="7,9" />
+  <OpEpisode Key="918" Rank="78,461" Trend="6" Season="1" Episode="919" Name="Rampage! The Prisoners - Luffy and Kid!" Total_votes="117" Average_rating="7,9" />
+  <OpEpisode Key="919" Rank="82,824" Trend="7" Season="1" Episode="920" Name="Dai Hyoban! Sanji no Ohako Soba!" Total_votes="116" Average_rating="7,6" />
+  <OpEpisode Key="920" Rank="90,380" Trend="6" Season="1" Episode="921" Name="Goka Kenran - Wano Kuni Ichi no Bijo: Komurasaki" Total_votes="129" Average_rating="6,7" />
+  <OpEpisode Key="921" Rank="76,454" Trend="5" Season="1" Episode="922" Name="A Tale of Chivalry! Zoro and Tonoyasu's Little Trip!" Total_votes="122" Average_rating="7,9" />
+  <OpEpisode Key="922" Rank="74,793" Trend="6" Season="1" Episode="923" Name="A State of Emergency! Big Mom Closes in!" Total_votes="120" Average_rating="8,1" />
+  <OpEpisode Key="923" Rank="52,131" Trend="11" Season="1" Episode="924" Name="The Capital in an Uproar! Another Assassin Targets Sanji!" Total_votes="170" Average_rating="8,8" />
+  <OpEpisode Key="924" Rank="56,513" Trend="6" Season="1" Episode="925" Name="Dashing! The Righteous Soba Mask!" Total_votes="160" Average_rating="8,6" />
+  <OpEpisode Key="925" Rank="83,423" Trend="7" Season="1" Episode="926" Name="Zettai Zetsumei - Kyoi no Orochi Oniwabanshu" Total_votes="109" Average_rating="7,8" />
+  <OpEpisode Key="926" Rank="91,196" Trend="5" Season="1" Episode="927" Name="Shura-jo! Osoreru Daija Shogun Orochi" Total_votes="110" Average_rating="7,2" />
+  <OpEpisode Key="927" Rank="90,228" Trend="6" Season="1" Episode="928" Name="The Flower Falls! The Final Moment of the Most Beautiful Woma..." Total_votes="112" Average_rating="7,2" />
+  <OpEpisode Key="928" Rank="93,158" Trend="7" Season="1" Episode="929" Name="The Bond Between Prisoners! Luffy and Old Man Hyo!" Total_votes="109" Average_rating="7,1" />
+  <OpEpisode Key="929" Rank="90,008" Trend="6" Season="1" Episode="930" Name="A Lead Performer! Queen the Plague Emerges!" Total_votes="101" Average_rating="7,6" />
+  <OpEpisode Key="930" Rank="98,178" Trend="8" Season="1" Episode="931" Name="Goes up. Luffy's Desperate Escape!" Total_votes="97" Average_rating="7,2" />
+  <OpEpisode Key="931" Rank="86,654" Trend="5" Season="1" Episode="932" Name="Dead or Alive! Queen's Sumo Inferno!" Total_votes="105" Average_rating="7,7" />
+  <OpEpisode Key="932" Rank="63,983" Trend="11" Season="1" Episode="933" Name="Gyukimaru! Zoro Fights a Duel on Bandit's Bridge" Total_votes="145" Average_rating="8,3" />
+  <OpEpisode Key="933" Rank="33,972" Trend="40" Season="1" Episode="934" Name="A Big Turnover! The Three-Sword Style Overcomes Danger!" Total_votes="297" Average_rating="8,9" />
+  <OpEpisode Key="934" Rank="85,807" Trend="7" Season="1" Episode="935" Name="Zoro, Stunned! The Shocking Identity of the Mysterious Woman!" Total_votes="104" Average_rating="7,8" />
+  <OpEpisode Key="935" Rank="90,354" Trend="8" Season="1" Episode="936" Name="Get the Hang of It! The Land of Wano's Haki - Ryuo!" Total_votes="103" Average_rating="7,5" />
+  <OpEpisode Key="936" Rank="95,963" Trend="5" Season="1" Episode="937" Name="Tonoyasu! Ebisu's most beloved!" Total_votes="93" Average_rating="7,5" />
+  <OpEpisode Key="937" Rank="98,177" Trend="5" Season="1" Episode="938" Name="Shaking the nation. The identity of Ushimitsu Kozo" Total_votes="97" Average_rating="7,2" />
+  <OpEpisode Key="938" Rank="74,401" Trend="7" Season="1" Episode="939" Name="The Straw Hats are running! Save the captive Tonoyasu" Total_votes="121" Average_rating="8,1" />
+  <OpEpisode Key="939" Rank="43,705" Trend="14" Season="1" Episode="940" Name="Zoro's Fury! The Truth About the Smile!" Total_votes="220" Average_rating="8,7" />
+  <OpEpisode Key="940" Rank="63,835" Trend="8" Season="1" Episode="941" Name="Toko's Tears! Orochi's Pitiless Bullets!" Total_votes="153" Average_rating="8,1" />
+  <OpEpisode Key="941" Rank="65,941" Trend="7" Season="1" Episode="942" Name="The Straw Hats Step In! An Uproarious Deadly Battle at the Ex..." Total_votes="142" Average_rating="8,2" />
+  <OpEpisode Key="942" Rank="74,788" Trend="7" Season="1" Episode="943" Name="Luffy's Determination! Win Through the Sumo Inferno!" Total_votes="120" Average_rating="8,1" />
+  <OpEpisode Key="943" Rank="87,020" Trend="6" Season="1" Episode="944" Name="The Coming of the Storm! Big Mom's Great Rampage!" Total_votes="107" Average_rating="7,6" />
+  <OpEpisode Key="944" Rank="60,589" Trend="6" Season="1" Episode="945" Name="A Grudge Over Oshiruko - Luffy Gets into a Desperate Situation" Total_votes="153" Average_rating="8,4" />
+  <OpEpisode Key="945" Rank="89,320" Trend="6" Season="1" Episode="946" Name="Stop the Emperor of the Sea! Queen's Secret Plan!" Total_votes="111" Average_rating="7,3" />
+  <OpEpisode Key="946" Rank="89,331" Trend="6" Season="1" Episode="947" Name="The Ultimate Weapon! Excite Bullets Aimed at Luffy" Total_votes="108" Average_rating="7,4" />
+  <OpEpisode Key="947" Rank="79,090" Trend="9" Season="1" Episode="948" Name="Start Fighting Back! Luffy and the Red Scabbard Samurai!" Total_votes="125" Average_rating="7,6" />
+  <OpEpisode Key="948" Rank="50,714" Trend="16" Season="1" Episode="949" Name="We're Here to Win! Luffy's Desperate Scream!" Total_votes="189" Average_rating="8,5" />
+  <OpEpisode Key="949" Rank="49,737" Trend="15" Season="1" Episode="950" Name="Warriors' Dream! Luffy's Conquer of Udon!" Total_votes="199" Average_rating="8,4" />
+  <OpEpisode Key="950" Rank="59,574" Trend="15" Season="1" Episode="951" Name="Orochi's Pursuers! Ninja Army Corps vs. Zoro" Total_votes="177" Average_rating="7,9" />
+  <OpEpisode Key="951" Rank="54,156" Trend="16" Season="1" Episode="952" Name="Tension Rises in Onigashima! Two Emperors of the Sea Meet?!" Total_votes="191" Average_rating="8,1" />
+  <OpEpisode Key="952" Rank="45,193" Trend="28" Season="1" Episode="953" Name="Hiyori's Confession! Reunion on Oihagi Bridge" Total_votes="249" Average_rating="8" />
+  <OpEpisode Key="953" Rank="41,448" Trend="26" Season="1" Episode="954" Name="Its Name is Enma! Oden's Meito!" Total_votes="302" Average_rating="7,7" />
+  <OpEpisode Key="954" Rank="35,342" Trend="44" Season="1" Episode="955" Name="&amp;quot;A New Alliance?! Kaido's Army Gathers&amp;quot;" Total_votes="407" Average_rating="7,4" />
+  <OpEpisode Key="955" Rank="33,715" Trend="75" Season="1" Episode="956" Name="Ticking Down to the Great Battle! The Straw Hats Go into Comb..." Total_votes="353" Average_rating="8,2" />
+  <OpEpisode Key="956" Rank="2,940" Trend="964" Season="1" Episode="957" Name="Big News! The Warlords Attack Incident" Total_votes="2,862" Average_rating="9,1" />
+  <OpEpisode Key="957" Rank="14,751" Trend="-" Season="1" Episode="958" Name="&amp;quot;The Legendary Battle! Garp and Roger&amp;quot;" Total_votes="746" Average_rating="9,4" />
+</OpEpisodes>
